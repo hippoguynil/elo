@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season,Division
+05/08/17,Bradford,Blackpool,2,1,H,1718,E2
+05/08/17,Bury,Walsall,1,0,H,1718,E2
+05/08/17,Charlton,Bristol Rvs,1,0,H,1718,E2
+05/08/17,Doncaster,Gillingham,0,0,D,1718,E2
+05/08/17,Fleetwood Town,Rotherham,2,0,H,1718,E2
+05/08/17,Milton Keynes Dons,Wigan,0,1,A,1718,E2
+05/08/17,Oldham,Oxford,0,2,A,1718,E2
+05/08/17,Peterboro,Plymouth,2,1,H,1718,E2
+05/08/17,Portsmouth,Rochdale,2,0,H,1718,E2
+05/08/17,Scunthorpe,AFC Wimbledon,1,1,D,1718,E2
+05/08/17,Shrewsbury,Northampton,1,0,H,1718,E2
+05/08/17,Southend,Blackburn,2,1,H,1718,E2
+12/08/17,AFC Wimbledon,Shrewsbury,0,1,A,1718,E2
+12/08/17,Blackburn,Doncaster,1,3,A,1718,E2
+12/08/17,Blackpool,Milton Keynes Dons,1,0,H,1718,E2
+12/08/17,Bristol Rvs,Peterboro,1,4,A,1718,E2
+12/08/17,Gillingham,Bradford,0,1,A,1718,E2
+12/08/17,Northampton,Fleetwood Town,0,1,A,1718,E2
+12/08/17,Oxford,Portsmouth,3,0,H,1718,E2
+12/08/17,Plymouth,Charlton,2,0,H,1718,E2
+12/08/17,Rochdale,Scunthorpe,1,1,D,1718,E2
+12/08/17,Rotherham,Southend,5,0,H,1718,E2
+12/08/17,Walsall,Oldham,2,1,H,1718,E2
+13/08/17,Wigan,Bury,4,1,H,1718,E2
+19/08/17,Bradford,Blackburn,0,1,A,1718,E2
+19/08/17,Bury,Bristol Rvs,2,3,A,1718,E2
+19/08/17,Charlton,Northampton,4,1,H,1718,E2
+19/08/17,Doncaster,Blackpool,3,3,D,1718,E2
+19/08/17,Fleetwood Town,AFC Wimbledon,2,0,H,1718,E2
+19/08/17,Milton Keynes Dons,Gillingham,1,0,H,1718,E2
+19/08/17,Oldham,Wigan,0,2,A,1718,E2
+19/08/17,Peterboro,Rotherham,2,1,H,1718,E2
+19/08/17,Portsmouth,Walsall,1,1,D,1718,E2
+19/08/17,Scunthorpe,Oxford,1,0,H,1718,E2
+19/08/17,Shrewsbury,Rochdale,3,2,H,1718,E2
+19/08/17,Southend,Plymouth,1,1,D,1718,E2
+26/08/17,AFC Wimbledon,Doncaster,2,0,H,1718,E2
+26/08/17,Blackburn,Milton Keynes Dons,4,1,H,1718,E2
+26/08/17,Blackpool,Oldham,2,1,H,1718,E2
+26/08/17,Bristol Rvs,Fleetwood Town,3,1,H,1718,E2
+26/08/17,Gillingham,Southend,3,3,D,1718,E2
+26/08/17,Northampton,Peterboro,1,4,A,1718,E2
+26/08/17,Oxford,Shrewsbury,1,1,D,1718,E2
+26/08/17,Plymouth,Scunthorpe,0,4,A,1718,E2
+26/08/17,Rochdale,Bury,0,0,D,1718,E2
+26/08/17,Rotherham,Charlton,0,2,A,1718,E2
+26/08/17,Walsall,Bradford,3,3,D,1718,E2
+26/08/17,Wigan,Portsmouth,1,1,D,1718,E2
+02/09/17,Blackpool,AFC Wimbledon,1,0,H,1718,E2
+02/09/17,Bradford,Bristol Rvs,3,1,H,1718,E2
+02/09/17,Bury,Scunthorpe,0,1,A,1718,E2
+02/09/17,Doncaster,Peterboro,0,0,D,1718,E2
+02/09/17,Gillingham,Shrewsbury,1,2,A,1718,E2
+02/09/17,Milton Keynes Dons,Oxford,1,1,D,1718,E2
+02/09/17,Oldham,Charlton,3,4,A,1718,E2
+02/09/17,Southend,Rochdale,0,0,D,1718,E2
+02/09/17,Walsall,Plymouth,2,1,H,1718,E2
+03/09/17,Portsmouth,Rotherham,0,1,A,1718,E2
+09/09/17,AFC Wimbledon,Portsmouth,0,2,A,1718,E2
+09/09/17,Bristol Rvs,Walsall,2,1,H,1718,E2
+09/09/17,Charlton,Southend,2,1,H,1718,E2
+09/09/17,Fleetwood Town,Oldham,2,2,D,1718,E2
+09/09/17,Northampton,Doncaster,1,0,H,1718,E2
+09/09/17,Oxford,Gillingham,3,0,H,1718,E2
+09/09/17,Peterboro,Bradford,1,3,A,1718,E2
+09/09/17,Plymouth,Milton Keynes Dons,0,1,A,1718,E2
+09/09/17,Rochdale,Blackburn,0,3,A,1718,E2
+09/09/17,Rotherham,Bury,3,2,H,1718,E2
+09/09/17,Scunthorpe,Blackpool,0,0,D,1718,E2
+09/09/17,Shrewsbury,Wigan,1,0,H,1718,E2
+12/09/17,AFC Wimbledon,Gillingham,1,1,D,1718,E2
+12/09/17,Bristol Rvs,Oldham,2,3,A,1718,E2
+12/09/17,Charlton,Wigan,0,3,A,1718,E2
+12/09/17,Fleetwood Town,Bury,3,2,H,1718,E2
+12/09/17,Northampton,Portsmouth,3,1,H,1718,E2
+12/09/17,Oxford,Bradford,2,2,D,1718,E2
+12/09/17,Peterboro,Milton Keynes Dons,2,0,H,1718,E2
+12/09/17,Plymouth,Blackpool,1,3,A,1718,E2
+12/09/17,Rochdale,Doncaster,2,1,H,1718,E2
+12/09/17,Rotherham,Walsall,5,1,H,1718,E2
+12/09/17,Scunthorpe,Blackburn,0,1,A,1718,E2
+12/09/17,Shrewsbury,Southend,1,0,H,1718,E2
+16/09/17,Blackburn,AFC Wimbledon,0,1,A,1718,E2
+16/09/17,Blackpool,Oxford,3,1,H,1718,E2
+16/09/17,Bradford,Rotherham,1,0,H,1718,E2
+16/09/17,Bury,Plymouth,0,0,D,1718,E2
+16/09/17,Gillingham,Charlton,1,0,H,1718,E2
+16/09/17,Milton Keynes Dons,Rochdale,3,2,H,1718,E2
+16/09/17,Oldham,Shrewsbury,1,2,A,1718,E2
+16/09/17,Portsmouth,Fleetwood Town,4,1,H,1718,E2
+16/09/17,Southend,Northampton,2,2,D,1718,E2
+16/09/17,Walsall,Peterboro,1,1,D,1718,E2
+16/09/17,Wigan,Bristol Rvs,3,0,H,1718,E2
+17/09/17,Doncaster,Scunthorpe,0,1,A,1718,E2
+19/09/17,Wigan,Northampton,1,0,H,1718,E2
+22/09/17,AFC Wimbledon,Milton Keynes Dons,0,2,A,1718,E2
+23/09/17,Bristol Rvs,Blackpool,3,1,H,1718,E2
+23/09/17,Charlton,Bury,1,1,D,1718,E2
+23/09/17,Fleetwood Town,Southend,2,4,A,1718,E2
+23/09/17,Northampton,Bradford,0,1,A,1718,E2
+23/09/17,Oxford,Walsall,1,2,A,1718,E2
+23/09/17,Peterboro,Wigan,3,2,H,1718,E2
+23/09/17,Plymouth,Doncaster,0,3,A,1718,E2
+23/09/17,Rochdale,Gillingham,3,0,H,1718,E2
+23/09/17,Rotherham,Oldham,5,1,H,1718,E2
+23/09/17,Scunthorpe,Portsmouth,2,0,H,1718,E2
+23/09/17,Shrewsbury,Blackburn,1,1,D,1718,E2
+26/09/17,Blackburn,Rotherham,2,0,H,1718,E2
+26/09/17,Blackpool,Rochdale,0,0,D,1718,E2
+26/09/17,Bradford,Fleetwood Town,0,3,A,1718,E2
+26/09/17,Bury,Oxford,3,0,H,1718,E2
+26/09/17,Doncaster,Shrewsbury,1,2,A,1718,E2
+26/09/17,Gillingham,Scunthorpe,0,0,D,1718,E2
+26/09/17,Milton Keynes Dons,Northampton,0,0,D,1718,E2
+26/09/17,Oldham,Peterboro,3,2,H,1718,E2
+26/09/17,Portsmouth,Bristol Rvs,3,0,H,1718,E2
+26/09/17,Southend,AFC Wimbledon,1,0,H,1718,E2
+26/09/17,Walsall,Charlton,2,2,D,1718,E2
+26/09/17,Wigan,Plymouth,1,0,H,1718,E2
+30/09/17,AFC Wimbledon,Rochdale,0,0,D,1718,E2
+30/09/17,Blackburn,Gillingham,1,0,H,1718,E2
+30/09/17,Bradford,Doncaster,2,0,H,1718,E2
+30/09/17,Bristol Rvs,Plymouth,2,1,H,1718,E2
+30/09/17,Bury,Milton Keynes Dons,0,2,A,1718,E2
+30/09/17,Fleetwood Town,Charlton,1,3,A,1718,E2
+30/09/17,Peterboro,Oxford,1,4,A,1718,E2
+30/09/17,Portsmouth,Oldham,1,2,A,1718,E2
+30/09/17,Rotherham,Northampton,1,0,H,1718,E2
+30/09/17,Shrewsbury,Scunthorpe,2,0,H,1718,E2
+30/09/17,Southend,Blackpool,2,1,H,1718,E2
+30/09/17,Wigan,Walsall,2,0,H,1718,E2
+07/10/17,Doncaster,Southend,4,1,H,1718,E2
+07/10/17,Milton Keynes Dons,Bradford,1,4,A,1718,E2
+07/10/17,Northampton,Bristol Rvs,0,6,A,1718,E2
+07/10/17,Oxford,AFC Wimbledon,3,0,H,1718,E2
+07/10/17,Plymouth,Fleetwood Town,1,2,A,1718,E2
+07/10/17,Rochdale,Rotherham,0,1,A,1718,E2
+07/10/17,Scunthorpe,Wigan,1,2,A,1718,E2
+07/10/17,Walsall,Shrewsbury,1,1,D,1718,E2
+08/10/17,Gillingham,Portsmouth,0,1,A,1718,E2
+14/10/17,Bristol Rvs,Oxford,0,1,A,1718,E2
+14/10/17,Bury,Bradford,3,1,H,1718,E2
+14/10/17,Charlton,Doncaster,1,0,H,1718,E2
+14/10/17,Fleetwood Town,Rochdale,2,2,D,1718,E2
+14/10/17,Northampton,AFC Wimbledon,0,1,A,1718,E2
+14/10/17,Oldham,Blackburn,1,0,H,1718,E2
+14/10/17,Peterboro,Gillingham,0,1,A,1718,E2
+14/10/17,Plymouth,Shrewsbury,1,1,D,1718,E2
+14/10/17,Portsmouth,Milton Keynes Dons,2,0,H,1718,E2
+14/10/17,Rotherham,Scunthorpe,2,0,H,1718,E2
+14/10/17,Walsall,Blackpool,1,1,D,1718,E2
+14/10/17,Wigan,Southend,3,0,H,1718,E2
+17/10/17,AFC Wimbledon,Rotherham,3,1,H,1718,E2
+17/10/17,Blackburn,Plymouth,1,1,D,1718,E2
+17/10/17,Blackpool,Bury,2,1,H,1718,E2
+17/10/17,Bradford,Oldham,1,1,D,1718,E2
+17/10/17,Doncaster,Portsmouth,2,1,H,1718,E2
+17/10/17,Gillingham,Wigan,1,1,D,1718,E2
+17/10/17,Milton Keynes Dons,Walsall,1,1,D,1718,E2
+17/10/17,Oxford,Charlton,1,1,D,1718,E2
+17/10/17,Rochdale,Northampton,2,2,D,1718,E2
+17/10/17,Scunthorpe,Fleetwood Town,1,1,D,1718,E2
+17/10/17,Shrewsbury,Bristol Rvs,4,0,H,1718,E2
+17/10/17,Southend,Peterboro,1,1,D,1718,E2
+21/10/17,AFC Wimbledon,Plymouth,0,1,A,1718,E2
+21/10/17,Blackburn,Portsmouth,3,0,H,1718,E2
+21/10/17,Blackpool,Wigan,1,3,A,1718,E2
+21/10/17,Bradford,Charlton,0,1,A,1718,E2
+21/10/17,Doncaster,Walsall,0,3,A,1718,E2
+21/10/17,Gillingham,Northampton,1,2,A,1718,E2
+21/10/17,Milton Keynes Dons,Oldham,4,4,D,1718,E2
+21/10/17,Oxford,Rotherham,3,3,D,1718,E2
+21/10/17,Rochdale,Bristol Rvs,1,0,H,1718,E2
+21/10/17,Scunthorpe,Peterboro,2,1,H,1718,E2
+21/10/17,Shrewsbury,Fleetwood Town,1,0,H,1718,E2
+21/10/17,Southend,Bury,1,0,H,1718,E2
+24/10/17,Oldham,Bury,2,1,H,1718,E2
+28/10/17,Bristol Rvs,Milton Keynes Dons,2,0,H,1718,E2
+28/10/17,Bury,Doncaster,0,1,A,1718,E2
+28/10/17,Charlton,AFC Wimbledon,1,0,H,1718,E2
+28/10/17,Fleetwood Town,Oxford,2,0,H,1718,E2
+28/10/17,Northampton,Blackpool,1,0,H,1718,E2
+28/10/17,Oldham,Scunthorpe,2,3,A,1718,E2
+28/10/17,Peterboro,Shrewsbury,1,0,H,1718,E2
+28/10/17,Plymouth,Rochdale,1,1,D,1718,E2
+28/10/17,Portsmouth,Bradford,0,1,A,1718,E2
+28/10/17,Rotherham,Gillingham,1,3,A,1718,E2
+28/10/17,Walsall,Southend,0,1,A,1718,E2
+28/10/17,Wigan,Blackburn,0,0,D,1718,E2
+31/10/17,Blackburn,Fleetwood Town,2,2,D,1718,E2
+11/11/17,Blackpool,Portsmouth,2,3,A,1718,E2
+11/11/17,Bradford,Plymouth,0,1,A,1718,E2
+11/11/17,Doncaster,Rotherham,1,1,D,1718,E2
+11/11/17,Gillingham,Bury,1,1,D,1718,E2
+11/11/17,Milton Keynes Dons,Fleetwood Town,1,0,H,1718,E2
+11/11/17,Oxford,Northampton,1,2,A,1718,E2
+11/11/17,Scunthorpe,Bristol Rvs,1,0,H,1718,E2
+12/11/17,AFC Wimbledon,Peterboro,2,2,D,1718,E2
+18/11/17,Bristol Rvs,AFC Wimbledon,1,3,A,1718,E2
+18/11/17,Bury,Blackburn,0,3,A,1718,E2
+18/11/17,Charlton,Milton Keynes Dons,2,2,D,1718,E2
+18/11/17,Fleetwood Town,Doncaster,0,0,D,1718,E2
+18/11/17,Northampton,Scunthorpe,0,3,A,1718,E2
+18/11/17,Oldham,Rochdale,3,1,H,1718,E2
+18/11/17,Peterboro,Blackpool,0,1,A,1718,E2
+18/11/17,Plymouth,Oxford,0,4,A,1718,E2
+18/11/17,Portsmouth,Southend,1,0,H,1718,E2
+18/11/17,Rotherham,Shrewsbury,1,2,A,1718,E2
+18/11/17,Walsall,Gillingham,0,1,A,1718,E2
+18/11/17,Wigan,Bradford,1,2,A,1718,E2
+21/11/17,Blackpool,Gillingham,1,1,D,1718,E2
+21/11/17,Bradford,Scunthorpe,1,2,A,1718,E2
+21/11/17,Bury,Shrewsbury,1,0,H,1718,E2
+21/11/17,Charlton,Rochdale,2,1,H,1718,E2
+21/11/17,Milton Keynes Dons,Southend,1,1,D,1718,E2
+21/11/17,Oldham,AFC Wimbledon,0,0,D,1718,E2
+21/11/17,Oxford,Blackburn,2,4,A,1718,E2
+21/11/17,Peterboro,Portsmouth,2,1,H,1718,E2
+21/11/17,Plymouth,Northampton,2,0,H,1718,E2
+21/11/17,Walsall,Fleetwood Town,4,2,H,1718,E2
+21/11/17,Wigan,Doncaster,3,0,H,1718,E2
+25/11/17,AFC Wimbledon,Walsall,1,2,A,1718,E2
+25/11/17,Blackburn,Bristol Rvs,2,1,H,1718,E2
+25/11/17,Doncaster,Milton Keynes Dons,2,1,H,1718,E2
+25/11/17,Fleetwood Town,Blackpool,0,0,D,1718,E2
+25/11/17,Gillingham,Oldham,0,0,D,1718,E2
+25/11/17,Northampton,Bury,0,0,D,1718,E2
+25/11/17,Portsmouth,Plymouth,1,0,H,1718,E2
+25/11/17,Rochdale,Peterboro,2,0,H,1718,E2
+25/11/17,Rotherham,Wigan,1,3,A,1718,E2
+25/11/17,Scunthorpe,Charlton,2,0,H,1718,E2
+25/11/17,Shrewsbury,Bradford,0,1,A,1718,E2
+25/11/17,Southend,Oxford,1,1,D,1718,E2
+28/11/17,Blackpool,Blackburn,2,4,A,1718,E2
+28/11/17,Charlton,Peterboro,2,2,D,1718,E2
+02/12/17,Bristol Rvs,Rotherham,2,1,H,1718,E2
+02/12/17,Southend,Oldham,2,0,H,1718,E2
+09/12/17,Blackpool,Rotherham,1,2,A,1718,E2
+09/12/17,Bradford,Rochdale,4,3,H,1718,E2
+09/12/17,Bristol Rvs,Southend,3,0,H,1718,E2
+09/12/17,Charlton,Portsmouth,0,1,A,1718,E2
+09/12/17,Milton Keynes Dons,Shrewsbury,1,1,D,1718,E2
+09/12/17,Oldham,Northampton,5,1,H,1718,E2
+09/12/17,Oxford,Doncaster,1,0,H,1718,E2
+09/12/17,Peterboro,Blackburn,2,3,A,1718,E2
+09/12/17,Plymouth,Gillingham,2,1,H,1718,E2
+09/12/17,Walsall,Scunthorpe,1,0,H,1718,E2
+09/12/17,Wigan,Fleetwood Town,2,0,H,1718,E2
+16/12/17,AFC Wimbledon,Wigan,0,4,A,1718,E2
+16/12/17,Blackburn,Charlton,2,0,H,1718,E2
+16/12/17,Doncaster,Oldham,1,1,D,1718,E2
+16/12/17,Gillingham,Bristol Rvs,4,1,H,1718,E2
+16/12/17,Northampton,Walsall,2,1,H,1718,E2
+16/12/17,Portsmouth,Bury,1,0,H,1718,E2
+16/12/17,Rochdale,Oxford,0,0,D,1718,E2
+16/12/17,Rotherham,Plymouth,1,1,D,1718,E2
+16/12/17,Scunthorpe,Milton Keynes Dons,2,2,D,1718,E2
+16/12/17,Shrewsbury,Blackpool,1,0,H,1718,E2
+16/12/17,Southend,Bradford,1,2,A,1718,E2
+17/12/17,Fleetwood Town,Peterboro,2,3,A,1718,E2
+22/12/17,Fleetwood Town,Gillingham,0,2,A,1718,E2
+23/12/17,AFC Wimbledon,Bradford,2,1,H,1718,E2
+23/12/17,Bristol Rvs,Doncaster,0,1,A,1718,E2
+23/12/17,Charlton,Blackpool,1,1,D,1718,E2
+23/12/17,Northampton,Blackburn,1,1,D,1718,E2
+23/12/17,Oxford,Wigan,0,7,A,1718,E2
+23/12/17,Peterboro,Bury,3,0,H,1718,E2
+23/12/17,Plymouth,Oldham,4,1,H,1718,E2
+23/12/17,Rochdale,Walsall,1,1,D,1718,E2
+23/12/17,Rotherham,Milton Keynes Dons,2,1,H,1718,E2
+23/12/17,Scunthorpe,Southend,3,1,H,1718,E2
+23/12/17,Shrewsbury,Portsmouth,2,0,H,1718,E2
+26/12/17,Blackburn,Rochdale,2,0,H,1718,E2
+26/12/17,Blackpool,Scunthorpe,2,3,A,1718,E2
+26/12/17,Bradford,Peterboro,1,3,A,1718,E2
+26/12/17,Bury,Rotherham,0,3,A,1718,E2
+26/12/17,Doncaster,Northampton,3,0,H,1718,E2
+26/12/17,Gillingham,Oxford,1,1,D,1718,E2
+26/12/17,Milton Keynes Dons,Plymouth,0,1,A,1718,E2
+26/12/17,Oldham,Fleetwood Town,1,2,A,1718,E2
+26/12/17,Portsmouth,AFC Wimbledon,2,1,H,1718,E2
+26/12/17,Southend,Charlton,3,1,H,1718,E2
+26/12/17,Walsall,Bristol Rvs,0,0,D,1718,E2
+26/12/17,Wigan,Shrewsbury,0,0,D,1718,E2
+29/12/17,Doncaster,Rochdale,2,0,H,1718,E2
+29/12/17,Wigan,Charlton,0,0,D,1718,E2
+30/12/17,Blackburn,Scunthorpe,2,2,D,1718,E2
+30/12/17,Blackpool,Plymouth,2,2,D,1718,E2
+30/12/17,Bradford,Oxford,3,2,H,1718,E2
+30/12/17,Bury,Fleetwood Town,0,2,A,1718,E2
+30/12/17,Gillingham,AFC Wimbledon,2,2,D,1718,E2
+30/12/17,Milton Keynes Dons,Peterboro,1,0,H,1718,E2
+30/12/17,Oldham,Bristol Rvs,1,1,D,1718,E2
+30/12/17,Portsmouth,Northampton,3,1,H,1718,E2
+30/12/17,Southend,Shrewsbury,1,2,A,1718,E2
+30/12/17,Walsall,Rotherham,1,2,A,1718,E2
+01/01/18,AFC Wimbledon,Southend,2,0,H,1718,E2
+01/01/18,Bristol Rvs,Portsmouth,2,1,H,1718,E2
+01/01/18,Charlton,Gillingham,1,2,A,1718,E2
+01/01/18,Fleetwood Town,Bradford,1,2,A,1718,E2
+01/01/18,Northampton,Wigan,0,1,A,1718,E2
+01/01/18,Oxford,Milton Keynes Dons,3,1,H,1718,E2
+01/01/18,Peterboro,Doncaster,1,1,D,1718,E2
+01/01/18,Plymouth,Walsall,1,0,H,1718,E2
+01/01/18,Rochdale,Blackpool,1,2,A,1718,E2
+01/01/18,Rotherham,Blackburn,1,1,D,1718,E2
+01/01/18,Scunthorpe,Bury,1,0,H,1718,E2
+01/01/18,Shrewsbury,Oldham,1,0,H,1718,E2
+06/01/18,Charlton,Oldham,1,0,H,1718,E2
+06/01/18,Northampton,Southend,3,1,H,1718,E2
+06/01/18,Oxford,Blackpool,1,0,H,1718,E2
+06/01/18,Plymouth,Bury,3,0,H,1718,E2
+13/01/18,Blackburn,Shrewsbury,3,1,H,1718,E2
+13/01/18,Blackpool,Bristol Rvs,0,0,D,1718,E2
+13/01/18,Bradford,Northampton,1,2,A,1718,E2
+13/01/18,Bury,Charlton,0,1,A,1718,E2
+13/01/18,Doncaster,Plymouth,1,1,D,1718,E2
+13/01/18,Gillingham,Rochdale,2,1,H,1718,E2
+13/01/18,Milton Keynes Dons,AFC Wimbledon,0,0,D,1718,E2
+13/01/18,Oldham,Rotherham,1,1,D,1718,E2
+13/01/18,Portsmouth,Scunthorpe,1,1,D,1718,E2
+13/01/18,Southend,Fleetwood Town,1,2,A,1718,E2
+13/01/18,Walsall,Oxford,2,1,H,1718,E2
+13/01/18,Wigan,Peterboro,0,0,D,1718,E2
+20/01/18,AFC Wimbledon,Blackpool,2,0,H,1718,E2
+20/01/18,Bristol Rvs,Bradford,3,1,H,1718,E2
+20/01/18,Charlton,Walsall,3,1,H,1718,E2
+20/01/18,Fleetwood Town,Blackburn,1,2,A,1718,E2
+20/01/18,Northampton,Milton Keynes Dons,2,1,H,1718,E2
+20/01/18,Oxford,Bury,1,2,A,1718,E2
+20/01/18,Peterboro,Oldham,3,0,H,1718,E2
+20/01/18,Plymouth,Wigan,1,3,A,1718,E2
+20/01/18,Rotherham,Portsmouth,1,0,H,1718,E2
+20/01/18,Scunthorpe,Gillingham,1,3,A,1718,E2
+20/01/18,Shrewsbury,Doncaster,2,2,D,1718,E2
+23/01/18,Rotherham,Bradford,2,0,H,1718,E2
+23/01/18,Scunthorpe,Doncaster,1,1,D,1718,E2
+27/01/18,Blackburn,Northampton,1,1,D,1718,E2
+27/01/18,Bradford,AFC Wimbledon,0,4,A,1718,E2
+27/01/18,Doncaster,Bristol Rvs,1,3,A,1718,E2
+27/01/18,Gillingham,Fleetwood Town,2,1,H,1718,E2
+27/01/18,Oldham,Plymouth,1,2,A,1718,E2
+27/01/18,Portsmouth,Shrewsbury,0,1,A,1718,E2
+27/01/18,Southend,Scunthorpe,3,2,H,1718,E2
+30/01/18,Blackburn,Walsall,3,1,H,1718,E2
+03/02/18,Bristol Rvs,Shrewsbury,1,2,A,1718,E2
+03/02/18,Bury,Blackpool,1,1,D,1718,E2
+03/02/18,Charlton,Oxford,2,3,A,1718,E2
+03/02/18,Fleetwood Town,Scunthorpe,2,3,A,1718,E2
+03/02/18,Northampton,Rochdale,0,1,A,1718,E2
+03/02/18,Oldham,Bradford,2,1,H,1718,E2
+03/02/18,Peterboro,Southend,0,1,A,1718,E2
+03/02/18,Plymouth,Blackburn,2,0,H,1718,E2
+03/02/18,Portsmouth,Doncaster,2,2,D,1718,E2
+03/02/18,Rotherham,AFC Wimbledon,2,0,H,1718,E2
+03/02/18,Walsall,Milton Keynes Dons,1,0,H,1718,E2
+03/02/18,Wigan,Gillingham,2,0,H,1718,E2
+06/02/18,Bury,AFC Wimbledon,2,1,H,1718,E2
+10/02/18,AFC Wimbledon,Northampton,1,3,A,1718,E2
+10/02/18,Blackburn,Oldham,2,2,D,1718,E2
+10/02/18,Blackpool,Walsall,2,2,D,1718,E2
+10/02/18,Bradford,Bury,2,2,D,1718,E2
+10/02/18,Doncaster,Charlton,1,1,D,1718,E2
+10/02/18,Gillingham,Peterboro,1,1,D,1718,E2
+10/02/18,Milton Keynes Dons,Portsmouth,1,2,A,1718,E2
+10/02/18,Oxford,Bristol Rvs,1,2,A,1718,E2
+10/02/18,Scunthorpe,Rotherham,1,2,A,1718,E2
+10/02/18,Shrewsbury,Plymouth,1,2,A,1718,E2
+10/02/18,Southend,Wigan,3,1,H,1718,E2
+13/02/18,Bristol Rvs,Rochdale,3,2,H,1718,E2
+13/02/18,Bury,Southend,0,0,D,1718,E2
+13/02/18,Charlton,Bradford,1,1,D,1718,E2
+13/02/18,Fleetwood Town,Shrewsbury,1,2,A,1718,E2
+13/02/18,Northampton,Gillingham,1,2,A,1718,E2
+13/02/18,Oldham,Milton Keynes Dons,1,0,H,1718,E2
+13/02/18,Peterboro,Scunthorpe,2,2,D,1718,E2
+13/02/18,Plymouth,AFC Wimbledon,4,2,H,1718,E2
+13/02/18,Portsmouth,Blackburn,1,2,A,1718,E2
+13/02/18,Rotherham,Oxford,3,1,H,1718,E2
+13/02/18,Walsall,Doncaster,4,2,H,1718,E2
+13/02/18,Wigan,Blackpool,0,2,A,1718,E2
+17/02/18,AFC Wimbledon,Bristol Rvs,1,0,H,1718,E2
+17/02/18,Doncaster,Fleetwood Town,3,0,H,1718,E2
+17/02/18,Gillingham,Walsall,0,0,D,1718,E2
+17/02/18,Milton Keynes Dons,Charlton,1,2,A,1718,E2
+17/02/18,Oxford,Plymouth,0,1,A,1718,E2
+17/02/18,Scunthorpe,Northampton,2,2,D,1718,E2
+17/02/18,Shrewsbury,Rotherham,0,1,A,1718,E2
+17/02/18,Southend,Portsmouth,3,1,H,1718,E2
+18/02/18,Blackpool,Peterboro,1,1,D,1718,E2
+19/02/18,Blackburn,Bury,2,0,H,1718,E2
+20/02/18,Fleetwood Town,Portsmouth,1,2,A,1718,E2
+20/02/18,Shrewsbury,Gillingham,1,1,D,1718,E2
+21/02/18,Rochdale,Milton Keynes Dons,0,0,D,1718,E2
+24/02/18,Bristol Rvs,Scunthorpe,1,1,D,1718,E2
+24/02/18,Bury,Gillingham,2,1,H,1718,E2
+24/02/18,Charlton,Shrewsbury,0,2,A,1718,E2
+24/02/18,Fleetwood Town,Milton Keynes Dons,1,1,D,1718,E2
+24/02/18,Northampton,Oxford,0,0,D,1718,E2
+24/02/18,Peterboro,AFC Wimbledon,1,1,D,1718,E2
+24/02/18,Plymouth,Bradford,1,0,H,1718,E2
+24/02/18,Portsmouth,Blackpool,0,2,A,1718,E2
+24/02/18,Rotherham,Doncaster,2,1,H,1718,E2
+24/02/18,Walsall,Blackburn,1,2,A,1718,E2
+24/02/18,Wigan,Rochdale,1,0,H,1718,E2
+27/02/18,AFC Wimbledon,Blackburn,0,3,A,1718,E2
+27/02/18,Peterboro,Walsall,2,1,H,1718,E2
+03/03/18,Milton Keynes Dons,Bristol Rvs,0,1,A,1718,E2
+03/03/18,Scunthorpe,Oldham,0,2,A,1718,E2
+03/03/18,Southend,Walsall,0,3,A,1718,E2
+04/03/18,Blackburn,Wigan,2,2,D,1718,E2
+06/03/18,Walsall,Rochdale,0,3,A,1718,E2
+10/03/18,AFC Wimbledon,Oxford,2,1,H,1718,E2
+10/03/18,Blackburn,Blackpool,3,0,H,1718,E2
+10/03/18,Bristol Rvs,Northampton,1,1,D,1718,E2
+10/03/18,Bury,Oldham,2,2,D,1718,E2
+10/03/18,Fleetwood Town,Plymouth,1,1,D,1718,E2
+10/03/18,Peterboro,Charlton,4,1,H,1718,E2
+10/03/18,Portsmouth,Gillingham,1,3,A,1718,E2
+10/03/18,Rotherham,Rochdale,0,1,A,1718,E2
+10/03/18,Shrewsbury,Walsall,2,0,H,1718,E2
+10/03/18,Southend,Doncaster,0,0,D,1718,E2
+10/03/18,Wigan,Scunthorpe,3,3,D,1718,E2
+13/03/18,Blackpool,Charlton,1,0,H,1718,E2
+13/03/18,Bury,Peterboro,0,1,A,1718,E2
+13/03/18,Milton Keynes Dons,Rotherham,3,2,H,1718,E2
+13/03/18,Rochdale,Southend,0,0,D,1718,E2
+14/03/18,Bradford,Wigan,0,1,A,1718,E2
+17/03/18,Blackpool,Southend,1,1,D,1718,E2
+17/03/18,Charlton,Fleetwood Town,0,0,D,1718,E2
+17/03/18,Milton Keynes Dons,Bury,2,1,H,1718,E2
+17/03/18,Northampton,Rotherham,0,3,A,1718,E2
+17/03/18,Oldham,Portsmouth,0,2,A,1718,E2
+17/03/18,Oxford,Peterboro,2,1,H,1718,E2
+17/03/18,Plymouth,Bristol Rvs,3,2,H,1718,E2
+17/03/18,Rochdale,AFC Wimbledon,1,1,D,1718,E2
+17/03/18,Scunthorpe,Shrewsbury,1,2,A,1718,E2
+19/03/18,Doncaster,Bradford,2,0,H,1718,E2
+20/03/18,Northampton,Shrewsbury,1,1,D,1718,E2
+20/03/18,Rochdale,Fleetwood Town,0,2,A,1718,E2
+21/03/18,Walsall,Wigan,0,3,A,1718,E2
+24/03/18,Bradford,Gillingham,1,0,H,1718,E2
+24/03/18,Bury,Wigan,0,2,A,1718,E2
+24/03/18,Charlton,Plymouth,2,0,H,1718,E2
+24/03/18,Fleetwood Town,Northampton,2,0,H,1718,E2
+24/03/18,Milton Keynes Dons,Blackpool,0,0,D,1718,E2
+24/03/18,Peterboro,Bristol Rvs,1,1,D,1718,E2
+24/03/18,Scunthorpe,Rochdale,1,1,D,1718,E2
+24/03/18,Shrewsbury,AFC Wimbledon,1,0,H,1718,E2
+24/03/18,Southend,Rotherham,2,0,H,1718,E2
+25/03/18,Portsmouth,Oxford,3,0,H,1718,E2
+29/03/18,Blackburn,Bradford,2,0,H,1718,E2
+29/03/18,Gillingham,Milton Keynes Dons,1,2,A,1718,E2
+30/03/18,AFC Wimbledon,Fleetwood Town,0,1,A,1718,E2
+30/03/18,Blackpool,Doncaster,1,2,A,1718,E2
+30/03/18,Bristol Rvs,Bury,2,1,H,1718,E2
+30/03/18,Northampton,Charlton,0,4,A,1718,E2
+30/03/18,Oxford,Scunthorpe,1,1,D,1718,E2
+30/03/18,Plymouth,Southend,4,0,H,1718,E2
+30/03/18,Rochdale,Shrewsbury,3,1,H,1718,E2
+30/03/18,Rotherham,Peterboro,1,1,D,1718,E2
+30/03/18,Wigan,Oldham,3,0,H,1718,E2
+31/03/18,Walsall,Portsmouth,0,1,A,1718,E2
+02/04/18,Charlton,Rotherham,3,1,H,1718,E2
+02/04/18,Fleetwood Town,Bristol Rvs,2,0,H,1718,E2
+02/04/18,Milton Keynes Dons,Blackburn,1,2,A,1718,E2
+02/04/18,Oldham,Blackpool,2,1,H,1718,E2
+02/04/18,Peterboro,Northampton,2,0,H,1718,E2
+02/04/18,Portsmouth,Wigan,2,1,H,1718,E2
+02/04/18,Shrewsbury,Oxford,3,2,H,1718,E2
+02/04/18,Southend,Gillingham,4,0,H,1718,E2
+03/04/18,Bury,Rochdale,0,2,A,1718,E2
+07/04/18,AFC Wimbledon,Scunthorpe,1,1,D,1718,E2
+07/04/18,Blackburn,Southend,1,0,H,1718,E2
+07/04/18,Blackpool,Bradford,5,0,H,1718,E2
+07/04/18,Bristol Rvs,Charlton,1,1,D,1718,E2
+07/04/18,Gillingham,Doncaster,0,0,D,1718,E2
+07/04/18,Oxford,Oldham,0,0,D,1718,E2
+07/04/18,Plymouth,Peterboro,2,1,H,1718,E2
+07/04/18,Rochdale,Portsmouth,3,3,D,1718,E2
+07/04/18,Rotherham,Fleetwood Town,3,2,H,1718,E2
+07/04/18,Walsall,Bury,1,0,H,1718,E2
+07/04/18,Wigan,Milton Keynes Dons,5,1,H,1718,E2
+10/04/18,AFC Wimbledon,Charlton,1,0,H,1718,E2
+10/04/18,Blackpool,Northampton,3,0,H,1718,E2
+10/04/18,Gillingham,Blackburn,0,0,D,1718,E2
+10/04/18,Oxford,Fleetwood Town,0,1,A,1718,E2
+10/04/18,Rochdale,Wigan,1,4,A,1718,E2
+11/04/18,Oldham,Walsall,1,1,D,1718,E2
+12/04/18,Bradford,Shrewsbury,0,0,D,1718,E2
+14/04/18,Blackpool,Fleetwood Town,2,1,H,1718,E2
+14/04/18,Bristol Rvs,Blackburn,1,1,D,1718,E2
+14/04/18,Bury,Northampton,2,3,A,1718,E2
+14/04/18,Charlton,Scunthorpe,0,1,A,1718,E2
+14/04/18,Milton Keynes Dons,Doncaster,1,2,A,1718,E2
+14/04/18,Oldham,Gillingham,1,1,D,1718,E2
+14/04/18,Oxford,Southend,2,0,H,1718,E2
+14/04/18,Peterboro,Rochdale,0,1,A,1718,E2
+14/04/18,Plymouth,Portsmouth,0,0,D,1718,E2
+14/04/18,Walsall,AFC Wimbledon,2,3,A,1718,E2
+14/04/18,Wigan,Rotherham,0,0,D,1718,E2
+17/04/18,Bradford,Portsmouth,3,1,H,1718,E2
+17/04/18,Doncaster,Bury,3,3,D,1718,E2
+17/04/18,Gillingham,Rotherham,0,1,A,1718,E2
+17/04/18,Rochdale,Oldham,0,0,D,1718,E2
+17/04/18,Shrewsbury,Charlton,0,2,A,1718,E2
+17/04/18,Wigan,Oxford,1,0,H,1718,E2
+19/04/18,Blackburn,Peterboro,3,1,H,1718,E2
+21/04/18,AFC Wimbledon,Oldham,2,2,D,1718,E2
+21/04/18,Doncaster,Oxford,0,1,A,1718,E2
+21/04/18,Fleetwood Town,Wigan,0,4,A,1718,E2
+21/04/18,Gillingham,Blackpool,0,3,A,1718,E2
+21/04/18,Northampton,Plymouth,2,0,H,1718,E2
+21/04/18,Portsmouth,Charlton,0,1,A,1718,E2
+21/04/18,Rochdale,Bradford,1,1,D,1718,E2
+21/04/18,Rotherham,Bristol Rvs,2,0,H,1718,E2
+21/04/18,Scunthorpe,Walsall,1,0,H,1718,E2
+21/04/18,Shrewsbury,Bury,1,1,D,1718,E2
+21/04/18,Southend,Milton Keynes Dons,4,0,H,1718,E2
+24/04/18,Bradford,Milton Keynes Dons,2,0,H,1718,E2
+24/04/18,Bristol Rvs,Wigan,1,1,D,1718,E2
+24/04/18,Doncaster,Blackburn,0,1,A,1718,E2
+24/04/18,Oldham,Southend,0,3,A,1718,E2
+24/04/18,Rochdale,Plymouth,1,1,D,1718,E2
+24/04/18,Shrewsbury,Peterboro,3,1,H,1718,E2
+28/04/18,Blackpool,Shrewsbury,1,1,D,1718,E2
+28/04/18,Bradford,Southend,0,2,A,1718,E2
+28/04/18,Bristol Rvs,Gillingham,1,1,D,1718,E2
+28/04/18,Bury,Portsmouth,1,0,H,1718,E2
+28/04/18,Charlton,Blackburn,1,0,H,1718,E2
+28/04/18,Milton Keynes Dons,Scunthorpe,0,2,A,1718,E2
+28/04/18,Oldham,Doncaster,0,0,D,1718,E2
+28/04/18,Oxford,Rochdale,2,1,H,1718,E2
+28/04/18,Peterboro,Fleetwood Town,2,0,H,1718,E2
+28/04/18,Plymouth,Rotherham,2,1,H,1718,E2
+28/04/18,Walsall,Northampton,1,0,H,1718,E2
+28/04/18,Wigan,AFC Wimbledon,1,1,D,1718,E2
+01/05/18,Bradford,Walsall,1,1,D,1718,E2
+01/05/18,Doncaster,AFC Wimbledon,0,0,D,1718,E2
+01/05/18,Scunthorpe,Plymouth,2,0,H,1718,E2
+05/05/18,AFC Wimbledon,Bury,2,2,D,1718,E2
+05/05/18,Blackburn,Oxford,2,1,H,1718,E2
+05/05/18,Doncaster,Wigan,0,1,A,1718,E2
+05/05/18,Fleetwood Town,Walsall,2,0,H,1718,E2
+05/05/18,Gillingham,Plymouth,5,2,H,1718,E2
+05/05/18,Northampton,Oldham,2,2,D,1718,E2
+05/05/18,Portsmouth,Peterboro,2,0,H,1718,E2
+05/05/18,Rochdale,Charlton,1,0,H,1718,E2
+05/05/18,Rotherham,Blackpool,1,0,H,1718,E2
+05/05/18,Scunthorpe,Bradford,1,1,D,1718,E2
+05/05/18,Shrewsbury,Milton Keynes Dons,0,1,A,1718,E2
+05/05/18,Southend,Bristol Rvs,0,0,D,1718,E2

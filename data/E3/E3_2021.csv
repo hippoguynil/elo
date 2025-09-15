@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season,Division
+12/09/2020,Barrow,Stevenage,1,1,D,2021,E3
+12/09/2020,Bolton,Forest Green,0,1,A,2021,E3
+12/09/2020,Bradford,Colchester,0,0,D,2021,E3
+12/09/2020,Cambridge,Carlisle,3,0,H,2021,E3
+12/09/2020,Cheltenham,Morecambe,1,2,A,2021,E3
+12/09/2020,Mansfield,Tranmere,0,0,D,2021,E3
+12/09/2020,Oldham,Leyton Orient,0,1,A,2021,E3
+12/09/2020,Port Vale,Crawley Town,2,0,H,2021,E3
+12/09/2020,Salford,Exeter,2,2,D,2021,E3
+12/09/2020,Scunthorpe,Newport County,1,1,D,2021,E3
+12/09/2020,Southend,Harrogate,0,4,A,2021,E3
+12/09/2020,Walsall,Grimsby,1,0,H,2021,E3
+19/09/2020,Carlisle,Southend,2,0,H,2021,E3
+19/09/2020,Colchester,Bolton,2,0,H,2021,E3
+19/09/2020,Crawley Town,Scunthorpe,1,0,H,2021,E3
+19/09/2020,Exeter,Port Vale,0,2,A,2021,E3
+19/09/2020,Forest Green,Bradford,2,2,D,2021,E3
+19/09/2020,Grimsby,Salford,0,4,A,2021,E3
+19/09/2020,Harrogate,Walsall,2,2,D,2021,E3
+19/09/2020,Leyton Orient,Mansfield,2,2,D,2021,E3
+19/09/2020,Morecambe,Cambridge,0,5,A,2021,E3
+19/09/2020,Newport County,Barrow,2,1,H,2021,E3
+19/09/2020,Stevenage,Oldham,3,0,H,2021,E3
+19/09/2020,Tranmere,Cheltenham,0,3,A,2021,E3
+26/09/2020,Barrow,Colchester,1,1,D,2021,E3
+26/09/2020,Bolton,Newport County,0,2,A,2021,E3
+26/09/2020,Bradford,Stevenage,2,1,H,2021,E3
+26/09/2020,Cambridge,Tranmere,0,0,D,2021,E3
+26/09/2020,Mansfield,Exeter,1,2,A,2021,E3
+26/09/2020,Oldham,Crawley Town,2,3,A,2021,E3
+26/09/2020,Port Vale,Harrogate,0,0,D,2021,E3
+26/09/2020,Salford,Forest Green,0,0,D,2021,E3
+26/09/2020,Scunthorpe,Carlisle,1,0,H,2021,E3
+26/09/2020,Southend,Morecambe,1,2,A,2021,E3
+03/10/2020,Carlisle,Barrow,1,0,H,2021,E3
+03/10/2020,Colchester,Oldham,3,3,D,2021,E3
+03/10/2020,Crawley Town,Southend,1,1,D,2021,E3
+03/10/2020,Exeter,Cambridge,2,0,H,2021,E3
+03/10/2020,Forest Green,Walsall,1,1,D,2021,E3
+03/10/2020,Harrogate,Bolton,1,2,A,2021,E3
+03/10/2020,Leyton Orient,Cheltenham,0,2,A,2021,E3
+03/10/2020,Morecambe,Port Vale,1,0,H,2021,E3
+03/10/2020,Newport County,Mansfield,2,1,H,2021,E3
+03/10/2020,Stevenage,Salford,0,1,A,2021,E3
+03/10/2020,Tranmere,Scunthorpe,2,0,H,2021,E3
+10/10/2020,Barrow,Leyton Orient,1,1,D,2021,E3
+10/10/2020,Bolton,Grimsby,0,0,D,2021,E3
+10/10/2020,Cambridge,Newport County,2,1,H,2021,E3
+10/10/2020,Cheltenham,Crawley Town,2,0,H,2021,E3
+10/10/2020,Mansfield,Stevenage,0,0,D,2021,E3
+10/10/2020,Oldham,Morecambe,2,3,A,2021,E3
+10/10/2020,Port Vale,Carlisle,0,1,A,2021,E3
+10/10/2020,Salford,Tranmere,2,2,D,2021,E3
+10/10/2020,Scunthorpe,Forest Green,1,4,A,2021,E3
+10/10/2020,Southend,Exeter,2,2,D,2021,E3
+10/10/2020,Walsall,Colchester,1,1,D,2021,E3
+12/10/2020,Bradford,Harrogate,0,1,A,2021,E3
+13/10/2020,Cheltenham,Grimsby,1,3,A,2021,E3
+13/10/2020,Walsall,Leyton Orient,2,1,H,2021,E3
+17/10/2020,Bolton,Oldham,1,2,A,2021,E3
+17/10/2020,Carlisle,Colchester,3,2,H,2021,E3
+17/10/2020,Crawley Town,Morecambe,4,0,H,2021,E3
+17/10/2020,Forest Green,Stevenage,1,0,H,2021,E3
+17/10/2020,Harrogate,Barrow,1,0,H,2021,E3
+17/10/2020,Mansfield,Bradford,1,3,A,2021,E3
+17/10/2020,Newport County,Tranmere,1,0,H,2021,E3
+17/10/2020,Port Vale,Salford,1,0,H,2021,E3
+17/10/2020,Scunthorpe,Cambridge,0,5,A,2021,E3
+17/10/2020,Southend,Cheltenham,0,2,A,2021,E3
+17/10/2020,Walsall,Exeter,0,0,D,2021,E3
+17/10/2020,Leyton Orient,Grimsby,2,3,A,2021,E3
+20/10/2020,Cheltenham,Scunthorpe,1,0,H,2021,E3
+20/10/2020,Morecambe,Mansfield,1,1,D,2021,E3
+20/10/2020,Barrow,Bolton,3,3,D,2021,E3
+20/10/2020,Cambridge,Port Vale,3,1,H,2021,E3
+20/10/2020,Colchester,Forest Green,1,0,H,2021,E3
+20/10/2020,Exeter,Crawley Town,2,1,H,2021,E3
+20/10/2020,Oldham,Carlisle,1,1,D,2021,E3
+20/10/2020,Stevenage,Newport County,0,1,A,2021,E3
+20/10/2020,Tranmere,Leyton Orient,0,1,A,2021,E3
+20/10/2020,Bradford,Walsall,1,1,D,2021,E3
+20/10/2020,Grimsby,Harrogate,1,2,A,2021,E3
+20/10/2020,Salford,Southend,3,0,H,2021,E3
+24/10/2020,Exeter,Scunthorpe,3,1,H,2021,E3
+24/10/2020,Barrow,Walsall,2,2,D,2021,E3
+24/10/2020,Bradford,Newport County,0,3,A,2021,E3
+24/10/2020,Cambridge,Bolton,1,1,D,2021,E3
+24/10/2020,Cheltenham,Mansfield,0,0,D,2021,E3
+24/10/2020,Colchester,Harrogate,2,1,H,2021,E3
+24/10/2020,Grimsby,Carlisle,1,1,D,2021,E3
+24/10/2020,Morecambe,Forest Green,1,2,A,2021,E3
+24/10/2020,Oldham,Port Vale,1,2,A,2021,E3
+24/10/2020,Salford,Crawley Town,1,1,D,2021,E3
+24/10/2020,Stevenage,Leyton Orient,0,2,A,2021,E3
+24/10/2020,Tranmere,Southend,2,0,H,2021,E3
+27/10/2020,Crawley Town,Tranmere,4,0,H,2021,E3
+27/10/2020,Bolton,Bradford,1,0,H,2021,E3
+27/10/2020,Carlisle,Morecambe,3,1,H,2021,E3
+27/10/2020,Forest Green,Grimsby,1,0,H,2021,E3
+27/10/2020,Harrogate,Stevenage,0,0,D,2021,E3
+27/10/2020,Leyton Orient,Exeter,1,1,D,2021,E3
+27/10/2020,Mansfield,Barrow,2,4,A,2021,E3
+27/10/2020,Newport County,Colchester,2,1,H,2021,E3
+27/10/2020,Port Vale,Cheltenham,2,1,H,2021,E3
+27/10/2020,Southend,Oldham,1,2,A,2021,E3
+27/10/2020,Walsall,Cambridge,0,2,A,2021,E3
+31/10/2020,Exeter,Carlisle,1,0,H,2021,E3
+31/10/2020,Barrow,Bradford,1,0,H,2021,E3
+31/10/2020,Cheltenham,Forest Green,2,1,H,2021,E3
+31/10/2020,Crawley Town,Cambridge,2,1,H,2021,E3
+31/10/2020,Leyton Orient,Bolton,4,0,H,2021,E3
+31/10/2020,Mansfield,Walsall,1,1,D,2021,E3
+31/10/2020,Newport County,Harrogate,2,1,H,2021,E3
+31/10/2020,Salford,Oldham,2,0,H,2021,E3
+31/10/2020,Southend,Port Vale,0,2,A,2021,E3
+31/10/2020,Stevenage,Grimsby,0,0,D,2021,E3
+31/10/2020,Tranmere,Morecambe,0,1,A,2021,E3
+03/11/2020,Oldham,Cheltenham,2,1,H,2021,E3
+03/11/2020,Morecambe,Exeter,2,2,D,2021,E3
+03/11/2020,Bolton,Mansfield,1,1,D,2021,E3
+03/11/2020,Bradford,Southend,3,0,H,2021,E3
+03/11/2020,Cambridge,Salford,2,1,H,2021,E3
+03/11/2020,Carlisle,Newport County,3,2,H,2021,E3
+03/11/2020,Colchester,Stevenage,3,1,H,2021,E3
+03/11/2020,Forest Green,Leyton Orient,2,1,H,2021,E3
+03/11/2020,Grimsby,Barrow,1,0,H,2021,E3
+03/11/2020,Harrogate,Tranmere,0,1,A,2021,E3
+03/11/2020,Walsall,Crawley Town,1,0,H,2021,E3
+13/11/2020,Bolton,Salford,2,0,H,2021,E3
+14/11/2020,Bradford,Exeter,2,2,D,2021,E3
+14/11/2020,Cambridge,Barrow,1,1,D,2021,E3
+14/11/2020,Carlisle,Cheltenham,1,2,A,2021,E3
+14/11/2020,Colchester,Leyton Orient,2,1,H,2021,E3
+14/11/2020,Forest Green,Mansfield,1,2,A,2021,E3
+14/11/2020,Harrogate,Crawley Town,1,1,D,2021,E3
+14/11/2020,Morecambe,Stevenage,1,1,D,2021,E3
+14/11/2020,Oldham,Scunthorpe,0,2,A,2021,E3
+14/11/2020,Port Vale,Tranmere,3,4,A,2021,E3
+14/11/2020,Walsall,Southend,0,1,A,2021,E3
+17/11/2020,Port Vale,Scunthorpe,0,1,A,2021,E3
+20/11/2020,Mansfield,Colchester,1,1,D,2021,E3
+21/11/2020,Crawley Town,Carlisle,0,3,A,2021,E3
+21/11/2020,Barrow,Forest Green,2,2,D,2021,E3
+21/11/2020,Cheltenham,Walsall,3,0,H,2021,E3
+21/11/2020,Exeter,Oldham,1,2,A,2021,E3
+21/11/2020,Leyton Orient,Harrogate,3,0,H,2021,E3
+21/11/2020,Newport County,Port Vale,1,0,H,2021,E3
+21/11/2020,Salford,Bradford,3,0,H,2021,E3
+21/11/2020,Scunthorpe,Morecambe,1,1,D,2021,E3
+21/11/2020,Stevenage,Bolton,1,2,A,2021,E3
+21/11/2020,Tranmere,Grimsby,5,0,H,2021,E3
+24/11/2020,Barrow,Oldham,3,4,A,2021,E3
+24/11/2020,Cheltenham,Cambridge,1,1,D,2021,E3
+24/11/2020,Crawley Town,Grimsby,1,2,A,2021,E3
+24/11/2020,Exeter,Colchester,6,1,H,2021,E3
+24/11/2020,Leyton Orient,Bradford,1,0,H,2021,E3
+24/11/2020,Mansfield,Harrogate,0,1,A,2021,E3
+24/11/2020,Newport County,Walsall,1,1,D,2021,E3
+24/11/2020,Salford,Morecambe,2,1,H,2021,E3
+24/11/2020,Scunthorpe,Bolton,0,1,A,2021,E3
+24/11/2020,Southend,Forest Green,0,1,A,2021,E3
+24/11/2020,Stevenage,Port Vale,2,1,H,2021,E3
+24/11/2020,Tranmere,Carlisle,1,0,H,2021,E3
+28/11/2020,Port Vale,Leyton Orient,2,3,A,2021,E3
+28/11/2020,Bolton,Southend,3,0,H,2021,E3
+01/12/2020,Morecambe,Barrow,1,0,H,2021,E3
+01/12/2020,Bradford,Cheltenham,1,2,A,2021,E3
+01/12/2020,Colchester,Crawley Town,1,1,D,2021,E3
+01/12/2020,Forest Green,Newport County,1,1,D,2021,E3
+01/12/2020,Grimsby,Exeter,1,4,A,2021,E3
+01/12/2020,Harrogate,Scunthorpe,2,5,A,2021,E3
+01/12/2020,Oldham,Tranmere,0,1,A,2021,E3
+02/12/2020,Carlisle,Salford,2,1,H,2021,E3
+02/12/2020,Walsall,Stevenage,1,1,D,2021,E3
+02/12/2020,Cambridge,Mansfield,0,1,A,2021,E3
+05/12/2020,Scunthorpe,Leyton Orient,2,0,H,2021,E3
+05/12/2020,Barrow,Salford,0,1,A,2021,E3
+05/12/2020,Bolton,Port Vale,3,6,A,2021,E3
+05/12/2020,Bradford,Carlisle,0,1,A,2021,E3
+05/12/2020,Cambridge,Oldham,1,2,A,2021,E3
+05/12/2020,Cheltenham,Exeter,5,3,H,2021,E3
+05/12/2020,Harrogate,Forest Green,0,1,A,2021,E3
+05/12/2020,Mansfield,Crawley Town,3,3,D,2021,E3
+05/12/2020,Newport County,Morecambe,2,1,H,2021,E3
+05/12/2020,Stevenage,Southend,0,0,D,2021,E3
+05/12/2020,Tranmere,Walsall,1,3,A,2021,E3
+05/12/2020,Colchester,Grimsby,2,1,H,2021,E3
+08/12/2020,Grimsby,Newport County,0,2,A,2021,E3
+08/12/2020,Scunthorpe,Colchester,0,1,A,2021,E3
+12/12/2020,Carlisle,Stevenage,4,0,H,2021,E3
+12/12/2020,Crawley Town,Barrow,4,2,H,2021,E3
+12/12/2020,Exeter,Tranmere,5,0,H,2021,E3
+12/12/2020,Forest Green,Cambridge,2,0,H,2021,E3
+12/12/2020,Grimsby,Mansfield,1,1,D,2021,E3
+12/12/2020,Leyton Orient,Newport County,2,1,H,2021,E3
+12/12/2020,Morecambe,Harrogate,1,0,H,2021,E3
+12/12/2020,Oldham,Bradford,3,1,H,2021,E3
+12/12/2020,Port Vale,Colchester,1,1,D,2021,E3
+12/12/2020,Salford,Cheltenham,0,0,D,2021,E3
+12/12/2020,Southend,Scunthorpe,1,0,H,2021,E3
+12/12/2020,Walsall,Bolton,2,1,H,2021,E3
+15/12/2020,Morecambe,Leyton Orient,2,1,H,2021,E3
+15/12/2020,Carlisle,Mansfield,1,0,H,2021,E3
+15/12/2020,Oldham,Walsall,2,3,A,2021,E3
+15/12/2020,Port Vale,Forest Green,1,1,D,2021,E3
+15/12/2020,Salford,Newport County,1,1,D,2021,E3
+15/12/2020,Scunthorpe,Barrow,2,1,H,2021,E3
+15/12/2020,Cambridge,Colchester,2,1,H,2021,E3
+15/12/2020,Cheltenham,Bolton,0,1,A,2021,E3
+15/12/2020,Crawley Town,Bradford,1,1,D,2021,E3
+15/12/2020,Exeter,Harrogate,1,2,A,2021,E3
+15/12/2020,Southend,Grimsby,3,1,H,2021,E3
+19/12/2020,Barrow,Cheltenham,3,0,H,2021,E3
+19/12/2020,Bolton,Tranmere,0,3,A,2021,E3
+19/12/2020,Bradford,Cambridge,1,0,H,2021,E3
+19/12/2020,Colchester,Morecambe,1,2,A,2021,E3
+19/12/2020,Forest Green,Carlisle,1,0,H,2021,E3
+19/12/2020,Grimsby,Scunthorpe,1,0,H,2021,E3
+19/12/2020,Harrogate,Salford,0,1,A,2021,E3
+19/12/2020,Leyton Orient,Crawley Town,1,2,A,2021,E3
+19/12/2020,Mansfield,Southend,1,1,D,2021,E3
+19/12/2020,Newport County,Oldham,2,4,A,2021,E3
+19/12/2020,Walsall,Port Vale,4,3,H,2021,E3
+22/12/2020,Grimsby,Bradford,1,2,A,2021,E3
+26/12/2020,Cambridge,Leyton Orient,2,1,H,2021,E3
+26/12/2020,Exeter,Forest Green,1,1,D,2021,E3
+26/12/2020,Scunthorpe,Mansfield,2,3,A,2021,E3
+26/12/2020,Southend,Colchester,2,0,H,2021,E3
+26/12/2020,Carlisle,Bolton,3,3,D,2021,E3
+26/12/2020,Cheltenham,Stevenage,1,1,D,2021,E3
+26/12/2020,Crawley Town,Newport County,1,1,D,2021,E3
+26/12/2020,Morecambe,Grimsby,3,1,H,2021,E3
+26/12/2020,Oldham,Harrogate,1,2,A,2021,E3
+26/12/2020,Port Vale,Barrow,0,2,A,2021,E3
+26/12/2020,Salford,Walsall,2,0,H,2021,E3
+26/12/2020,Tranmere,Bradford,0,1,A,2021,E3
+29/12/2020,Stevenage,Cambridge,1,0,H,2021,E3
+29/12/2020,Bradford,Port Vale,0,0,D,2021,E3
+29/12/2020,Forest Green,Crawley Town,1,2,A,2021,E3
+29/12/2020,Grimsby,Oldham,0,0,D,2021,E3
+29/12/2020,Leyton Orient,Southend,2,0,H,2021,E3
+29/12/2020,Walsall,Scunthorpe,1,2,A,2021,E3
+29/12/2020,Barrow,Tranmere,1,1,D,2021,E3
+29/12/2020,Colchester,Cheltenham,0,0,D,2021,E3
+02/01/2021,Bolton,Crawley Town,0,1,A,2021,E3
+02/01/2021,Grimsby,Cambridge,1,2,A,2021,E3
+02/01/2021,Leyton Orient,Salford,1,0,H,2021,E3
+02/01/2021,Mansfield,Port Vale,4,0,H,2021,E3
+02/01/2021,Stevenage,Scunthorpe,3,1,H,2021,E3
+02/01/2021,Walsall,Carlisle,0,2,A,2021,E3
+05/01/2021,Mansfield,Salford,2,1,H,2021,E3
+09/01/2021,Cambridge,Harrogate,2,1,H,2021,E3
+09/01/2021,Port Vale,Grimsby,3,0,H,2021,E3
+09/01/2021,Southend,Barrow,1,0,H,2021,E3
+12/01/2021,Exeter,Bolton,1,1,D,2021,E3
+12/01/2021,Scunthorpe,Salford,0,1,A,2021,E3
+13/01/2021,Oldham,Mansfield,2,3,A,2021,E3
+16/01/2021,Barrow,Scunthorpe,1,0,H,2021,E3
+16/01/2021,Bolton,Cheltenham,1,1,D,2021,E3
+16/01/2021,Colchester,Cambridge,1,1,D,2021,E3
+16/01/2021,Forest Green,Port Vale,1,1,D,2021,E3
+16/01/2021,Grimsby,Southend,0,0,D,2021,E3
+16/01/2021,Leyton Orient,Morecambe,2,0,H,2021,E3
+16/01/2021,Newport County,Salford,0,0,D,2021,E3
+16/01/2021,Stevenage,Tranmere,0,0,D,2021,E3
+16/01/2021,Walsall,Oldham,1,1,D,2021,E3
+19/01/2021,Cheltenham,Newport County,1,1,D,2021,E3
+19/01/2021,Harrogate,Exeter,0,0,D,2021,E3
+19/01/2021,Morecambe,Walsall,1,1,D,2021,E3
+19/01/2021,Southend,Cambridge,1,2,A,2021,E3
+19/01/2021,Tranmere,Forest Green,3,2,H,2021,E3
+22/01/2021,Salford,Harrogate,2,2,D,2021,E3
+23/01/2021,Exeter,Stevenage,3,1,H,2021,E3
+23/01/2021,Scunthorpe,Grimsby,3,0,H,2021,E3
+23/01/2021,Cambridge,Bradford,0,0,D,2021,E3
+23/01/2021,Leyton Orient,Forest Green,0,1,A,2021,E3
+23/01/2021,Morecambe,Colchester,3,0,H,2021,E3
+23/01/2021,Oldham,Newport County,3,2,H,2021,E3
+23/01/2021,Port Vale,Walsall,1,3,A,2021,E3
+23/01/2021,Southend,Mansfield,0,1,A,2021,E3
+23/01/2021,Tranmere,Bolton,2,1,H,2021,E3
+26/01/2021,Exeter,Morecambe,0,2,A,2021,E3
+26/01/2021,Cheltenham,Oldham,2,0,H,2021,E3
+26/01/2021,Scunthorpe,Port Vale,2,0,H,2021,E3
+26/01/2021,Southend,Bradford,1,3,A,2021,E3
+26/01/2021,Stevenage,Colchester,0,0,D,2021,E3
+26/01/2021,Tranmere,Harrogate,3,2,H,2021,E3
+29/01/2021,Colchester,Scunthorpe,0,1,A,2021,E3
+30/01/2021,Carlisle,Exeter,1,0,H,2021,E3
+30/01/2021,Bolton,Leyton Orient,2,0,H,2021,E3
+30/01/2021,Bradford,Barrow,2,1,H,2021,E3
+30/01/2021,Cambridge,Crawley Town,3,1,H,2021,E3
+30/01/2021,Forest Green,Cheltenham,0,0,D,2021,E3
+30/01/2021,Grimsby,Stevenage,1,2,A,2021,E3
+30/01/2021,Harrogate,Newport County,2,1,H,2021,E3
+30/01/2021,Morecambe,Tranmere,0,1,A,2021,E3
+30/01/2021,Oldham,Salford,2,1,H,2021,E3
+30/01/2021,Port Vale,Southend,5,1,H,2021,E3
+02/02/2021,Carlisle,Forest Green,1,2,A,2021,E3
+02/02/2021,Crawley Town,Leyton Orient,0,0,D,2021,E3
+02/02/2021,Stevenage,Exeter,0,1,A,2021,E3
+06/02/2021,Exeter,Bradford,3,2,H,2021,E3
+06/02/2021,Barrow,Cambridge,0,2,A,2021,E3
+06/02/2021,Crawley Town,Harrogate,1,3,A,2021,E3
+06/02/2021,Leyton Orient,Colchester,0,0,D,2021,E3
+06/02/2021,Newport County,Grimsby,1,0,H,2021,E3
+06/02/2021,Stevenage,Morecambe,2,2,D,2021,E3
+06/02/2021,Tranmere,Port Vale,3,1,H,2021,E3
+09/02/2021,Salford,Cambridge,4,1,H,2021,E3
+09/02/2021,Harrogate,Cheltenham,0,1,A,2021,E3
+09/02/2021,Walsall,Mansfield,1,1,D,2021,E3
+09/02/2021,Bolton,Morecambe,1,1,D,2021,E3
+09/02/2021,Newport County,Southend,0,1,A,2021,E3
+09/02/2021,Tranmere,Stevenage,0,1,A,2021,E3
+13/02/2021,Bolton,Stevenage,1,0,H,2021,E3
+13/02/2021,Cambridge,Southend,0,0,D,2021,E3
+14/02/2021,Colchester,Mansfield,2,2,D,2021,E3
+16/02/2021,Bradford,Morecambe,2,1,H,2021,E3
+16/02/2021,Crawley Town,Stevenage,0,1,A,2021,E3
+16/02/2021,Forest Green,Oldham,4,3,H,2021,E3
+16/02/2021,Harrogate,Carlisle,1,0,H,2021,E3
+16/02/2021,Newport County,Exeter,1,1,D,2021,E3
+16/02/2021,Salford,Barrow,1,0,H,2021,E3
+16/02/2021,Walsall,Cheltenham,1,2,A,2021,E3
+17/02/2021,Mansfield,Bolton,2,3,A,2021,E3
+20/02/2021,Barrow,Morecambe,1,2,A,2021,E3
+20/02/2021,Cheltenham,Bradford,0,2,A,2021,E3
+20/02/2021,Crawley Town,Colchester,1,0,H,2021,E3
+20/02/2021,Leyton Orient,Port Vale,1,1,D,2021,E3
+20/02/2021,Mansfield,Cambridge,0,3,A,2021,E3
+20/02/2021,Salford,Carlisle,1,1,D,2021,E3
+20/02/2021,Scunthorpe,Harrogate,3,1,H,2021,E3
+20/02/2021,Southend,Bolton,0,1,A,2021,E3
+20/02/2021,Stevenage,Walsall,1,1,D,2021,E3
+20/02/2021,Tranmere,Oldham,2,2,D,2021,E3
+21/02/2021,Newport County,Forest Green,0,2,A,2021,E3
+23/02/2021,Morecambe,Salford,2,1,H,2021,E3
+23/02/2021,Bolton,Scunthorpe,2,0,H,2021,E3
+23/02/2021,Bradford,Leyton Orient,1,0,H,2021,E3
+23/02/2021,Cambridge,Cheltenham,0,1,A,2021,E3
+23/02/2021,Carlisle,Tranmere,2,3,A,2021,E3
+23/02/2021,Colchester,Exeter,1,2,A,2021,E3
+23/02/2021,Grimsby,Crawley Town,2,1,H,2021,E3
+23/02/2021,Harrogate,Mansfield,1,0,H,2021,E3
+23/02/2021,Oldham,Barrow,0,1,A,2021,E3
+23/02/2021,Port Vale,Stevenage,0,0,D,2021,E3
+24/02/2021,Walsall,Newport County,0,1,A,2021,E3
+24/02/2021,Forest Green,Southend,1,3,A,2021,E3
+27/02/2021,Crawley Town,Exeter,2,0,H,2021,E3
+27/02/2021,Bolton,Barrow,1,0,H,2021,E3
+27/02/2021,Carlisle,Oldham,1,3,A,2021,E3
+27/02/2021,Harrogate,Grimsby,1,0,H,2021,E3
+27/02/2021,Leyton Orient,Tranmere,1,3,A,2021,E3
+27/02/2021,Mansfield,Morecambe,1,0,H,2021,E3
+27/02/2021,Newport County,Stevenage,0,0,D,2021,E3
+27/02/2021,Port Vale,Cambridge,0,1,A,2021,E3
+27/02/2021,Scunthorpe,Cheltenham,0,2,A,2021,E3
+27/02/2021,Southend,Salford,0,0,D,2021,E3
+27/02/2021,Walsall,Bradford,1,2,A,2021,E3
+27/02/2021,Forest Green,Colchester,3,0,H,2021,E3
+02/03/2021,Morecambe,Crawley Town,3,1,H,2021,E3
+02/03/2021,Barrow,Harrogate,0,1,A,2021,E3
+02/03/2021,Bradford,Mansfield,1,0,H,2021,E3
+02/03/2021,Cambridge,Scunthorpe,0,1,A,2021,E3
+02/03/2021,Cheltenham,Southend,1,0,H,2021,E3
+02/03/2021,Colchester,Carlisle,2,1,H,2021,E3
+02/03/2021,Exeter,Walsall,0,0,D,2021,E3
+02/03/2021,Grimsby,Leyton Orient,0,1,A,2021,E3
+02/03/2021,Oldham,Bolton,0,2,A,2021,E3
+02/03/2021,Salford,Port Vale,1,0,H,2021,E3
+02/03/2021,Stevenage,Forest Green,3,0,H,2021,E3
+02/03/2021,Tranmere,Newport County,1,0,H,2021,E3
+06/03/2021,Exeter,Leyton Orient,4,0,H,2021,E3
+06/03/2021,Barrow,Mansfield,2,0,H,2021,E3
+06/03/2021,Bradford,Bolton,1,1,D,2021,E3
+06/03/2021,Cambridge,Walsall,1,0,H,2021,E3
+06/03/2021,Cheltenham,Port Vale,3,2,H,2021,E3
+06/03/2021,Colchester,Newport County,0,2,A,2021,E3
+06/03/2021,Grimsby,Forest Green,1,2,A,2021,E3
+06/03/2021,Morecambe,Carlisle,3,1,H,2021,E3
+06/03/2021,Oldham,Southend,0,0,D,2021,E3
+06/03/2021,Salford,Scunthorpe,1,1,D,2021,E3
+06/03/2021,Stevenage,Harrogate,1,0,H,2021,E3
+06/03/2021,Tranmere,Crawley Town,0,1,A,2021,E3
+09/03/2021,Bolton,Cambridge,2,1,H,2021,E3
+09/03/2021,Carlisle,Grimsby,1,1,D,2021,E3
+09/03/2021,Crawley Town,Salford,1,0,H,2021,E3
+09/03/2021,Forest Green,Morecambe,2,2,D,2021,E3
+09/03/2021,Harrogate,Colchester,3,0,H,2021,E3
+09/03/2021,Leyton Orient,Stevenage,0,0,D,2021,E3
+09/03/2021,Mansfield,Cheltenham,3,1,H,2021,E3
+09/03/2021,Newport County,Bradford,2,1,H,2021,E3
+09/03/2021,Port Vale,Oldham,0,0,D,2021,E3
+09/03/2021,Scunthorpe,Exeter,0,2,A,2021,E3
+09/03/2021,Southend,Tranmere,0,2,A,2021,E3
+12/03/2021,Walsall,Barrow,0,1,A,2021,E3
+13/03/2021,Leyton Orient,Scunthorpe,1,1,D,2021,E3
+13/03/2021,Carlisle,Bradford,3,1,H,2021,E3
+13/03/2021,Crawley Town,Mansfield,1,0,H,2021,E3
+13/03/2021,Exeter,Cheltenham,0,1,A,2021,E3
+13/03/2021,Forest Green,Harrogate,2,1,H,2021,E3
+13/03/2021,Morecambe,Newport County,1,3,A,2021,E3
+13/03/2021,Oldham,Cambridge,2,4,A,2021,E3
+13/03/2021,Port Vale,Bolton,0,1,A,2021,E3
+13/03/2021,Southend,Stevenage,0,0,D,2021,E3
+13/03/2021,Grimsby,Colchester,0,0,D,2021,E3
+16/03/2021,Cheltenham,Barrow,0,2,A,2021,E3
+16/03/2021,Crawley Town,Walsall,1,1,D,2021,E3
+16/03/2021,Port Vale,Newport County,2,1,H,2021,E3
+16/03/2021,Salford,Colchester,0,0,D,2021,E3
+16/03/2021,Scunthorpe,Oldham,1,1,D,2021,E3
+16/03/2021,Mansfield,Carlisle,1,1,D,2021,E3
+17/03/2021,Grimsby,Tranmere,0,0,D,2021,E3
+20/03/2021,Newport County,Leyton Orient,0,1,A,2021,E3
+20/03/2021,Stevenage,Carlisle,3,1,H,2021,E3
+20/03/2021,Barrow,Crawley Town,3,2,H,2021,E3
+20/03/2021,Bolton,Walsall,2,1,H,2021,E3
+20/03/2021,Bradford,Oldham,0,0,D,2021,E3
+20/03/2021,Cambridge,Forest Green,1,0,H,2021,E3
+20/03/2021,Cheltenham,Salford,2,0,H,2021,E3
+20/03/2021,Colchester,Port Vale,0,1,A,2021,E3
+20/03/2021,Harrogate,Morecambe,0,1,A,2021,E3
+20/03/2021,Mansfield,Grimsby,2,2,D,2021,E3
+20/03/2021,Scunthorpe,Southend,1,1,D,2021,E3
+20/03/2021,Tranmere,Exeter,2,1,H,2021,E3
+23/03/2021,Mansfield,Forest Green,0,0,D,2021,E3
+23/03/2021,Carlisle,Leyton Orient,0,1,A,2021,E3
+23/03/2021,Barrow,Grimsby,0,1,A,2021,E3
+23/03/2021,Colchester,Tranmere,2,2,D,2021,E3
+23/03/2021,Oldham,Exeter,2,1,H,2021,E3
+23/03/2021,Scunthorpe,Bradford,2,0,H,2021,E3
+23/03/2021,Southend,Walsall,0,0,D,2021,E3
+27/03/2021,Forest Green,Bolton,0,1,A,2021,E3
+27/03/2021,Exeter,Salford,1,0,H,2021,E3
+27/03/2021,Carlisle,Cambridge,1,2,A,2021,E3
+27/03/2021,Colchester,Bradford,1,2,A,2021,E3
+27/03/2021,Crawley Town,Port Vale,1,3,A,2021,E3
+27/03/2021,Grimsby,Walsall,1,1,D,2021,E3
+27/03/2021,Harrogate,Southend,0,1,A,2021,E3
+27/03/2021,Leyton Orient,Oldham,2,1,H,2021,E3
+27/03/2021,Morecambe,Cheltenham,1,0,H,2021,E3
+27/03/2021,Stevenage,Barrow,2,1,H,2021,E3
+27/03/2021,Tranmere,Mansfield,1,1,D,2021,E3
+30/03/2021,Carlisle,Crawley Town,2,0,H,2021,E3
+02/04/2021,Bolton,Colchester,0,0,D,2021,E3
+02/04/2021,Scunthorpe,Crawley Town,0,0,D,2021,E3
+02/04/2021,Barrow,Newport County,2,1,H,2021,E3
+02/04/2021,Bradford,Forest Green,4,1,H,2021,E3
+02/04/2021,Cambridge,Morecambe,2,1,H,2021,E3
+02/04/2021,Cheltenham,Tranmere,4,0,H,2021,E3
+02/04/2021,Mansfield,Leyton Orient,0,2,A,2021,E3
+02/04/2021,Oldham,Stevenage,0,1,A,2021,E3
+02/04/2021,Port Vale,Exeter,1,0,H,2021,E3
+02/04/2021,Salford,Grimsby,1,1,D,2021,E3
+02/04/2021,Walsall,Harrogate,0,0,D,2021,E3
+03/04/2021,Southend,Carlisle,0,2,A,2021,E3
+05/04/2021,Colchester,Barrow,1,1,D,2021,E3
+05/04/2021,Crawley Town,Oldham,1,4,A,2021,E3
+05/04/2021,Exeter,Mansfield,0,0,D,2021,E3
+05/04/2021,Forest Green,Salford,0,2,A,2021,E3
+05/04/2021,Grimsby,Cheltenham,1,1,D,2021,E3
+05/04/2021,Harrogate,Port Vale,0,2,A,2021,E3
+05/04/2021,Leyton Orient,Walsall,0,0,D,2021,E3
+05/04/2021,Newport County,Bolton,1,0,H,2021,E3
+05/04/2021,Stevenage,Bradford,1,1,D,2021,E3
+05/04/2021,Tranmere,Cambridge,1,1,D,2021,E3
+06/04/2021,Carlisle,Scunthorpe,2,0,H,2021,E3
+06/04/2021,Morecambe,Southend,1,1,D,2021,E3
+09/04/2021,Mansfield,Newport County,1,1,D,2021,E3
+09/04/2021,Oldham,Colchester,5,2,H,2021,E3
+10/04/2021,Barrow,Carlisle,2,2,D,2021,E3
+10/04/2021,Bolton,Harrogate,2,1,H,2021,E3
+10/04/2021,Bradford,Grimsby,1,0,H,2021,E3
+10/04/2021,Cambridge,Exeter,1,4,A,2021,E3
+10/04/2021,Cheltenham,Leyton Orient,1,0,H,2021,E3
+10/04/2021,Port Vale,Morecambe,1,0,H,2021,E3
+10/04/2021,Salford,Stevenage,2,1,H,2021,E3
+10/04/2021,Scunthorpe,Tranmere,0,0,D,2021,E3
+10/04/2021,Southend,Crawley Town,0,0,D,2021,E3
+10/04/2021,Walsall,Forest Green,2,1,H,2021,E3
+13/04/2021,Morecambe,Scunthorpe,4,1,H,2021,E3
+13/04/2021,Barrow,Exeter,2,1,H,2021,E3
+13/04/2021,Bradford,Crawley Town,0,2,A,2021,E3
+13/04/2021,Harrogate,Leyton Orient,2,2,D,2021,E3
+13/04/2021,Newport County,Carlisle,0,0,D,2021,E3
+13/04/2021,Salford,Bolton,0,1,A,2021,E3
+13/04/2021,Walsall,Tranmere,1,0,H,2021,E3
+16/04/2021,Crawley Town,Cheltenham,1,0,H,2021,E3
+17/04/2021,Carlisle,Port Vale,0,0,D,2021,E3
+17/04/2021,Exeter,Southend,0,0,D,2021,E3
+17/04/2021,Forest Green,Scunthorpe,3,2,H,2021,E3
+17/04/2021,Grimsby,Bolton,2,1,H,2021,E3
+17/04/2021,Harrogate,Bradford,2,1,H,2021,E3
+17/04/2021,Leyton Orient,Barrow,2,0,H,2021,E3
+17/04/2021,Morecambe,Oldham,4,3,H,2021,E3
+17/04/2021,Newport County,Cambridge,0,1,A,2021,E3
+17/04/2021,Stevenage,Mansfield,0,1,A,2021,E3
+17/04/2021,Tranmere,Salford,0,0,D,2021,E3
+17/04/2021,Colchester,Walsall,2,1,H,2021,E3
+20/04/2021,Barrow,Port Vale,0,2,A,2021,E3
+20/04/2021,Bolton,Carlisle,1,0,H,2021,E3
+20/04/2021,Bradford,Tranmere,0,1,A,2021,E3
+20/04/2021,Colchester,Southend,2,0,H,2021,E3
+20/04/2021,Forest Green,Exeter,0,0,D,2021,E3
+20/04/2021,Grimsby,Morecambe,0,3,A,2021,E3
+20/04/2021,Harrogate,Oldham,0,3,A,2021,E3
+20/04/2021,Leyton Orient,Cambridge,2,4,A,2021,E3
+20/04/2021,Mansfield,Scunthorpe,3,0,H,2021,E3
+20/04/2021,Newport County,Crawley Town,2,0,H,2021,E3
+20/04/2021,Stevenage,Cheltenham,0,1,A,2021,E3
+20/04/2021,Walsall,Salford,0,2,A,2021,E3
+24/04/2021,Cambridge,Stevenage,0,1,A,2021,E3
+24/04/2021,Carlisle,Harrogate,1,1,D,2021,E3
+24/04/2021,Cheltenham,Colchester,1,0,H,2021,E3
+24/04/2021,Crawley Town,Forest Green,0,0,D,2021,E3
+24/04/2021,Exeter,Newport County,0,0,D,2021,E3
+24/04/2021,Morecambe,Bolton,0,1,A,2021,E3
+24/04/2021,Oldham,Grimsby,1,2,A,2021,E3
+24/04/2021,Port Vale,Bradford,2,1,H,2021,E3
+24/04/2021,Salford,Mansfield,2,0,H,2021,E3
+24/04/2021,Scunthorpe,Walsall,0,2,A,2021,E3
+24/04/2021,Southend,Leyton Orient,2,1,H,2021,E3
+24/04/2021,Tranmere,Barrow,1,0,H,2021,E3
+27/04/2021,Newport County,Scunthorpe,4,0,H,2021,E3
+27/04/2021,Bradford,Salford,0,1,A,2021,E3
+27/04/2021,Cheltenham,Carlisle,1,1,D,2021,E3
+27/04/2021,Exeter,Grimsby,3,2,H,2021,E3
+27/04/2021,Forest Green,Barrow,0,2,A,2021,E3
+30/04/2021,Harrogate,Cambridge,5,4,H,2021,E3
+01/05/2021,Barrow,Southend,1,2,A,2021,E3
+01/05/2021,Bolton,Exeter,1,2,A,2021,E3
+01/05/2021,Bradford,Scunthorpe,0,0,D,2021,E3
+01/05/2021,Colchester,Salford,1,0,H,2021,E3
+01/05/2021,Forest Green,Tranmere,2,1,H,2021,E3
+01/05/2021,Grimsby,Port Vale,1,0,H,2021,E3
+01/05/2021,Leyton Orient,Carlisle,2,3,A,2021,E3
+01/05/2021,Mansfield,Oldham,4,1,H,2021,E3
+01/05/2021,Newport County,Cheltenham,1,0,H,2021,E3
+01/05/2021,Stevenage,Crawley Town,3,3,D,2021,E3
+01/05/2021,Walsall,Morecambe,0,2,A,2021,E3
+08/05/2021,Cambridge,Grimsby,3,0,H,2021,E3
+08/05/2021,Carlisle,Walsall,0,0,D,2021,E3
+08/05/2021,Cheltenham,Harrogate,4,1,H,2021,E3
+08/05/2021,Crawley Town,Bolton,1,4,A,2021,E3
+08/05/2021,Exeter,Barrow,1,1,D,2021,E3
+08/05/2021,Morecambe,Bradford,2,0,H,2021,E3
+08/05/2021,Oldham,Forest Green,0,3,A,2021,E3
+08/05/2021,Port Vale,Mansfield,0,3,A,2021,E3
+08/05/2021,Scunthorpe,Stevenage,0,1,A,2021,E3
+08/05/2021,Southend,Newport County,1,1,D,2021,E3
+08/05/2021,Tranmere,Colchester,0,0,D,2021,E3
+08/05/2021,Salford,Leyton Orient,3,0,H,2021,E3

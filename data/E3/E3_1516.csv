@@ -1,0 +1,554 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season,Division
+08/08/15,Accrington,Luton,1.0,1.0,D,1516,E3
+08/08/15,AFC Wimbledon,Plymouth,0.0,2.0,A,1516,E3
+08/08/15,Bristol Rvs,Northampton,0.0,1.0,A,1516,E3
+08/08/15,Cambridge,Newport County,3.0,0.0,H,1516,E3
+08/08/15,Exeter,Yeovil,3.0,2.0,H,1516,E3
+08/08/15,Hartlepool,Morecambe,2.0,0.0,H,1516,E3
+08/08/15,Leyton Orient,Barnet,2.0,0.0,H,1516,E3
+08/08/15,Mansfield,Carlisle,1.0,1.0,D,1516,E3
+08/08/15,Oxford,Crawley Town,1.0,1.0,D,1516,E3
+08/08/15,Portsmouth,Dag and Red,3.0,0.0,H,1516,E3
+08/08/15,Stevenage,Notts County,0.0,2.0,A,1516,E3
+08/08/15,Wycombe,York,3.0,0.0,H,1516,E3
+14/08/15,Notts County,Mansfield,0.0,2.0,A,1516,E3
+15/08/15,Barnet,Wycombe,0.0,2.0,A,1516,E3
+15/08/15,Carlisle,Cambridge,4.0,4.0,D,1516,E3
+15/08/15,Crawley Town,AFC Wimbledon,1.0,2.0,A,1516,E3
+15/08/15,Dag and Red,Leyton Orient,1.0,3.0,A,1516,E3
+15/08/15,Luton,Oxford,2.0,2.0,D,1516,E3
+15/08/15,Morecambe,Accrington,1.0,0.0,H,1516,E3
+15/08/15,Newport County,Stevenage,2.0,2.0,D,1516,E3
+15/08/15,Northampton,Exeter,3.0,0.0,H,1516,E3
+15/08/15,Plymouth,Portsmouth,1.0,2.0,A,1516,E3
+15/08/15,Yeovil,Bristol Rvs,0.0,1.0,A,1516,E3
+15/08/15,York,Hartlepool,1.0,2.0,A,1516,E3
+18/08/15,Accrington,Mansfield,1.0,0.0,H,1516,E3
+18/08/15,AFC Wimbledon,Cambridge,1.0,2.0,A,1516,E3
+18/08/15,Barnet,Northampton,2.0,0.0,H,1516,E3
+18/08/15,Crawley Town,Portsmouth,0.0,0.0,D,1516,E3
+18/08/15,Dag and Red,Exeter,1.0,2.0,A,1516,E3
+18/08/15,Hartlepool,Newport County,1.0,0.0,H,1516,E3
+18/08/15,Leyton Orient,Stevenage,3.0,0.0,H,1516,E3
+18/08/15,Luton,Bristol Rvs,0.0,1.0,A,1516,E3
+18/08/15,Morecambe,Wycombe,0.0,1.0,A,1516,E3
+18/08/15,Oxford,Notts County,3.0,1.0,H,1516,E3
+18/08/15,Plymouth,Carlisle,4.0,1.0,H,1516,E3
+18/08/15,York,Yeovil,1.0,0.0,H,1516,E3
+22/08/15,Bristol Rvs,Barnet,3.0,1.0,H,1516,E3
+22/08/15,Cambridge,Crawley Town,0.0,3.0,A,1516,E3
+22/08/15,Carlisle,AFC Wimbledon,1.0,1.0,D,1516,E3
+22/08/15,Exeter,York,0.0,0.0,D,1516,E3
+22/08/15,Mansfield,Oxford,1.0,1.0,D,1516,E3
+22/08/15,Newport County,Leyton Orient,2.0,3.0,A,1516,E3
+22/08/15,Northampton,Plymouth,0.0,2.0,A,1516,E3
+22/08/15,Notts County,Accrington,1.0,1.0,D,1516,E3
+22/08/15,Portsmouth,Morecambe,3.0,3.0,D,1516,E3
+22/08/15,Stevenage,Hartlepool,2.0,0.0,H,1516,E3
+22/08/15,Wycombe,Dag and Red,1.0,1.0,D,1516,E3
+22/08/15,Yeovil,Luton,3.0,2.0,H,1516,E3
+29/08/15,Accrington,Northampton,1.0,1.0,D,1516,E3
+29/08/15,AFC Wimbledon,Exeter,2.0,1.0,H,1516,E3
+29/08/15,Barnet,Cambridge,0.0,0.0,D,1516,E3
+29/08/15,Crawley Town,Wycombe,0.0,0.0,D,1516,E3
+29/08/15,Dag and Red,Stevenage,1.0,1.0,D,1516,E3
+29/08/15,Hartlepool,Carlisle,2.0,3.0,A,1516,E3
+29/08/15,Leyton Orient,Bristol Rvs,2.0,0.0,H,1516,E3
+29/08/15,Luton,Portsmouth,1.0,2.0,A,1516,E3
+29/08/15,Morecambe,Notts County,4.0,1.0,H,1516,E3
+29/08/15,Oxford,Yeovil,2.0,0.0,H,1516,E3
+29/08/15,Plymouth,Newport County,1.0,0.0,H,1516,E3
+29/08/15,York,Mansfield,1.0,2.0,A,1516,E3
+05/09/15,Cambridge,Luton,1.0,3.0,A,1516,E3
+05/09/15,Carlisle,Barnet,3.0,2.0,H,1516,E3
+05/09/15,Exeter,Leyton Orient,4.0,0.0,H,1516,E3
+05/09/15,Mansfield,AFC Wimbledon,1.0,1.0,D,1516,E3
+05/09/15,Newport County,York,0.0,3.0,A,1516,E3
+05/09/15,Northampton,Dag and Red,1.0,2.0,A,1516,E3
+05/09/15,Portsmouth,Accrington,0.0,0.0,D,1516,E3
+05/09/15,Stevenage,Plymouth,2.0,1.0,H,1516,E3
+05/09/15,Wycombe,Hartlepool,2.0,1.0,H,1516,E3
+05/09/15,Yeovil,Morecambe,2.0,4.0,A,1516,E3
+06/09/15,Bristol Rvs,Oxford,0.0,1.0,A,1516,E3
+12/09/15,Bristol Rvs,Accrington,0.0,1.0,A,1516,E3
+12/09/15,Cambridge,Leyton Orient,1.0,1.0,D,1516,E3
+12/09/15,Carlisle,Dag and Red,2.0,1.0,H,1516,E3
+12/09/15,Exeter,Hartlepool,1.0,0.0,H,1516,E3
+12/09/15,Mansfield,Crawley Town,4.0,0.0,H,1516,E3
+12/09/15,Newport County,Morecambe,1.0,2.0,A,1516,E3
+12/09/15,Northampton,Oxford,1.0,0.0,H,1516,E3
+12/09/15,Notts County,Luton,3.0,2.0,H,1516,E3
+12/09/15,Portsmouth,Barnet,3.0,1.0,H,1516,E3
+12/09/15,Stevenage,York,2.0,2.0,D,1516,E3
+12/09/15,Wycombe,Plymouth,1.0,2.0,A,1516,E3
+12/09/15,Yeovil,AFC Wimbledon,1.0,1.0,D,1516,E3
+19/09/15,Accrington,Exeter,4.0,2.0,H,1516,E3
+19/09/15,AFC Wimbledon,Notts County,2.0,1.0,H,1516,E3
+19/09/15,Barnet,Stevenage,3.0,2.0,H,1516,E3
+19/09/15,Crawley Town,Yeovil,0.0,1.0,A,1516,E3
+19/09/15,Dag and Red,Newport County,0.0,0.0,D,1516,E3
+19/09/15,Hartlepool,Cambridge,0.0,0.0,D,1516,E3
+19/09/15,Leyton Orient,Wycombe,1.0,1.0,D,1516,E3
+19/09/15,Luton,Mansfield,1.0,0.0,H,1516,E3
+19/09/15,Morecambe,Northampton,2.0,4.0,A,1516,E3
+19/09/15,Oxford,Portsmouth,1.0,1.0,D,1516,E3
+19/09/15,Plymouth,Bristol Rvs,1.0,1.0,D,1516,E3
+19/09/15,York,Carlisle,2.0,2.0,D,1516,E3
+22/09/15,Notts County,Crawley Town,4.0,1.0,H,1516,E3
+26/09/15,Barnet,Dag and Red,3.0,1.0,H,1516,E3
+26/09/15,Bristol Rvs,Portsmouth,1.0,2.0,A,1516,E3
+26/09/15,Cambridge,Stevenage,1.0,0.0,H,1516,E3
+26/09/15,Carlisle,Newport County,0.0,1.0,A,1516,E3
+26/09/15,Crawley Town,Accrington,0.0,3.0,A,1516,E3
+26/09/15,Exeter,Wycombe,0.0,2.0,A,1516,E3
+26/09/15,Luton,AFC Wimbledon,2.0,0.0,H,1516,E3
+26/09/15,Mansfield,Plymouth,0.0,0.0,D,1516,E3
+26/09/15,Northampton,Leyton Orient,1.0,1.0,D,1516,E3
+26/09/15,Notts County,York,1.0,0.0,H,1516,E3
+26/09/15,Oxford,Morecambe,0.0,0.0,D,1516,E3
+26/09/15,Yeovil,Hartlepool,1.0,2.0,A,1516,E3
+29/09/15,Accrington,Yeovil,2.0,1.0,H,1516,E3
+29/09/15,AFC Wimbledon,Northampton,1.0,1.0,D,1516,E3
+29/09/15,Dag and Red,Notts County,1.0,1.0,D,1516,E3
+29/09/15,Hartlepool,Bristol Rvs,0.0,3.0,A,1516,E3
+29/09/15,Leyton Orient,Carlisle,1.0,2.0,A,1516,E3
+29/09/15,Morecambe,Luton,1.0,3.0,A,1516,E3
+29/09/15,Newport County,Crawley Town,0.0,3.0,A,1516,E3
+29/09/15,Plymouth,Barnet,2.0,1.0,H,1516,E3
+29/09/15,Portsmouth,Exeter,1.0,2.0,A,1516,E3
+29/09/15,Stevenage,Mansfield,0.0,2.0,A,1516,E3
+29/09/15,Wycombe,Cambridge,1.0,0.0,H,1516,E3
+29/09/15,York,Oxford,1.0,2.0,A,1516,E3
+03/10/15,Accrington,Oxford,1.0,3.0,A,1516,E3
+03/10/15,AFC Wimbledon,Barnet,2.0,0.0,H,1516,E3
+03/10/15,Dag and Red,Mansfield,3.0,4.0,A,1516,E3
+03/10/15,Hartlepool,Luton,1.0,4.0,A,1516,E3
+03/10/15,Leyton Orient,Notts County,3.0,1.0,H,1516,E3
+03/10/15,Morecambe,Bristol Rvs,3.0,4.0,A,1516,E3
+03/10/15,Newport County,Exeter,1.0,1.0,D,1516,E3
+03/10/15,Plymouth,Crawley Town,2.0,1.0,H,1516,E3
+03/10/15,Portsmouth,Yeovil,0.0,0.0,D,1516,E3
+03/10/15,Stevenage,Carlisle,0.0,1.0,A,1516,E3
+03/10/15,Wycombe,Northampton,2.0,3.0,A,1516,E3
+03/10/15,York,Cambridge,2.0,2.0,D,1516,E3
+10/10/15,Barnet,Accrington,1.0,2.0,A,1516,E3
+10/10/15,Cambridge,Portsmouth,1.0,3.0,A,1516,E3
+10/10/15,Carlisle,Morecambe,2.0,3.0,A,1516,E3
+10/10/15,Crawley Town,Leyton Orient,3.0,2.0,H,1516,E3
+10/10/15,Luton,York,1.0,1.0,D,1516,E3
+10/10/15,Mansfield,Newport County,3.0,0.0,H,1516,E3
+10/10/15,Northampton,Hartlepool,2.0,1.0,H,1516,E3
+10/10/15,Oxford,AFC Wimbledon,1.0,0.0,H,1516,E3
+10/10/15,Yeovil,Dag and Red,2.0,2.0,D,1516,E3
+11/10/15,Exeter,Stevenage,3.0,3.0,D,1516,E3
+11/10/15,Notts County,Plymouth,0.0,2.0,A,1516,E3
+17/10/15,AFC Wimbledon,Morecambe,2.0,5.0,A,1516,E3
+17/10/15,Barnet,York,3.0,1.0,H,1516,E3
+17/10/15,Cambridge,Northampton,2.0,1.0,H,1516,E3
+17/10/15,Carlisle,Exeter,1.0,0.0,H,1516,E3
+17/10/15,Crawley Town,Luton,2.0,1.0,H,1516,E3
+17/10/15,Dag and Red,Hartlepool,0.0,1.0,A,1516,E3
+17/10/15,Leyton Orient,Oxford,2.0,2.0,D,1516,E3
+17/10/15,Mansfield,Bristol Rvs,1.0,2.0,A,1516,E3
+17/10/15,Newport County,Portsmouth,0.0,1.0,A,1516,E3
+17/10/15,Notts County,Yeovil,2.0,0.0,H,1516,E3
+17/10/15,Plymouth,Accrington,1.0,0.0,H,1516,E3
+17/10/15,Stevenage,Wycombe,2.0,1.0,H,1516,E3
+20/10/15,Accrington,AFC Wimbledon,3.0,4.0,A,1516,E3
+20/10/15,Bristol Rvs,Notts County,0.0,0.0,D,1516,E3
+20/10/15,Hartlepool,Barnet,1.0,1.0,D,1516,E3
+20/10/15,Luton,Leyton Orient,1.0,1.0,D,1516,E3
+20/10/15,Morecambe,Crawley Town,3.0,1.0,H,1516,E3
+20/10/15,Northampton,Carlisle,3.0,2.0,H,1516,E3
+20/10/15,Oxford,Plymouth,1.0,0.0,H,1516,E3
+20/10/15,Portsmouth,Stevenage,1.0,1.0,D,1516,E3
+20/10/15,Wycombe,Newport County,0.0,2.0,A,1516,E3
+20/10/15,Yeovil,Mansfield,0.0,1.0,A,1516,E3
+20/10/15,York,Dag and Red,2.0,2.0,D,1516,E3
+21/10/15,Exeter,Cambridge,1.0,0.0,H,1516,E3
+24/10/15,Accrington,Dag and Red,3.0,1.0,H,1516,E3
+24/10/15,Bristol Rvs,Newport County,1.0,4.0,A,1516,E3
+24/10/15,Exeter,Notts County,1.0,1.0,D,1516,E3
+24/10/15,Hartlepool,Crawley Town,1.0,2.0,A,1516,E3
+24/10/15,Luton,Plymouth,1.0,2.0,A,1516,E3
+24/10/15,Morecambe,Leyton Orient,0.0,1.0,A,1516,E3
+24/10/15,Northampton,Stevenage,2.0,1.0,H,1516,E3
+24/10/15,Oxford,Barnet,2.0,3.0,A,1516,E3
+24/10/15,Portsmouth,Mansfield,0.0,0.0,D,1516,E3
+24/10/15,Wycombe,Carlisle,1.0,1.0,D,1516,E3
+24/10/15,Yeovil,Cambridge,2.0,3.0,A,1516,E3
+24/10/15,York,AFC Wimbledon,1.0,3.0,A,1516,E3
+30/10/15,Cambridge,Bristol Rvs,1.0,2.0,A,1516,E3
+31/10/15,AFC Wimbledon,Hartlepool,2.0,0.0,H,1516,E3
+31/10/15,Barnet,Exeter,2.0,0.0,H,1516,E3
+31/10/15,Carlisle,Yeovil,3.0,2.0,H,1516,E3
+31/10/15,Crawley Town,York,1.0,0.0,H,1516,E3
+31/10/15,Leyton Orient,Accrington,0.0,1.0,A,1516,E3
+31/10/15,Mansfield,Wycombe,0.0,2.0,A,1516,E3
+31/10/15,Newport County,Northampton,2.0,2.0,D,1516,E3
+31/10/15,Notts County,Portsmouth,2.0,1.0,H,1516,E3
+31/10/15,Plymouth,Morecambe,2.0,0.0,H,1516,E3
+31/10/15,Stevenage,Oxford,1.0,5.0,A,1516,E3
+01/11/15,Dag and Red,Luton,0.0,2.0,A,1516,E3
+14/11/15,Accrington,Newport County,2.0,2.0,D,1516,E3
+14/11/15,Bristol Rvs,Carlisle,2.0,0.0,H,1516,E3
+14/11/15,Exeter,Crawley Town,2.0,2.0,D,1516,E3
+14/11/15,Luton,Barnet,2.0,0.0,H,1516,E3
+14/11/15,Northampton,Mansfield,1.0,0.0,H,1516,E3
+14/11/15,Oxford,Cambridge,1.0,0.0,H,1516,E3
+14/11/15,Yeovil,Stevenage,2.0,2.0,D,1516,E3
+14/11/15,York,Plymouth,1.0,2.0,A,1516,E3
+15/11/15,Hartlepool,Leyton Orient,3.0,1.0,H,1516,E3
+15/11/15,Portsmouth,AFC Wimbledon,0.0,0.0,D,1516,E3
+21/11/15,AFC Wimbledon,Wycombe,1.0,1.0,D,1516,E3
+21/11/15,Barnet,Morecambe,0.0,0.0,D,1516,E3
+21/11/15,Cambridge,Accrington,2.0,3.0,A,1516,E3
+21/11/15,Carlisle,Portsmouth,2.0,2.0,D,1516,E3
+21/11/15,Crawley Town,Bristol Rvs,2.0,1.0,H,1516,E3
+21/11/15,Dag and Red,Oxford,0.0,1.0,A,1516,E3
+21/11/15,Leyton Orient,York,3.0,2.0,H,1516,E3
+21/11/15,Mansfield,Hartlepool,3.0,1.0,H,1516,E3
+21/11/15,Newport County,Yeovil,0.0,0.0,D,1516,E3
+21/11/15,Notts County,Northampton,1.0,2.0,A,1516,E3
+21/11/15,Plymouth,Exeter,1.0,2.0,A,1516,E3
+21/11/15,Stevenage,Luton,0.0,0.0,D,1516,E3
+24/11/15,AFC Wimbledon,Dag and Red,0.0,1.0,A,1516,E3
+24/11/15,Bristol Rvs,Stevenage,1.0,2.0,A,1516,E3
+24/11/15,Crawley Town,Northampton,1.0,2.0,A,1516,E3
+24/11/15,Luton,Carlisle,3.0,4.0,A,1516,E3
+24/11/15,Mansfield,Exeter,0.0,2.0,A,1516,E3
+24/11/15,Morecambe,Cambridge,2.0,4.0,A,1516,E3
+24/11/15,Notts County,Barnet,4.0,2.0,H,1516,E3
+24/11/15,Oxford,Newport County,1.0,1.0,D,1516,E3
+24/11/15,Plymouth,Leyton Orient,1.0,1.0,D,1516,E3
+24/11/15,Portsmouth,York,6.0,0.0,H,1516,E3
+24/11/15,Yeovil,Wycombe,0.0,1.0,A,1516,E3
+28/11/15,Barnet,Mansfield,1.0,3.0,A,1516,E3
+28/11/15,Cambridge,Notts County,3.0,1.0,H,1516,E3
+28/11/15,Carlisle,Crawley Town,3.0,1.0,H,1516,E3
+28/11/15,Dag and Red,Plymouth,1.0,1.0,D,1516,E3
+28/11/15,Exeter,Bristol Rvs,1.0,1.0,D,1516,E3
+28/11/15,Hartlepool,Oxford,0.0,1.0,A,1516,E3
+28/11/15,Leyton Orient,AFC Wimbledon,1.0,1.0,D,1516,E3
+28/11/15,Newport County,Luton,3.0,0.0,H,1516,E3
+28/11/15,Northampton,Yeovil,2.0,0.0,H,1516,E3
+28/11/15,Stevenage,Morecambe,4.0,3.0,H,1516,E3
+28/11/15,Wycombe,Portsmouth,2.0,2.0,D,1516,E3
+28/11/15,York,Accrington,1.0,5.0,A,1516,E3
+01/12/15,Bristol Rvs,Wycombe,3.0,0.0,H,1516,E3
+01/12/15,Morecambe,Dag and Red,1.0,0.0,H,1516,E3
+12/12/15,AFC Wimbledon,Stevenage,1.0,2.0,A,1516,E3
+12/12/15,Bristol Rvs,York,2.0,1.0,H,1516,E3
+12/12/15,Crawley Town,Dag and Red,3.0,2.0,H,1516,E3
+12/12/15,Luton,Northampton,3.0,4.0,A,1516,E3
+12/12/15,Mansfield,Leyton Orient,1.0,1.0,D,1516,E3
+12/12/15,Notts County,Newport County,4.0,3.0,H,1516,E3
+12/12/15,Oxford,Carlisle,1.0,1.0,D,1516,E3
+12/12/15,Plymouth,Cambridge,1.0,2.0,A,1516,E3
+12/12/15,Portsmouth,Hartlepool,4.0,0.0,H,1516,E3
+12/12/15,Yeovil,Barnet,2.0,2.0,D,1516,E3
+15/12/15,Wycombe,Notts County,2.0,2.0,D,1516,E3
+19/12/15,Barnet,Crawley Town,4.0,2.0,H,1516,E3
+19/12/15,Cambridge,Mansfield,1.0,1.0,D,1516,E3
+19/12/15,Carlisle,Notts County,3.0,0.0,H,1516,E3
+19/12/15,Dag and Red,Bristol Rvs,0.0,3.0,A,1516,E3
+19/12/15,Exeter,Luton,2.0,3.0,A,1516,E3
+19/12/15,Hartlepool,Plymouth,1.0,2.0,A,1516,E3
+19/12/15,Leyton Orient,Yeovil,1.0,1.0,D,1516,E3
+19/12/15,Newport County,AFC Wimbledon,2.0,2.0,D,1516,E3
+19/12/15,Northampton,Portsmouth,1.0,2.0,A,1516,E3
+19/12/15,Stevenage,Accrington,1.0,1.0,D,1516,E3
+19/12/15,Wycombe,Oxford,2.0,1.0,H,1516,E3
+19/12/15,York,Morecambe,2.0,1.0,H,1516,E3
+26/12/15,AFC Wimbledon,Bristol Rvs,0.0,0.0,D,1516,E3
+26/12/15,Barnet,Newport County,2.0,0.0,H,1516,E3
+26/12/15,Crawley Town,Stevenage,2.0,1.0,H,1516,E3
+26/12/15,Dag and Red,Cambridge,0.0,3.0,A,1516,E3
+26/12/15,Leyton Orient,Portsmouth,3.0,2.0,H,1516,E3
+26/12/15,Luton,Wycombe,0.0,2.0,A,1516,E3
+26/12/15,Oxford,Exeter,3.0,0.0,H,1516,E3
+26/12/15,Plymouth,Yeovil,1.0,0.0,H,1516,E3
+28/12/15,Bristol Rvs,Leyton Orient,2.0,1.0,H,1516,E3
+28/12/15,Cambridge,Barnet,2.0,1.0,H,1516,E3
+28/12/15,Exeter,AFC Wimbledon,0.0,2.0,A,1516,E3
+28/12/15,Mansfield,York,1.0,1.0,D,1516,E3
+28/12/15,Newport County,Plymouth,1.0,2.0,A,1516,E3
+28/12/15,Northampton,Accrington,1.0,0.0,H,1516,E3
+28/12/15,Notts County,Morecambe,2.0,2.0,D,1516,E3
+28/12/15,Portsmouth,Luton,0.0,0.0,D,1516,E3
+28/12/15,Stevenage,Dag and Red,1.0,3.0,A,1516,E3
+28/12/15,Wycombe,Crawley Town,2.0,0.0,H,1516,E3
+28/12/15,Yeovil,Oxford,0.0,0.0,D,1516,E3
+02/01/16,Bristol Rvs,Luton,2.0,0.0,H,1516,E3
+02/01/16,Cambridge,AFC Wimbledon,1.0,4.0,A,1516,E3
+02/01/16,Carlisle,Plymouth,0.0,2.0,A,1516,E3
+02/01/16,Exeter,Dag and Red,1.0,2.0,A,1516,E3
+02/01/16,Mansfield,Accrington,2.0,3.0,A,1516,E3
+02/01/16,Northampton,Barnet,3.0,0.0,H,1516,E3
+02/01/16,Notts County,Oxford,2.0,4.0,A,1516,E3
+02/01/16,Portsmouth,Crawley Town,3.0,0.0,H,1516,E3
+02/01/16,Stevenage,Leyton Orient,2.0,2.0,D,1516,E3
+02/01/16,Wycombe,Morecambe,0.0,2.0,A,1516,E3
+02/01/16,Yeovil,York,1.0,0.0,H,1516,E3
+09/01/16,Barnet,Bristol Rvs,1.0,0.0,H,1516,E3
+09/01/16,Crawley Town,Cambridge,1.0,0.0,H,1516,E3
+09/01/16,Mansfield,Stevenage,2.0,1.0,H,1516,E3
+12/01/16,Morecambe,Exeter,1.0,1.0,D,1516,E3
+12/01/16,Plymouth,Northampton,1.0,2.0,A,1516,E3
+16/01/16,AFC Wimbledon,Mansfield,3.0,1.0,H,1516,E3
+16/01/16,Barnet,Carlisle,0.0,0.0,D,1516,E3
+16/01/16,Crawley Town,Notts County,0.0,1.0,A,1516,E3
+16/01/16,Dag and Red,Northampton,1.0,2.0,A,1516,E3
+16/01/16,Hartlepool,Wycombe,1.0,0.0,H,1516,E3
+16/01/16,Leyton Orient,Exeter,1.0,3.0,A,1516,E3
+16/01/16,Luton,Cambridge,0.0,0.0,D,1516,E3
+16/01/16,Morecambe,Yeovil,2.0,1.0,H,1516,E3
+16/01/16,Plymouth,Stevenage,3.0,2.0,H,1516,E3
+16/01/16,York,Newport County,0.0,1.0,A,1516,E3
+17/01/16,Oxford,Bristol Rvs,1.0,2.0,A,1516,E3
+19/01/16,Accrington,Hartlepool,3.0,1.0,H,1516,E3
+23/01/16,Bristol Rvs,Plymouth,1.0,1.0,D,1516,E3
+23/01/16,Cambridge,Hartlepool,1.0,1.0,D,1516,E3
+23/01/16,Carlisle,York,1.0,1.0,D,1516,E3
+23/01/16,Exeter,Accrington,2.0,1.0,H,1516,E3
+23/01/16,Mansfield,Luton,0.0,2.0,A,1516,E3
+23/01/16,Newport County,Dag and Red,2.0,2.0,D,1516,E3
+23/01/16,Northampton,Morecambe,3.0,1.0,H,1516,E3
+23/01/16,Notts County,AFC Wimbledon,0.0,2.0,A,1516,E3
+23/01/16,Portsmouth,Oxford,0.0,1.0,A,1516,E3
+23/01/16,Stevenage,Barnet,0.0,0.0,D,1516,E3
+23/01/16,Wycombe,Leyton Orient,0.0,2.0,A,1516,E3
+23/01/16,Yeovil,Crawley Town,2.0,1.0,H,1516,E3
+26/01/16,Leyton Orient,Newport County,1.0,0.0,H,1516,E3
+26/01/16,Morecambe,Mansfield,1.0,2.0,A,1516,E3
+30/01/16,Accrington,Bristol Rvs,1.0,0.0,H,1516,E3
+30/01/16,AFC Wimbledon,Yeovil,2.0,3.0,A,1516,E3
+30/01/16,Crawley Town,Mansfield,0.0,1.0,A,1516,E3
+30/01/16,Hartlepool,Exeter,0.0,2.0,A,1516,E3
+30/01/16,Leyton Orient,Cambridge,1.0,3.0,A,1516,E3
+30/01/16,Luton,Notts County,0.0,2.0,A,1516,E3
+30/01/16,Morecambe,Newport County,1.0,2.0,A,1516,E3
+30/01/16,Plymouth,Wycombe,0.0,1.0,A,1516,E3
+30/01/16,York,Stevenage,2.0,1.0,H,1516,E3
+02/02/16,Luton,Yeovil,1.0,1.0,D,1516,E3
+02/02/16,Morecambe,Portsmouth,1.0,1.0,D,1516,E3
+06/02/16,Cambridge,Dag and Red,1.0,0.0,H,1516,E3
+06/02/16,Carlisle,Accrington,2.0,0.0,H,1516,E3
+06/02/16,Mansfield,Morecambe,2.0,1.0,H,1516,E3
+06/02/16,Northampton,York,2.0,0.0,H,1516,E3
+06/02/16,Portsmouth,Leyton Orient,0.0,1.0,A,1516,E3
+06/02/16,Stevenage,Crawley Town,0.0,1.0,A,1516,E3
+06/02/16,Wycombe,Luton,0.0,1.0,A,1516,E3
+09/02/16,Dag and Red,Wycombe,1.0,2.0,A,1516,E3
+09/02/16,Hartlepool,Stevenage,1.0,2.0,A,1516,E3
+09/02/16,Oxford,Mansfield,2.0,2.0,D,1516,E3
+13/02/16,Accrington,Crawley Town,4.0,1.0,H,1516,E3
+13/02/16,AFC Wimbledon,Luton,4.0,1.0,H,1516,E3
+13/02/16,Dag and Red,Barnet,0.0,2.0,A,1516,E3
+13/02/16,Hartlepool,Yeovil,2.0,1.0,H,1516,E3
+13/02/16,Leyton Orient,Northampton,0.0,4.0,A,1516,E3
+13/02/16,Morecambe,Oxford,2.0,4.0,A,1516,E3
+13/02/16,Newport County,Carlisle,1.0,0.0,H,1516,E3
+13/02/16,Plymouth,Mansfield,3.0,0.0,H,1516,E3
+13/02/16,Portsmouth,Bristol Rvs,3.0,1.0,H,1516,E3
+13/02/16,Stevenage,Cambridge,2.0,0.0,H,1516,E3
+13/02/16,Wycombe,Exeter,1.0,0.0,H,1516,E3
+13/02/16,York,Notts County,2.0,1.0,H,1516,E3
+16/02/16,Accrington,Carlisle,1.0,1.0,D,1516,E3
+16/02/16,Hartlepool,Notts County,2.0,3.0,A,1516,E3
+16/02/16,Oxford,Northampton,0.0,1.0,A,1516,E3
+16/02/16,York,Exeter,2.0,0.0,H,1516,E3
+20/02/16,Barnet,AFC Wimbledon,1.0,2.0,A,1516,E3
+20/02/16,Bristol Rvs,Morecambe,2.0,1.0,H,1516,E3
+20/02/16,Cambridge,York,3.0,1.0,H,1516,E3
+20/02/16,Carlisle,Stevenage,1.0,0.0,H,1516,E3
+20/02/16,Crawley Town,Plymouth,1.0,1.0,D,1516,E3
+20/02/16,Exeter,Newport County,1.0,1.0,D,1516,E3
+20/02/16,Luton,Hartlepool,2.0,1.0,H,1516,E3
+20/02/16,Mansfield,Dag and Red,3.0,2.0,H,1516,E3
+20/02/16,Northampton,Wycombe,1.0,0.0,H,1516,E3
+20/02/16,Notts County,Leyton Orient,0.0,1.0,A,1516,E3
+20/02/16,Oxford,Accrington,1.0,2.0,A,1516,E3
+20/02/16,Yeovil,Portsmouth,1.0,1.0,D,1516,E3
+23/02/16,Accrington,Notts County,3.0,2.0,H,1516,E3
+23/02/16,AFC Wimbledon,Carlisle,1.0,0.0,H,1516,E3
+23/02/16,Barnet,Portsmouth,1.0,0.0,H,1516,E3
+23/02/16,Exeter,Oxford,1.0,4.0,A,1516,E3
+23/02/16,Yeovil,Plymouth,0.0,0.0,D,1516,E3
+23/02/16,York,Northampton,1.0,2.0,A,1516,E3
+27/02/16,Accrington,Barnet,2.0,2.0,D,1516,E3
+27/02/16,AFC Wimbledon,Oxford,1.0,2.0,A,1516,E3
+27/02/16,Dag and Red,Yeovil,0.0,1.0,A,1516,E3
+27/02/16,Hartlepool,Northampton,0.0,0.0,D,1516,E3
+27/02/16,Leyton Orient,Crawley Town,2.0,0.0,H,1516,E3
+27/02/16,Morecambe,Carlisle,1.0,2.0,A,1516,E3
+27/02/16,Newport County,Mansfield,1.0,0.0,H,1516,E3
+27/02/16,Plymouth,Notts County,1.0,0.0,H,1516,E3
+27/02/16,Portsmouth,Cambridge,2.0,1.0,H,1516,E3
+27/02/16,Stevenage,Exeter,0.0,2.0,A,1516,E3
+27/02/16,Wycombe,Bristol Rvs,1.0,0.0,H,1516,E3
+27/02/16,York,Luton,2.0,3.0,A,1516,E3
+01/03/16,Barnet,Plymouth,1.0,0.0,H,1516,E3
+01/03/16,Bristol Rvs,Hartlepool,4.0,1.0,H,1516,E3
+01/03/16,Cambridge,Wycombe,1.0,0.0,H,1516,E3
+01/03/16,Carlisle,Leyton Orient,2.0,2.0,D,1516,E3
+01/03/16,Crawley Town,Newport County,2.0,0.0,H,1516,E3
+01/03/16,Exeter,Portsmouth,1.0,1.0,D,1516,E3
+01/03/16,Luton,Morecambe,1.0,0.0,H,1516,E3
+01/03/16,Northampton,AFC Wimbledon,1.0,1.0,D,1516,E3
+01/03/16,Notts County,Dag and Red,0.0,0.0,D,1516,E3
+01/03/16,Oxford,York,4.0,0.0,H,1516,E3
+01/03/16,Yeovil,Accrington,1.0,0.0,H,1516,E3
+05/03/16,AFC Wimbledon,Accrington,0.0,0.0,D,1516,E3
+05/03/16,Barnet,Hartlepool,1.0,3.0,A,1516,E3
+05/03/16,Cambridge,Exeter,0.0,1.0,A,1516,E3
+05/03/16,Carlisle,Northampton,1.0,4.0,A,1516,E3
+05/03/16,Crawley Town,Morecambe,1.0,1.0,D,1516,E3
+05/03/16,Dag and Red,York,1.0,0.0,H,1516,E3
+05/03/16,Leyton Orient,Luton,0.0,1.0,A,1516,E3
+05/03/16,Mansfield,Yeovil,0.0,1.0,A,1516,E3
+05/03/16,Newport County,Wycombe,1.0,0.0,H,1516,E3
+05/03/16,Notts County,Bristol Rvs,0.0,2.0,A,1516,E3
+05/03/16,Plymouth,Oxford,2.0,2.0,D,1516,E3
+05/03/16,Stevenage,Portsmouth,0.0,2.0,A,1516,E3
+08/03/16,Accrington,Portsmouth,1.0,3.0,A,1516,E3
+08/03/16,Bristol Rvs,AFC Wimbledon,3.0,1.0,H,1516,E3
+08/03/16,Dag and Red,Carlisle,0.0,0.0,D,1516,E3
+08/03/16,Newport County,Barnet,0.0,3.0,A,1516,E3
+12/03/16,Accrington,Plymouth,2.0,1.0,H,1516,E3
+12/03/16,Bristol Rvs,Mansfield,1.0,0.0,H,1516,E3
+12/03/16,Exeter,Carlisle,2.0,2.0,D,1516,E3
+12/03/16,Hartlepool,Dag and Red,3.0,1.0,H,1516,E3
+12/03/16,Luton,Crawley Town,0.0,1.0,A,1516,E3
+12/03/16,Morecambe,AFC Wimbledon,2.0,1.0,H,1516,E3
+12/03/16,Northampton,Cambridge,1.0,1.0,D,1516,E3
+12/03/16,Oxford,Leyton Orient,0.0,1.0,A,1516,E3
+12/03/16,Portsmouth,Newport County,0.0,3.0,A,1516,E3
+12/03/16,Wycombe,Stevenage,1.0,0.0,H,1516,E3
+12/03/16,Yeovil,Notts County,1.0,0.0,H,1516,E3
+12/03/16,York,Barnet,1.0,1.0,D,1516,E3
+15/03/16,Newport County,Hartlepool,0.0,0.0,D,1516,E3
+15/03/16,Oxford,Dag and Red,4.0,0.0,H,1516,E3
+16/03/16,Accrington,Wycombe,1.0,1.0,D,1516,E3
+19/03/16,AFC Wimbledon,York,2.0,1.0,H,1516,E3
+19/03/16,Barnet,Oxford,0.0,3.0,A,1516,E3
+19/03/16,Cambridge,Yeovil,3.0,0.0,H,1516,E3
+19/03/16,Carlisle,Wycombe,1.0,1.0,D,1516,E3
+19/03/16,Crawley Town,Hartlepool,0.0,0.0,D,1516,E3
+19/03/16,Dag and Red,Accrington,0.0,1.0,A,1516,E3
+19/03/16,Leyton Orient,Morecambe,1.0,0.0,H,1516,E3
+19/03/16,Mansfield,Portsmouth,1.0,1.0,D,1516,E3
+19/03/16,Newport County,Bristol Rvs,1.0,4.0,A,1516,E3
+19/03/16,Notts County,Exeter,1.0,4.0,A,1516,E3
+19/03/16,Plymouth,Luton,0.0,1.0,A,1516,E3
+19/03/16,Stevenage,Northampton,2.0,3.0,A,1516,E3
+25/03/16,Accrington,Leyton Orient,1.0,0.0,H,1516,E3
+25/03/16,Bristol Rvs,Cambridge,3.0,0.0,H,1516,E3
+25/03/16,Exeter,Barnet,1.0,1.0,D,1516,E3
+25/03/16,Hartlepool,AFC Wimbledon,1.0,0.0,H,1516,E3
+25/03/16,Morecambe,Plymouth,0.0,2.0,A,1516,E3
+25/03/16,Northampton,Newport County,1.0,0.0,H,1516,E3
+25/03/16,Oxford,Stevenage,1.0,1.0,D,1516,E3
+25/03/16,Portsmouth,Notts County,4.0,0.0,H,1516,E3
+25/03/16,Wycombe,Mansfield,1.0,0.0,H,1516,E3
+25/03/16,Yeovil,Carlisle,0.0,0.0,D,1516,E3
+25/03/16,York,Crawley Town,2.0,2.0,D,1516,E3
+28/03/16,Barnet,Luton,2.0,1.0,H,1516,E3
+28/03/16,Cambridge,Oxford,0.0,0.0,D,1516,E3
+28/03/16,Carlisle,Bristol Rvs,3.0,2.0,H,1516,E3
+28/03/16,Crawley Town,Exeter,0.0,2.0,A,1516,E3
+28/03/16,Leyton Orient,Hartlepool,0.0,2.0,A,1516,E3
+28/03/16,Mansfield,Northampton,2.0,2.0,D,1516,E3
+28/03/16,Newport County,Accrington,0.0,2.0,A,1516,E3
+28/03/16,Notts County,Wycombe,0.0,0.0,D,1516,E3
+28/03/16,Plymouth,York,3.0,2.0,H,1516,E3
+02/04/16,Accrington,Cambridge,1.0,1.0,D,1516,E3
+02/04/16,Bristol Rvs,Crawley Town,3.0,0.0,H,1516,E3
+02/04/16,Exeter,Plymouth,2.0,1.0,H,1516,E3
+02/04/16,Hartlepool,Mansfield,2.0,1.0,H,1516,E3
+02/04/16,Luton,Stevenage,0.0,1.0,A,1516,E3
+02/04/16,Morecambe,Barnet,4.0,2.0,H,1516,E3
+02/04/16,Northampton,Notts County,2.0,2.0,D,1516,E3
+02/04/16,Portsmouth,Carlisle,1.0,0.0,H,1516,E3
+02/04/16,Wycombe,AFC Wimbledon,1.0,2.0,A,1516,E3
+02/04/16,Yeovil,Newport County,1.0,0.0,H,1516,E3
+02/04/16,York,Leyton Orient,1.0,1.0,D,1516,E3
+05/04/16,Carlisle,Hartlepool,1.0,0.0,H,1516,E3
+05/04/16,Dag and Red,Morecambe,2.0,1.0,H,1516,E3
+05/04/16,Stevenage,Yeovil,0.0,0.0,D,1516,E3
+09/04/16,Barnet,Leyton Orient,3.0,0.0,H,1516,E3
+09/04/16,Carlisle,Mansfield,1.0,2.0,A,1516,E3
+09/04/16,Crawley Town,Oxford,1.0,5.0,A,1516,E3
+09/04/16,Dag and Red,Portsmouth,1.0,4.0,A,1516,E3
+09/04/16,Luton,Accrington,0.0,2.0,A,1516,E3
+09/04/16,Morecambe,Hartlepool,2.0,5.0,A,1516,E3
+09/04/16,Newport County,Cambridge,0.0,1.0,A,1516,E3
+09/04/16,Northampton,Bristol Rvs,2.0,2.0,D,1516,E3
+09/04/16,Notts County,Stevenage,1.0,0.0,H,1516,E3
+09/04/16,Plymouth,AFC Wimbledon,1.0,2.0,A,1516,E3
+09/04/16,Yeovil,Exeter,0.0,2.0,A,1516,E3
+09/04/16,York,Wycombe,1.0,1.0,D,1516,E3
+12/04/16,Luton,Dag and Red,1.0,0.0,H,1516,E3
+12/04/16,Notts County,Hartlepool,1.0,0.0,H,1516,E3
+16/04/16,Accrington,Morecambe,2.0,2.0,D,1516,E3
+16/04/16,AFC Wimbledon,Crawley Town,1.0,0.0,H,1516,E3
+16/04/16,Bristol Rvs,Yeovil,2.0,1.0,H,1516,E3
+16/04/16,Cambridge,Carlisle,0.0,0.0,D,1516,E3
+16/04/16,Exeter,Northampton,0.0,0.0,D,1516,E3
+16/04/16,Hartlepool,York,2.0,1.0,H,1516,E3
+16/04/16,Leyton Orient,Dag and Red,3.0,2.0,H,1516,E3
+16/04/16,Mansfield,Notts County,5.0,0.0,H,1516,E3
+16/04/16,Oxford,Luton,2.0,3.0,A,1516,E3
+16/04/16,Portsmouth,Plymouth,1.0,2.0,A,1516,E3
+16/04/16,Stevenage,Newport County,2.0,1.0,H,1516,E3
+16/04/16,Wycombe,Barnet,1.0,1.0,D,1516,E3
+19/04/16,Barnet,Notts County,3.0,1.0,H,1516,E3
+19/04/16,Cambridge,Morecambe,7.0,0.0,H,1516,E3
+19/04/16,Carlisle,Luton,1.0,2.0,A,1516,E3
+19/04/16,Dag and Red,AFC Wimbledon,0.0,2.0,A,1516,E3
+19/04/16,Exeter,Mansfield,2.0,3.0,A,1516,E3
+19/04/16,Hartlepool,Accrington,1.0,2.0,A,1516,E3
+19/04/16,Leyton Orient,Plymouth,1.0,3.0,A,1516,E3
+19/04/16,Newport County,Oxford,1.0,1.0,D,1516,E3
+19/04/16,Northampton,Crawley Town,2.0,1.0,H,1516,E3
+19/04/16,Stevenage,Bristol Rvs,0.0,0.0,D,1516,E3
+19/04/16,Wycombe,Yeovil,0.0,0.0,D,1516,E3
+19/04/16,York,Portsmouth,3.0,1.0,H,1516,E3
+23/04/16,Accrington,York,3.0,0.0,H,1516,E3
+23/04/16,AFC Wimbledon,Leyton Orient,1.0,0.0,H,1516,E3
+23/04/16,Bristol Rvs,Exeter,3.0,1.0,H,1516,E3
+23/04/16,Crawley Town,Carlisle,0.0,1.0,A,1516,E3
+23/04/16,Luton,Newport County,1.0,1.0,D,1516,E3
+23/04/16,Mansfield,Barnet,1.0,1.0,D,1516,E3
+23/04/16,Morecambe,Stevenage,1.0,4.0,A,1516,E3
+23/04/16,Notts County,Cambridge,1.0,2.0,A,1516,E3
+23/04/16,Oxford,Hartlepool,2.0,0.0,H,1516,E3
+23/04/16,Plymouth,Dag and Red,2.0,3.0,A,1516,E3
+23/04/16,Portsmouth,Wycombe,2.0,1.0,H,1516,E3
+23/04/16,Yeovil,Northampton,1.0,1.0,D,1516,E3
+26/04/16,AFC Wimbledon,Portsmouth,0.0,1.0,A,1516,E3
+30/04/16,Barnet,Yeovil,3.0,4.0,A,1516,E3
+30/04/16,Cambridge,Plymouth,2.0,2.0,D,1516,E3
+30/04/16,Carlisle,Oxford,0.0,2.0,A,1516,E3
+30/04/16,Dag and Red,Crawley Town,3.0,0.0,H,1516,E3
+30/04/16,Exeter,Morecambe,1.0,1.0,D,1516,E3
+30/04/16,Hartlepool,Portsmouth,0.0,2.0,A,1516,E3
+30/04/16,Leyton Orient,Mansfield,1.0,0.0,H,1516,E3
+30/04/16,Newport County,Notts County,0.0,1.0,A,1516,E3
+30/04/16,Northampton,Luton,2.0,0.0,H,1516,E3
+30/04/16,Stevenage,AFC Wimbledon,0.0,0.0,D,1516,E3
+30/04/16,Wycombe,Accrington,0.0,1.0,A,1516,E3
+30/04/16,York,Bristol Rvs,1.0,4.0,A,1516,E3
+07/05/16,Accrington,Stevenage,0.0,0.0,D,1516,E3
+07/05/16,AFC Wimbledon,Newport County,1.0,0.0,H,1516,E3
+07/05/16,Bristol Rvs,Dag and Red,2.0,1.0,H,1516,E3
+07/05/16,Crawley Town,Barnet,0.0,3.0,A,1516,E3
+07/05/16,Luton,Exeter,4.0,1.0,H,1516,E3
+07/05/16,Mansfield,Cambridge,0.0,0.0,D,1516,E3
+07/05/16,Morecambe,York,1.0,1.0,D,1516,E3
+07/05/16,Notts County,Carlisle,0.0,5.0,A,1516,E3
+07/05/16,Oxford,Wycombe,3.0,0.0,H,1516,E3
+07/05/16,Plymouth,Hartlepool,5.0,0.0,H,1516,E3
+07/05/16,Portsmouth,Northampton,1.0,2.0,A,1516,E3
+07/05/16,Yeovil,Leyton Orient,0.0,1.0,A,1516,E3
+,,,,,,1516,E3

@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season,Division
+30/07/2022,AFC Wimbledon,Gillingham,2,0,H,2223,E3
+30/07/2022,Bradford,Doncaster,0,0,D,2223,E3
+30/07/2022,Carlisle,Crawley Town,1,0,H,2223,E3
+30/07/2022,Harrogate,Swindon,3,0,H,2223,E3
+30/07/2022,Leyton Orient,Grimsby,2,0,H,2223,E3
+30/07/2022,Northampton,Colchester,3,2,H,2223,E3
+30/07/2022,Rochdale,Crewe,1,2,A,2223,E3
+30/07/2022,Salford,Mansfield,2,0,H,2223,E3
+30/07/2022,Stockport,Barrow,2,3,A,2223,E3
+30/07/2022,Sutton,Newport County,1,1,D,2223,E3
+30/07/2022,Tranmere,Stevenage,1,2,A,2223,E3
+30/07/2022,Walsall,Hartlepool,4,0,H,2223,E3
+06/08/2022,Barrow,Bradford,3,2,H,2223,E3
+06/08/2022,Colchester,Carlisle,1,1,D,2223,E3
+06/08/2022,Crawley Town,Leyton Orient,0,1,A,2223,E3
+06/08/2022,Crewe,Harrogate,3,0,H,2223,E3
+06/08/2022,Doncaster,Sutton,2,1,H,2223,E3
+06/08/2022,Gillingham,Rochdale,1,0,H,2223,E3
+06/08/2022,Grimsby,Northampton,1,1,D,2223,E3
+06/08/2022,Hartlepool,AFC Wimbledon,0,0,D,2223,E3
+06/08/2022,Mansfield,Tranmere,1,0,H,2223,E3
+06/08/2022,Newport County,Walsall,0,1,A,2223,E3
+06/08/2022,Stevenage,Stockport,2,1,H,2223,E3
+06/08/2022,Swindon,Salford,0,0,D,2223,E3
+13/08/2022,AFC Wimbledon,Doncaster,2,2,D,2223,E3
+13/08/2022,Bradford,Newport County,2,0,H,2223,E3
+13/08/2022,Carlisle,Swindon,1,1,D,2223,E3
+13/08/2022,Harrogate,Crawley Town,0,0,D,2223,E3
+13/08/2022,Leyton Orient,Mansfield,1,0,H,2223,E3
+13/08/2022,Northampton,Hartlepool,2,1,H,2223,E3
+13/08/2022,Rochdale,Grimsby,0,1,A,2223,E3
+13/08/2022,Salford,Crewe,3,0,H,2223,E3
+13/08/2022,Stockport,Colchester,1,0,H,2223,E3
+13/08/2022,Sutton,Barrow,1,0,H,2223,E3
+13/08/2022,Tranmere,Gillingham,3,0,H,2223,E3
+13/08/2022,Walsall,Stevenage,1,1,D,2223,E3
+16/08/2022,Barrow,Walsall,2,1,H,2223,E3
+16/08/2022,Colchester,Bradford,1,0,H,2223,E3
+16/08/2022,Crawley Town,Northampton,2,3,A,2223,E3
+16/08/2022,Crewe,Sutton,1,0,H,2223,E3
+16/08/2022,Doncaster,Stockport,2,1,H,2223,E3
+16/08/2022,Gillingham,Harrogate,0,2,A,2223,E3
+16/08/2022,Hartlepool,Tranmere,0,0,D,2223,E3
+16/08/2022,Mansfield,AFC Wimbledon,5,2,H,2223,E3
+16/08/2022,Newport County,Salford,2,3,A,2223,E3
+16/08/2022,Stevenage,Rochdale,1,0,H,2223,E3
+16/08/2022,Swindon,Leyton Orient,1,1,D,2223,E3
+20/08/2022,Hartlepool,Bradford,1,3,A,2223,E3
+20/08/2022,Barrow,Harrogate,1,0,H,2223,E3
+20/08/2022,Colchester,Leyton Orient,1,3,A,2223,E3
+20/08/2022,Crawley Town,AFC Wimbledon,0,2,A,2223,E3
+20/08/2022,Crewe,Northampton,2,2,D,2223,E3
+20/08/2022,Doncaster,Salford,2,1,H,2223,E3
+20/08/2022,Gillingham,Walsall,0,0,D,2223,E3
+20/08/2022,Grimsby,Sutton,0,0,D,2223,E3
+20/08/2022,Mansfield,Stockport,2,1,H,2223,E3
+20/08/2022,Newport County,Tranmere,2,1,H,2223,E3
+20/08/2022,Stevenage,Carlisle,2,1,H,2223,E3
+20/08/2022,Swindon,Rochdale,3,0,H,2223,E3
+27/08/2022,AFC Wimbledon,Barrow,0,1,A,2223,E3
+27/08/2022,Bradford,Crewe,0,0,D,2223,E3
+27/08/2022,Carlisle,Gillingham,1,0,H,2223,E3
+27/08/2022,Harrogate,Newport County,0,4,A,2223,E3
+27/08/2022,Leyton Orient,Hartlepool,4,2,H,2223,E3
+27/08/2022,Northampton,Doncaster,0,1,A,2223,E3
+27/08/2022,Rochdale,Crawley Town,1,1,D,2223,E3
+27/08/2022,Salford,Stevenage,1,0,H,2223,E3
+27/08/2022,Stockport,Swindon,1,1,D,2223,E3
+27/08/2022,Sutton,Mansfield,2,1,H,2223,E3
+27/08/2022,Tranmere,Colchester,2,0,H,2223,E3
+27/08/2022,Walsall,Grimsby,1,2,A,2223,E3
+03/09/2022,Bradford,Walsall,2,1,H,2223,E3
+03/09/2022,Carlisle,Rochdale,3,3,D,2223,E3
+03/09/2022,Colchester,Hartlepool,1,1,D,2223,E3
+03/09/2022,Crewe,Stevenage,1,2,A,2223,E3
+03/09/2022,Doncaster,Mansfield,1,3,A,2223,E3
+03/09/2022,Gillingham,Swindon,0,0,D,2223,E3
+03/09/2022,Leyton Orient,Tranmere,2,0,H,2223,E3
+03/09/2022,Newport County,Grimsby,0,2,A,2223,E3
+03/09/2022,Northampton,Barrow,3,1,H,2223,E3
+03/09/2022,Salford,Crawley Town,2,2,D,2223,E3
+03/09/2022,Stockport,AFC Wimbledon,1,0,H,2223,E3
+03/09/2022,Sutton,Harrogate,2,1,H,2223,E3
+13/09/2022,AFC Wimbledon,Northampton,0,2,A,2223,E3
+13/09/2022,Barrow,Doncaster,2,0,H,2223,E3
+13/09/2022,Crawley Town,Stockport,3,2,H,2223,E3
+13/09/2022,Grimsby,Gillingham,1,1,D,2223,E3
+13/09/2022,Harrogate,Salford,0,1,A,2223,E3
+13/09/2022,Hartlepool,Crewe,1,1,D,2223,E3
+13/09/2022,Mansfield,Carlisle,0,0,D,2223,E3
+13/09/2022,Rochdale,Leyton Orient,0,1,A,2223,E3
+13/09/2022,Stevenage,Newport County,1,0,H,2223,E3
+13/09/2022,Swindon,Sutton,3,2,H,2223,E3
+13/09/2022,Tranmere,Bradford,1,2,A,2223,E3
+13/09/2022,Walsall,Colchester,1,1,D,2223,E3
+17/09/2022,Bradford,Stevenage,3,0,H,2223,E3
+17/09/2022,Carlisle,AFC Wimbledon,2,1,H,2223,E3
+17/09/2022,Colchester,Grimsby,0,1,A,2223,E3
+17/09/2022,Crewe,Crawley Town,1,0,H,2223,E3
+17/09/2022,Doncaster,Swindon,0,1,A,2223,E3
+17/09/2022,Gillingham,Mansfield,0,2,A,2223,E3
+17/09/2022,Leyton Orient,Walsall,1,0,H,2223,E3
+17/09/2022,Newport County,Barrow,0,2,A,2223,E3
+17/09/2022,Northampton,Rochdale,3,0,H,2223,E3
+17/09/2022,Salford,Tranmere,0,1,A,2223,E3
+17/09/2022,Stockport,Harrogate,0,0,D,2223,E3
+17/09/2022,Sutton,Hartlepool,2,0,H,2223,E3
+24/09/2022,Northampton,Stockport,2,1,H,2223,E3
+24/09/2022,Barrow,Leyton Orient,0,2,A,2223,E3
+24/09/2022,Bradford,AFC Wimbledon,2,2,D,2223,E3
+24/09/2022,Colchester,Rochdale,0,1,A,2223,E3
+24/09/2022,Crewe,Mansfield,1,2,A,2223,E3
+24/09/2022,Doncaster,Crawley Town,4,1,H,2223,E3
+24/09/2022,Grimsby,Swindon,1,2,A,2223,E3
+24/09/2022,Hartlepool,Gillingham,0,0,D,2223,E3
+24/09/2022,Newport County,Carlisle,1,1,D,2223,E3
+24/09/2022,Stevenage,Harrogate,1,0,H,2223,E3
+24/09/2022,Sutton,Salford,1,2,A,2223,E3
+24/09/2022,Walsall,Tranmere,0,1,A,2223,E3
+27/09/2022,Grimsby,Carlisle,1,2,A,2223,E3
+30/09/2022,Mansfield,Hartlepool,2,2,D,2223,E3
+01/10/2022,Harrogate,Bradford,1,2,A,2223,E3
+01/10/2022,AFC Wimbledon,Colchester,2,1,H,2223,E3
+01/10/2022,Carlisle,Crewe,0,0,D,2223,E3
+01/10/2022,Crawley Town,Stevenage,1,2,A,2223,E3
+01/10/2022,Gillingham,Sutton,1,0,H,2223,E3
+01/10/2022,Leyton Orient,Newport County,1,2,A,2223,E3
+01/10/2022,Rochdale,Doncaster,1,2,A,2223,E3
+01/10/2022,Salford,Grimsby,1,1,D,2223,E3
+01/10/2022,Stockport,Walsall,1,1,D,2223,E3
+01/10/2022,Swindon,Northampton,1,2,A,2223,E3
+01/10/2022,Tranmere,Barrow,1,0,H,2223,E3
+04/10/2022,Hartlepool,Doncaster,2,1,H,2223,E3
+04/10/2022,Stevenage,Sutton,3,0,H,2223,E3
+04/10/2022,Swindon,Newport County,1,0,H,2223,E3
+04/10/2022,Walsall,Northampton,1,0,H,2223,E3
+08/10/2022,Barrow,Mansfield,0,1,A,2223,E3
+08/10/2022,Bradford,Stockport,0,1,A,2223,E3
+08/10/2022,Colchester,Harrogate,2,1,H,2223,E3
+08/10/2022,Crewe,Gillingham,1,1,D,2223,E3
+08/10/2022,Doncaster,Leyton Orient,1,1,D,2223,E3
+08/10/2022,Grimsby,Crawley Town,3,0,H,2223,E3
+08/10/2022,Hartlepool,Carlisle,1,3,A,2223,E3
+08/10/2022,Newport County,Rochdale,0,1,A,2223,E3
+08/10/2022,Northampton,Salford,0,1,A,2223,E3
+08/10/2022,Stevenage,Swindon,2,0,H,2223,E3
+08/10/2022,Sutton,Tranmere,0,2,A,2223,E3
+08/10/2022,Walsall,AFC Wimbledon,3,1,H,2223,E3
+14/10/2022,Tranmere,Crewe,3,0,H,2223,E3
+15/10/2022,Harrogate,Hartlepool,2,1,H,2223,E3
+15/10/2022,Mansfield,Walsall,2,1,H,2223,E3
+15/10/2022,AFC Wimbledon,Sutton,0,1,A,2223,E3
+15/10/2022,Carlisle,Doncaster,3,0,H,2223,E3
+15/10/2022,Crawley Town,Newport County,2,1,H,2223,E3
+15/10/2022,Gillingham,Stevenage,1,1,D,2223,E3
+15/10/2022,Leyton Orient,Northampton,0,0,D,2223,E3
+15/10/2022,Rochdale,Barrow,2,1,H,2223,E3
+15/10/2022,Salford,Bradford,0,1,A,2223,E3
+15/10/2022,Stockport,Grimsby,1,3,A,2223,E3
+15/10/2022,Swindon,Colchester,1,0,H,2223,E3
+22/10/2022,Carlisle,Leyton Orient,2,3,A,2223,E3
+22/10/2022,Crawley Town,Mansfield,3,2,H,2223,E3
+22/10/2022,Crewe,Doncaster,1,1,D,2223,E3
+22/10/2022,Gillingham,Barrow,1,1,D,2223,E3
+22/10/2022,Grimsby,Bradford,0,0,D,2223,E3
+22/10/2022,Harrogate,Tranmere,1,1,D,2223,E3
+22/10/2022,Newport County,Colchester,1,0,H,2223,E3
+22/10/2022,Rochdale,AFC Wimbledon,1,2,A,2223,E3
+22/10/2022,Salford,Stockport,0,2,A,2223,E3
+22/10/2022,Stevenage,Northampton,2,3,A,2223,E3
+22/10/2022,Sutton,Walsall,1,1,D,2223,E3
+22/10/2022,Swindon,Hartlepool,2,1,H,2223,E3
+25/10/2022,AFC Wimbledon,Crewe,1,1,D,2223,E3
+25/10/2022,Barrow,Grimsby,1,0,H,2223,E3
+25/10/2022,Bradford,Swindon,1,1,D,2223,E3
+25/10/2022,Colchester,Crawley Town,2,2,D,2223,E3
+25/10/2022,Doncaster,Stevenage,0,1,A,2223,E3
+25/10/2022,Hartlepool,Salford,0,2,A,2223,E3
+25/10/2022,Leyton Orient,Gillingham,2,0,H,2223,E3
+25/10/2022,Mansfield,Newport County,0,0,D,2223,E3
+25/10/2022,Northampton,Sutton,2,2,D,2223,E3
+25/10/2022,Stockport,Carlisle,2,0,H,2223,E3
+25/10/2022,Tranmere,Rochdale,1,1,D,2223,E3
+25/10/2022,Walsall,Harrogate,3,1,H,2223,E3
+29/10/2022,Northampton,Newport County,1,1,D,2223,E3
+29/10/2022,AFC Wimbledon,Harrogate,3,2,H,2223,E3
+29/10/2022,Barrow,Crewe,3,0,H,2223,E3
+29/10/2022,Bradford,Crawley Town,1,1,D,2223,E3
+29/10/2022,Colchester,Stevenage,1,1,D,2223,E3
+29/10/2022,Doncaster,Gillingham,1,0,H,2223,E3
+29/10/2022,Hartlepool,Grimsby,2,1,H,2223,E3
+29/10/2022,Leyton Orient,Salford,1,0,H,2223,E3
+29/10/2022,Mansfield,Swindon,2,5,A,2223,E3
+29/10/2022,Stockport,Sutton,3,0,H,2223,E3
+29/10/2022,Tranmere,Carlisle,0,2,A,2223,E3
+29/10/2022,Walsall,Rochdale,1,0,H,2223,E3
+01/11/2022,Barrow,Colchester,3,1,H,2223,E3
+01/11/2022,Tranmere,Stockport,0,0,D,2223,E3
+08/11/2022,AFC Wimbledon,Leyton Orient,2,0,H,2223,E3
+08/11/2022,Harrogate,Carlisle,3,3,D,2223,E3
+08/11/2022,Mansfield,Bradford,1,2,A,2223,E3
+08/11/2022,Rochdale,Salford,1,0,H,2223,E3
+12/11/2022,Carlisle,Walsall,0,0,D,2223,E3
+12/11/2022,Crawley Town,Barrow,1,0,H,2223,E3
+12/11/2022,Crewe,Colchester,1,0,H,2223,E3
+12/11/2022,Gillingham,Northampton,0,2,A,2223,E3
+12/11/2022,Grimsby,Doncaster,1,3,A,2223,E3
+12/11/2022,Harrogate,Leyton Orient,0,2,A,2223,E3
+12/11/2022,Newport County,Stockport,1,2,A,2223,E3
+12/11/2022,Rochdale,Mansfield,0,1,A,2223,E3
+12/11/2022,Salford,AFC Wimbledon,0,0,D,2223,E3
+12/11/2022,Stevenage,Hartlepool,1,0,H,2223,E3
+12/11/2022,Sutton,Bradford,0,2,A,2223,E3
+12/11/2022,Swindon,Tranmere,1,1,D,2223,E3
+19/11/2022,Barrow,Hartlepool,3,1,H,2223,E3
+19/11/2022,Bradford,Northampton,1,3,A,2223,E3
+19/11/2022,Colchester,Doncaster,3,0,H,2223,E3
+19/11/2022,Grimsby,Stevenage,1,1,D,2223,E3
+19/11/2022,Harrogate,Mansfield,3,0,H,2223,E3
+19/11/2022,Newport County,Gillingham,2,0,H,2223,E3
+19/11/2022,Salford,Carlisle,1,4,A,2223,E3
+19/11/2022,Stockport,Leyton Orient,1,2,A,2223,E3
+19/11/2022,Sutton,Rochdale,1,0,H,2223,E3
+19/11/2022,Swindon,Crewe,0,1,A,2223,E3
+19/11/2022,Tranmere,AFC Wimbledon,0,2,A,2223,E3
+19/11/2022,Walsall,Crawley Town,2,1,H,2223,E3
+22/11/2022,Crawley Town,Gillingham,0,0,D,2223,E3
+02/12/2022,Crewe,Newport County,1,2,A,2223,E3
+02/12/2022,Doncaster,Walsall,0,2,A,2223,E3
+02/12/2022,Stevenage,Barrow,5,0,H,2223,E3
+03/12/2022,AFC Wimbledon,Grimsby,1,0,H,2223,E3
+03/12/2022,Gillingham,Salford,0,3,A,2223,E3
+03/12/2022,Leyton Orient,Bradford,3,0,H,2223,E3
+03/12/2022,Carlisle,Sutton,1,1,D,2223,E3
+03/12/2022,Crawley Town,Swindon,2,0,H,2223,E3
+03/12/2022,Hartlepool,Stockport,0,5,A,2223,E3
+03/12/2022,Mansfield,Colchester,2,1,H,2223,E3
+03/12/2022,Northampton,Tranmere,0,0,D,2223,E3
+03/12/2022,Rochdale,Harrogate,1,4,A,2223,E3
+09/12/2022,Crawley Town,Hartlepool,0,2,A,2223,E3
+10/12/2022,Grimsby,Tranmere,2,1,H,2223,E3
+10/12/2022,Newport County,Doncaster,0,1,A,2223,E3
+10/12/2022,Stevenage,Mansfield,0,0,D,2223,E3
+10/12/2022,Sutton,Colchester,1,0,H,2223,E3
+10/12/2022,Swindon,AFC Wimbledon,0,0,D,2223,E3
+17/12/2022,Barrow,Swindon,0,1,A,2223,E3
+17/12/2022,Leyton Orient,Sutton,2,0,H,2223,E3
+20/12/2022,Northampton,Carlisle,2,1,H,2223,E3
+26/12/2022,AFC Wimbledon,Newport County,1,1,D,2223,E3
+26/12/2022,Carlisle,Bradford,1,0,H,2223,E3
+26/12/2022,Crawley Town,Sutton,1,2,A,2223,E3
+26/12/2022,Gillingham,Colchester,0,1,A,2223,E3
+26/12/2022,Harrogate,Grimsby,3,2,H,2223,E3
+26/12/2022,Mansfield,Northampton,1,1,D,2223,E3
+26/12/2022,Rochdale,Hartlepool,1,2,A,2223,E3
+26/12/2022,Salford,Barrow,1,1,D,2223,E3
+26/12/2022,Stockport,Crewe,2,0,H,2223,E3
+26/12/2022,Swindon,Walsall,1,2,A,2223,E3
+26/12/2022,Tranmere,Doncaster,3,0,H,2223,E3
+27/12/2022,Leyton Orient,Stevenage,0,0,D,2223,E3
+29/12/2022,Crewe,Carlisle,0,3,A,2223,E3
+29/12/2022,Barrow,Tranmere,1,2,A,2223,E3
+29/12/2022,Bradford,Harrogate,1,0,H,2223,E3
+29/12/2022,Colchester,AFC Wimbledon,1,2,A,2223,E3
+29/12/2022,Doncaster,Rochdale,4,3,H,2223,E3
+29/12/2022,Grimsby,Salford,1,4,A,2223,E3
+29/12/2022,Hartlepool,Mansfield,1,2,A,2223,E3
+29/12/2022,Northampton,Swindon,1,2,A,2223,E3
+29/12/2022,Sutton,Gillingham,2,1,H,2223,E3
+29/12/2022,Walsall,Stockport,0,2,A,2223,E3
+30/12/2022,Newport County,Leyton Orient,0,0,D,2223,E3
+30/12/2022,Stevenage,Crawley Town,3,1,H,2223,E3
+01/01/2023,Bradford,Salford,3,2,H,2223,E3
+01/01/2023,Colchester,Swindon,1,0,H,2223,E3
+01/01/2023,Crewe,Tranmere,1,0,H,2223,E3
+01/01/2023,Doncaster,Carlisle,2,1,H,2223,E3
+01/01/2023,Grimsby,Stockport,1,0,H,2223,E3
+01/01/2023,Hartlepool,Harrogate,3,3,D,2223,E3
+01/01/2023,Sutton,AFC Wimbledon,2,1,H,2223,E3
+01/01/2023,Walsall,Mansfield,2,1,H,2223,E3
+02/01/2023,Barrow,Rochdale,0,0,D,2223,E3
+02/01/2023,Newport County,Crawley Town,2,2,D,2223,E3
+02/01/2023,Northampton,Leyton Orient,1,0,H,2223,E3
+02/01/2023,Stevenage,Gillingham,1,0,H,2223,E3
+07/01/2023,Salford,Northampton,2,1,H,2223,E3
+07/01/2023,Crewe,AFC Wimbledon,0,0,D,2223,E3
+07/01/2023,Harrogate,Colchester,1,3,A,2223,E3
+07/01/2023,Leyton Orient,Doncaster,1,0,H,2223,E3
+07/01/2023,Mansfield,Barrow,2,3,A,2223,E3
+07/01/2023,Rochdale,Newport County,1,1,D,2223,E3
+07/01/2023,Tranmere,Sutton,2,2,D,2223,E3
+10/01/2023,Bradford,Rochdale,1,2,A,2223,E3
+14/01/2023,AFC Wimbledon,Bradford,0,0,D,2223,E3
+14/01/2023,Carlisle,Newport County,2,0,H,2223,E3
+14/01/2023,Gillingham,Hartlepool,2,0,H,2223,E3
+14/01/2023,Harrogate,Stevenage,1,1,D,2223,E3
+14/01/2023,Leyton Orient,Barrow,0,0,D,2223,E3
+14/01/2023,Mansfield,Crewe,1,1,D,2223,E3
+14/01/2023,Rochdale,Colchester,1,2,A,2223,E3
+14/01/2023,Salford,Sutton,2,0,H,2223,E3
+14/01/2023,Stockport,Northampton,2,0,H,2223,E3
+14/01/2023,Swindon,Grimsby,5,0,H,2223,E3
+14/01/2023,Tranmere,Walsall,1,1,D,2223,E3
+21/01/2023,Colchester,Gillingham,0,2,A,2223,E3
+21/01/2023,Hartlepool,Rochdale,2,0,H,2223,E3
+21/01/2023,Stevenage,Leyton Orient,3,0,H,2223,E3
+24/01/2023,Carlisle,Hartlepool,3,1,H,2223,E3
+24/01/2023,Colchester,Salford,1,1,D,2223,E3
+24/01/2023,Stockport,Bradford,0,0,D,2223,E3
+28/01/2023,AFC Wimbledon,Stockport,1,0,H,2223,E3
+28/01/2023,Barrow,Northampton,0,2,A,2223,E3
+28/01/2023,Crawley Town,Salford,3,2,H,2223,E3
+28/01/2023,Harrogate,Sutton,0,1,A,2223,E3
+28/01/2023,Hartlepool,Colchester,1,2,A,2223,E3
+28/01/2023,Mansfield,Doncaster,4,1,H,2223,E3
+28/01/2023,Rochdale,Carlisle,0,1,A,2223,E3
+28/01/2023,Swindon,Gillingham,3,3,D,2223,E3
+28/01/2023,Tranmere,Leyton Orient,1,0,H,2223,E3
+31/01/2023,Carlisle,Barrow,5,1,H,2223,E3
+31/01/2023,Crewe,Stockport,1,1,D,2223,E3
+31/01/2023,Salford,Walsall,1,0,H,2223,E3
+04/02/2023,Newport County,Swindon,2,1,H,2223,E3
+04/02/2023,Bradford,Mansfield,1,1,D,2223,E3
+04/02/2023,Carlisle,Harrogate,0,1,A,2223,E3
+04/02/2023,Colchester,Barrow,1,1,D,2223,E3
+04/02/2023,Crewe,Grimsby,0,3,A,2223,E3
+04/02/2023,Doncaster,Hartlepool,0,1,A,2223,E3
+04/02/2023,Gillingham,Crawley Town,1,0,H,2223,E3
+04/02/2023,Leyton Orient,AFC Wimbledon,1,0,H,2223,E3
+04/02/2023,Northampton,Walsall,0,0,D,2223,E3
+04/02/2023,Salford,Rochdale,2,1,H,2223,E3
+04/02/2023,Stockport,Tranmere,3,2,H,2223,E3
+04/02/2023,Sutton,Stevenage,0,0,D,2223,E3
+07/02/2023,Crewe,Leyton Orient,0,2,A,2223,E3
+07/02/2023,Doncaster,Tranmere,2,0,H,2223,E3
+11/02/2023,AFC Wimbledon,Carlisle,0,0,D,2223,E3
+11/02/2023,Barrow,Newport County,0,1,A,2223,E3
+11/02/2023,Crawley Town,Crewe,2,2,D,2223,E3
+11/02/2023,Grimsby,Colchester,0,1,A,2223,E3
+11/02/2023,Harrogate,Stockport,1,3,A,2223,E3
+11/02/2023,Hartlepool,Sutton,2,2,D,2223,E3
+11/02/2023,Mansfield,Gillingham,2,0,H,2223,E3
+11/02/2023,Rochdale,Northampton,1,1,D,2223,E3
+11/02/2023,Stevenage,Bradford,2,3,A,2223,E3
+11/02/2023,Swindon,Doncaster,0,2,A,2223,E3
+11/02/2023,Tranmere,Salford,1,0,H,2223,E3
+11/02/2023,Walsall,Leyton Orient,1,1,D,2223,E3
+14/02/2023,Bradford,Tranmere,2,0,H,2223,E3
+14/02/2023,Carlisle,Mansfield,0,4,A,2223,E3
+14/02/2023,Colchester,Walsall,0,0,D,2223,E3
+14/02/2023,Crewe,Hartlepool,2,0,H,2223,E3
+14/02/2023,Doncaster,Barrow,1,0,H,2223,E3
+14/02/2023,Gillingham,Grimsby,2,1,H,2223,E3
+14/02/2023,Leyton Orient,Rochdale,2,1,H,2223,E3
+14/02/2023,Newport County,Stevenage,2,2,D,2223,E3
+14/02/2023,Northampton,AFC Wimbledon,0,0,D,2223,E3
+14/02/2023,Salford,Harrogate,1,1,D,2223,E3
+14/02/2023,Stockport,Crawley Town,2,1,H,2223,E3
+14/02/2023,Sutton,Swindon,2,1,H,2223,E3
+18/02/2023,Northampton,Grimsby,1,2,A,2223,E3
+18/02/2023,AFC Wimbledon,Hartlepool,2,2,D,2223,E3
+18/02/2023,Bradford,Barrow,0,1,A,2223,E3
+18/02/2023,Carlisle,Colchester,1,0,H,2223,E3
+18/02/2023,Harrogate,Crewe,2,2,D,2223,E3
+18/02/2023,Leyton Orient,Crawley Town,1,0,H,2223,E3
+18/02/2023,Rochdale,Gillingham,0,2,A,2223,E3
+18/02/2023,Salford,Swindon,1,2,A,2223,E3
+18/02/2023,Stockport,Stevenage,2,0,H,2223,E3
+18/02/2023,Sutton,Doncaster,2,0,H,2223,E3
+18/02/2023,Tranmere,Mansfield,0,2,A,2223,E3
+18/02/2023,Walsall,Newport County,1,1,D,2223,E3
+21/02/2023,Grimsby,Harrogate,0,0,D,2223,E3
+21/02/2023,Hartlepool,Newport County,0,1,A,2223,E3
+21/02/2023,Rochdale,Stockport,1,2,A,2223,E3
+21/02/2023,Walsall,Crewe,0,0,D,2223,E3
+25/02/2023,Barrow,Stockport,1,0,H,2223,E3
+25/02/2023,Colchester,Northampton,0,1,A,2223,E3
+25/02/2023,Crawley Town,Carlisle,2,5,A,2223,E3
+25/02/2023,Crewe,Rochdale,1,1,D,2223,E3
+25/02/2023,Doncaster,Bradford,0,1,A,2223,E3
+25/02/2023,Gillingham,AFC Wimbledon,2,1,H,2223,E3
+25/02/2023,Grimsby,Leyton Orient,2,2,D,2223,E3
+25/02/2023,Hartlepool,Walsall,3,3,D,2223,E3
+25/02/2023,Mansfield,Salford,2,5,A,2223,E3
+25/02/2023,Newport County,Sutton,0,2,A,2223,E3
+25/02/2023,Stevenage,Tranmere,0,1,A,2223,E3
+25/02/2023,Swindon,Harrogate,3,0,H,2223,E3
+28/02/2023,AFC Wimbledon,Stevenage,2,3,A,2223,E3
+28/02/2023,Barrow,Salford,1,1,D,2223,E3
+28/02/2023,Gillingham,Bradford,0,2,A,2223,E3
+28/02/2023,Harrogate,Northampton,1,1,D,2223,E3
+28/02/2023,Tranmere,Crawley Town,1,0,H,2223,E3
+04/03/2023,AFC Wimbledon,Mansfield,1,3,A,2223,E3
+04/03/2023,Bradford,Colchester,2,0,H,2223,E3
+04/03/2023,Carlisle,Grimsby,2,0,H,2223,E3
+04/03/2023,Harrogate,Gillingham,0,0,D,2223,E3
+04/03/2023,Leyton Orient,Swindon,1,1,D,2223,E3
+04/03/2023,Northampton,Crawley Town,1,0,H,2223,E3
+04/03/2023,Rochdale,Stevenage,2,0,H,2223,E3
+04/03/2023,Salford,Newport County,3,1,H,2223,E3
+04/03/2023,Stockport,Doncaster,0,0,D,2223,E3
+04/03/2023,Sutton,Crewe,1,1,D,2223,E3
+04/03/2023,Tranmere,Hartlepool,1,1,D,2223,E3
+04/03/2023,Walsall,Barrow,0,1,A,2223,E3
+07/03/2023,Doncaster,Harrogate,0,2,A,2223,E3
+07/03/2023,Grimsby,Newport County,1,1,D,2223,E3
+07/03/2023,Stockport,Gillingham,0,0,D,2223,E3
+07/03/2023,Sutton,Crawley Town,3,0,H,2223,E3
+07/03/2023,Walsall,Bradford,0,0,D,2223,E3
+10/03/2023,Crewe,Salford,4,3,H,2223,E3
+11/03/2023,Barrow,Sutton,0,0,D,2223,E3
+11/03/2023,Colchester,Stockport,0,1,A,2223,E3
+11/03/2023,Crawley Town,Harrogate,3,1,H,2223,E3
+11/03/2023,Doncaster,AFC Wimbledon,2,1,H,2223,E3
+11/03/2023,Gillingham,Tranmere,2,0,H,2223,E3
+11/03/2023,Grimsby,Rochdale,1,0,H,2223,E3
+11/03/2023,Hartlepool,Northampton,1,1,D,2223,E3
+11/03/2023,Newport County,Bradford,1,1,D,2223,E3
+11/03/2023,Stevenage,Walsall,3,1,H,2223,E3
+11/03/2023,Swindon,Carlisle,1,2,A,2223,E3
+14/03/2023,Newport County,AFC Wimbledon,1,1,D,2223,E3
+14/03/2023,Northampton,Mansfield,1,0,H,2223,E3
+14/03/2023,Stevenage,Crewe,1,0,H,2223,E3
+14/03/2023,Sutton,Grimsby,0,1,A,2223,E3
+14/03/2023,Walsall,Swindon,0,0,D,2223,E3
+18/03/2023,Bradford,Hartlepool,2,2,D,2223,E3
+18/03/2023,AFC Wimbledon,Crawley Town,0,1,A,2223,E3
+18/03/2023,Carlisle,Stevenage,0,0,D,2223,E3
+18/03/2023,Harrogate,Barrow,1,0,H,2223,E3
+18/03/2023,Leyton Orient,Colchester,2,2,D,2223,E3
+18/03/2023,Northampton,Crewe,1,0,H,2223,E3
+18/03/2023,Rochdale,Swindon,4,4,D,2223,E3
+18/03/2023,Salford,Doncaster,3,1,H,2223,E3
+18/03/2023,Stockport,Mansfield,1,1,D,2223,E3
+18/03/2023,Tranmere,Newport County,1,3,A,2223,E3
+18/03/2023,Walsall,Gillingham,2,0,H,2223,E3
+21/03/2023,Bradford,Carlisle,0,0,D,2223,E3
+21/03/2023,Crawley Town,Doncaster,1,1,D,2223,E3
+21/03/2023,Gillingham,Crewe,2,1,H,2223,E3
+22/03/2023,Mansfield,Grimsby,0,0,D,2223,E3
+25/03/2023,Barrow,AFC Wimbledon,2,1,H,2223,E3
+25/03/2023,Colchester,Tranmere,1,1,D,2223,E3
+25/03/2023,Crawley Town,Rochdale,2,0,H,2223,E3
+25/03/2023,Doncaster,Northampton,0,2,A,2223,E3
+25/03/2023,Gillingham,Carlisle,1,0,H,2223,E3
+25/03/2023,Grimsby,Walsall,1,1,D,2223,E3
+25/03/2023,Hartlepool,Leyton Orient,1,1,D,2223,E3
+25/03/2023,Mansfield,Sutton,0,0,D,2223,E3
+25/03/2023,Stevenage,Salford,1,3,A,2223,E3
+25/03/2023,Swindon,Stockport,0,1,A,2223,E3
+28/03/2023,AFC Wimbledon,Walsall,2,0,H,2223,E3
+28/03/2023,Crawley Town,Grimsby,1,1,D,2223,E3
+31/03/2023,Stockport,Salford,1,1,D,2223,E3
+31/03/2023,Tranmere,Harrogate,1,1,D,2223,E3
+01/04/2023,Bradford,Grimsby,3,2,H,2223,E3
+01/04/2023,AFC Wimbledon,Rochdale,0,1,A,2223,E3
+01/04/2023,Barrow,Gillingham,2,1,H,2223,E3
+01/04/2023,Colchester,Newport County,0,0,D,2223,E3
+01/04/2023,Doncaster,Crewe,0,2,A,2223,E3
+01/04/2023,Hartlepool,Swindon,2,1,H,2223,E3
+01/04/2023,Leyton Orient,Carlisle,1,0,H,2223,E3
+01/04/2023,Mansfield,Crawley Town,4,1,H,2223,E3
+01/04/2023,Northampton,Stevenage,1,1,D,2223,E3
+01/04/2023,Walsall,Sutton,1,1,D,2223,E3
+07/04/2023,Carlisle,Tranmere,2,0,H,2223,E3
+07/04/2023,Crawley Town,Bradford,0,0,D,2223,E3
+07/04/2023,Crewe,Barrow,3,0,H,2223,E3
+07/04/2023,Gillingham,Doncaster,1,0,H,2223,E3
+07/04/2023,Grimsby,Hartlepool,1,4,A,2223,E3
+07/04/2023,Harrogate,AFC Wimbledon,2,2,D,2223,E3
+07/04/2023,Newport County,Northampton,3,0,H,2223,E3
+07/04/2023,Rochdale,Walsall,4,2,H,2223,E3
+07/04/2023,Salford,Leyton Orient,0,2,A,2223,E3
+07/04/2023,Stevenage,Colchester,1,1,D,2223,E3
+07/04/2023,Sutton,Stockport,0,1,A,2223,E3
+07/04/2023,Swindon,Mansfield,2,4,A,2223,E3
+10/04/2023,AFC Wimbledon,Salford,2,3,A,2223,E3
+10/04/2023,Barrow,Crawley Town,4,0,H,2223,E3
+10/04/2023,Bradford,Sutton,3,1,H,2223,E3
+10/04/2023,Colchester,Crewe,4,0,H,2223,E3
+10/04/2023,Doncaster,Grimsby,1,2,A,2223,E3
+10/04/2023,Hartlepool,Stevenage,1,1,D,2223,E3
+10/04/2023,Leyton Orient,Harrogate,2,2,D,2223,E3
+10/04/2023,Mansfield,Rochdale,1,1,D,2223,E3
+10/04/2023,Northampton,Gillingham,2,1,H,2223,E3
+10/04/2023,Stockport,Newport County,4,0,H,2223,E3
+10/04/2023,Tranmere,Swindon,1,0,H,2223,E3
+10/04/2023,Walsall,Carlisle,0,0,D,2223,E3
+15/04/2023,Carlisle,Northampton,0,0,D,2223,E3
+15/04/2023,Crawley Town,Tranmere,2,1,H,2223,E3
+15/04/2023,Crewe,Walsall,2,0,H,2223,E3
+15/04/2023,Gillingham,Stockport,1,1,D,2223,E3
+15/04/2023,Grimsby,Mansfield,1,1,D,2223,E3
+15/04/2023,Harrogate,Doncaster,2,2,D,2223,E3
+15/04/2023,Newport County,Hartlepool,2,0,H,2223,E3
+15/04/2023,Rochdale,Bradford,0,3,A,2223,E3
+15/04/2023,Salford,Colchester,0,1,A,2223,E3
+15/04/2023,Stevenage,AFC Wimbledon,2,1,H,2223,E3
+15/04/2023,Sutton,Leyton Orient,0,2,A,2223,E3
+15/04/2023,Swindon,Barrow,0,0,D,2223,E3
+18/04/2023,Carlisle,Stockport,2,2,D,2223,E3
+18/04/2023,Crawley Town,Colchester,0,0,D,2223,E3
+18/04/2023,Gillingham,Leyton Orient,2,0,H,2223,E3
+18/04/2023,Grimsby,Barrow,1,0,H,2223,E3
+18/04/2023,Harrogate,Walsall,3,0,H,2223,E3
+18/04/2023,Newport County,Mansfield,1,2,A,2223,E3
+18/04/2023,Rochdale,Tranmere,2,2,D,2223,E3
+18/04/2023,Salford,Hartlepool,2,0,H,2223,E3
+18/04/2023,Stevenage,Doncaster,1,0,H,2223,E3
+18/04/2023,Sutton,Northampton,1,2,A,2223,E3
+18/04/2023,Swindon,Bradford,1,0,H,2223,E3
+22/04/2023,AFC Wimbledon,Swindon,1,5,A,2223,E3
+22/04/2023,Barrow,Carlisle,0,1,A,2223,E3
+22/04/2023,Bradford,Gillingham,2,2,D,2223,E3
+22/04/2023,Colchester,Sutton,4,1,H,2223,E3
+22/04/2023,Doncaster,Newport County,1,3,A,2223,E3
+22/04/2023,Hartlepool,Crawley Town,0,2,A,2223,E3
+22/04/2023,Leyton Orient,Crewe,2,0,H,2223,E3
+22/04/2023,Mansfield,Stevenage,1,0,H,2223,E3
+22/04/2023,Northampton,Harrogate,3,1,H,2223,E3
+22/04/2023,Stockport,Rochdale,1,0,H,2223,E3
+22/04/2023,Tranmere,Grimsby,2,0,H,2223,E3
+22/04/2023,Walsall,Salford,2,3,A,2223,E3
+25/04/2023,Grimsby,Crewe,2,0,H,2223,E3
+25/04/2023,Mansfield,Leyton Orient,1,2,A,2223,E3
+25/04/2023,Newport County,Harrogate,2,3,A,2223,E3
+25/04/2023,Swindon,Stevenage,0,1,A,2223,E3
+29/04/2023,AFC Wimbledon,Tranmere,1,1,D,2223,E3
+29/04/2023,Carlisle,Salford,2,3,A,2223,E3
+29/04/2023,Crawley Town,Walsall,0,0,D,2223,E3
+29/04/2023,Crewe,Swindon,2,1,H,2223,E3
+29/04/2023,Doncaster,Colchester,1,0,H,2223,E3
+29/04/2023,Gillingham,Newport County,1,2,A,2223,E3
+29/04/2023,Hartlepool,Barrow,3,1,H,2223,E3
+29/04/2023,Leyton Orient,Stockport,0,3,A,2223,E3
+29/04/2023,Mansfield,Harrogate,1,2,A,2223,E3
+29/04/2023,Northampton,Bradford,1,2,A,2223,E3
+29/04/2023,Rochdale,Sutton,4,1,H,2223,E3
+29/04/2023,Stevenage,Grimsby,2,0,H,2223,E3
+03/05/2023,Crewe,Bradford,3,2,H,2223,E3
+08/05/2023,Barrow,Stevenage,0,1,A,2223,E3
+08/05/2023,Bradford,Leyton Orient,1,1,D,2223,E3
+08/05/2023,Colchester,Mansfield,0,2,A,2223,E3
+08/05/2023,Grimsby,AFC Wimbledon,1,0,H,2223,E3
+08/05/2023,Harrogate,Rochdale,1,1,D,2223,E3
+08/05/2023,Newport County,Crewe,2,2,D,2223,E3
+08/05/2023,Salford,Gillingham,0,1,A,2223,E3
+08/05/2023,Stockport,Hartlepool,1,1,D,2223,E3
+08/05/2023,Sutton,Carlisle,1,1,D,2223,E3
+08/05/2023,Swindon,Crawley Town,2,1,H,2223,E3
+08/05/2023,Tranmere,Northampton,0,1,A,2223,E3
+08/05/2023,Walsall,Doncaster,2,1,H,2223,E3

@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season,Division
+09/08/14,Barnsley,Crawley Town,0,1,A,1415,E2
+09/08/14,Bradford,Coventry,3,2,H,1415,E2
+09/08/14,Colchester,Oldham,2,2,D,1415,E2
+09/08/14,Fleetwood Town,Crewe,2,1,H,1415,E2
+09/08/14,Leyton Orient,Chesterfield,1,2,A,1415,E2
+09/08/14,Milton Keynes Dons,Gillingham,4,2,H,1415,E2
+09/08/14,Port Vale,Walsall,1,1,D,1415,E2
+09/08/14,Preston,Notts County,1,1,D,1415,E2
+09/08/14,Rochdale,Peterboro,0,1,A,1415,E2
+09/08/14,Sheffield United,Bristol City,1,2,A,1415,E2
+09/08/14,Swindon,Scunthorpe,3,1,H,1415,E2
+09/08/14,Yeovil,Doncaster,0,3,A,1415,E2
+16/08/14,Bristol City,Colchester,2,1,H,1415,E2
+16/08/14,Chesterfield,Rochdale,2,1,H,1415,E2
+16/08/14,Coventry,Sheffield United,1,0,H,1415,E2
+16/08/14,Crawley Town,Swindon,1,0,H,1415,E2
+16/08/14,Crewe,Barnsley,1,2,A,1415,E2
+16/08/14,Doncaster,Port Vale,1,3,A,1415,E2
+16/08/14,Gillingham,Yeovil,2,0,H,1415,E2
+16/08/14,Notts County,Fleetwood Town,0,1,A,1415,E2
+16/08/14,Oldham,Leyton Orient,1,3,A,1415,E2
+16/08/14,Peterboro,Milton Keynes Dons,3,2,H,1415,E2
+16/08/14,Scunthorpe,Preston,0,4,A,1415,E2
+16/08/14,Walsall,Bradford,0,0,D,1415,E2
+19/08/14,Bristol City,Leyton Orient,0,0,D,1415,E2
+19/08/14,Chesterfield,Milton Keynes Dons,0,1,A,1415,E2
+19/08/14,Coventry,Barnsley,2,2,D,1415,E2
+19/08/14,Crawley Town,Bradford,1,3,A,1415,E2
+19/08/14,Crewe,Rochdale,2,5,A,1415,E2
+19/08/14,Doncaster,Preston,1,1,D,1415,E2
+19/08/14,Gillingham,Swindon,2,2,D,1415,E2
+19/08/14,Notts County,Colchester,2,1,H,1415,E2
+19/08/14,Oldham,Port Vale,1,1,D,1415,E2
+19/08/14,Peterboro,Sheffield United,1,2,A,1415,E2
+19/08/14,Scunthorpe,Fleetwood Town,0,2,A,1415,E2
+19/08/14,Walsall,Yeovil,1,2,A,1415,E2
+23/08/14,Barnsley,Gillingham,4,1,H,1415,E2
+23/08/14,Bradford,Peterboro,0,1,A,1415,E2
+23/08/14,Colchester,Doncaster,0,1,A,1415,E2
+23/08/14,Fleetwood Town,Chesterfield,0,0,D,1415,E2
+23/08/14,Leyton Orient,Walsall,0,0,D,1415,E2
+23/08/14,Milton Keynes Dons,Coventry,0,0,D,1415,E2
+23/08/14,Port Vale,Notts County,0,2,A,1415,E2
+23/08/14,Preston,Oldham,1,0,H,1415,E2
+23/08/14,Rochdale,Bristol City,1,1,D,1415,E2
+23/08/14,Sheffield United,Crawley Town,1,0,H,1415,E2
+23/08/14,Swindon,Crewe,2,0,H,1415,E2
+23/08/14,Yeovil,Scunthorpe,1,1,D,1415,E2
+30/08/14,Colchester,Peterboro,1,3,A,1415,E2
+30/08/14,Doncaster,Oldham,0,2,A,1415,E2
+30/08/14,Fleetwood Town,Leyton Orient,1,1,D,1415,E2
+30/08/14,Gillingham,Crewe,2,0,H,1415,E2
+30/08/14,Milton Keynes Dons,Crawley Town,2,0,H,1415,E2
+30/08/14,Port Vale,Chesterfield,1,2,A,1415,E2
+30/08/14,Preston,Sheffield United,1,1,D,1415,E2
+30/08/14,Rochdale,Bradford,0,2,A,1415,E2
+30/08/14,Scunthorpe,Walsall,2,1,H,1415,E2
+30/08/14,Swindon,Coventry,1,1,D,1415,E2
+30/08/14,Yeovil,Barnsley,1,1,D,1415,E2
+31/08/14,Notts County,Bristol City,1,2,A,1415,E2
+05/09/14,Coventry,Gillingham,1,0,H,1415,E2
+06/09/14,Bradford,Yeovil,1,3,A,1415,E2
+06/09/14,Bristol City,Scunthorpe,2,0,H,1415,E2
+06/09/14,Crawley Town,Rochdale,0,4,A,1415,E2
+06/09/14,Oldham,Fleetwood Town,1,0,H,1415,E2
+06/09/14,Peterboro,Port Vale,3,1,H,1415,E2
+06/09/14,Walsall,Colchester,0,0,D,1415,E2
+13/09/14,Barnsley,Milton Keynes Dons,3,5,A,1415,E2
+13/09/14,Bradford,Swindon,1,2,A,1415,E2
+13/09/14,Bristol City,Doncaster,3,0,H,1415,E2
+13/09/14,Chesterfield,Scunthorpe,4,1,H,1415,E2
+13/09/14,Coventry,Yeovil,2,1,H,1415,E2
+13/09/14,Crawley Town,Fleetwood Town,1,0,H,1415,E2
+13/09/14,Crewe,Port Vale,2,1,H,1415,E2
+13/09/14,Leyton Orient,Colchester,0,2,A,1415,E2
+13/09/14,Oldham,Gillingham,0,0,D,1415,E2
+13/09/14,Peterboro,Notts County,0,0,D,1415,E2
+13/09/14,Sheffield United,Rochdale,1,0,H,1415,E2
+13/09/14,Walsall,Preston,3,1,H,1415,E2
+16/09/14,Colchester,Sheffield United,2,3,A,1415,E2
+16/09/14,Doncaster,Crawley Town,0,0,D,1415,E2
+16/09/14,Gillingham,Peterboro,2,1,H,1415,E2
+16/09/14,Milton Keynes Dons,Bradford,1,2,A,1415,E2
+16/09/14,Notts County,Leyton Orient,1,1,D,1415,E2
+16/09/14,Port Vale,Bristol City,0,3,A,1415,E2
+16/09/14,Preston,Chesterfield,3,3,D,1415,E2
+16/09/14,Rochdale,Walsall,4,0,H,1415,E2
+16/09/14,Scunthorpe,Coventry,2,1,H,1415,E2
+16/09/14,Swindon,Oldham,2,2,D,1415,E2
+16/09/14,Yeovil,Crewe,1,1,D,1415,E2
+17/09/14,Fleetwood Town,Barnsley,0,0,D,1415,E2
+20/09/14,Colchester,Bradford,0,0,D,1415,E2
+20/09/14,Doncaster,Chesterfield,3,2,H,1415,E2
+20/09/14,Fleetwood Town,Bristol City,3,3,D,1415,E2
+20/09/14,Gillingham,Walsall,0,0,D,1415,E2
+20/09/14,Milton Keynes Dons,Crewe,6,1,H,1415,E2
+20/09/14,Notts County,Oldham,0,0,D,1415,E2
+20/09/14,Port Vale,Barnsley,2,1,H,1415,E2
+20/09/14,Preston,Crawley Town,2,0,H,1415,E2
+20/09/14,Rochdale,Coventry,1,0,H,1415,E2
+20/09/14,Scunthorpe,Leyton Orient,1,2,A,1415,E2
+20/09/14,Swindon,Sheffield United,5,2,H,1415,E2
+20/09/14,Yeovil,Peterboro,1,0,H,1415,E2
+27/09/14,Barnsley,Swindon,0,3,A,1415,E2
+27/09/14,Bradford,Port Vale,1,1,D,1415,E2
+27/09/14,Bristol City,Milton Keynes Dons,3,2,H,1415,E2
+27/09/14,Chesterfield,Notts County,1,1,D,1415,E2
+27/09/14,Coventry,Preston,0,2,A,1415,E2
+27/09/14,Crawley Town,Yeovil,2,0,H,1415,E2
+27/09/14,Crewe,Colchester,0,3,A,1415,E2
+27/09/14,Leyton Orient,Rochdale,2,3,A,1415,E2
+27/09/14,Oldham,Scunthorpe,3,2,H,1415,E2
+27/09/14,Peterboro,Fleetwood Town,1,0,H,1415,E2
+27/09/14,Sheffield United,Gillingham,2,1,H,1415,E2
+27/09/14,Walsall,Doncaster,3,0,H,1415,E2
+30/09/14,Crewe,Notts County,0,3,A,1415,E2
+04/10/14,Bradford,Crewe,2,0,H,1415,E2
+04/10/14,Chesterfield,Sheffield United,3,2,H,1415,E2
+04/10/14,Coventry,Crawley Town,2,2,D,1415,E2
+04/10/14,Fleetwood Town,Port Vale,1,0,H,1415,E2
+04/10/14,Leyton Orient,Swindon,1,2,A,1415,E2
+04/10/14,Notts County,Gillingham,1,0,H,1415,E2
+04/10/14,Peterboro,Oldham,2,2,D,1415,E2
+04/10/14,Preston,Colchester,4,2,H,1415,E2
+04/10/14,Rochdale,Barnsley,0,1,A,1415,E2
+04/10/14,Scunthorpe,Doncaster,1,2,A,1415,E2
+04/10/14,Walsall,Bristol City,1,1,D,1415,E2
+04/10/14,Yeovil,Milton Keynes Dons,0,2,A,1415,E2
+11/10/14,Bristol City,Chesterfield,3,2,H,1415,E2
+11/10/14,Colchester,Fleetwood Town,2,1,H,1415,E2
+11/10/14,Crawley Town,Peterboro,1,4,A,1415,E2
+11/10/14,Crewe,Coventry,2,1,H,1415,E2
+11/10/14,Gillingham,Scunthorpe,0,3,A,1415,E2
+11/10/14,Oldham,Walsall,2,1,H,1415,E2
+11/10/14,Port Vale,Yeovil,4,1,H,1415,E2
+11/10/14,Sheffield United,Leyton Orient,2,2,D,1415,E2
+12/10/14,Barnsley,Bradford,3,1,H,1415,E2
+18/10/14,Bradford,Sheffield United,0,2,A,1415,E2
+18/10/14,Chesterfield,Oldham,1,1,D,1415,E2
+18/10/14,Coventry,Bristol City,1,3,A,1415,E2
+18/10/14,Fleetwood Town,Doncaster,3,1,H,1415,E2
+18/10/14,Leyton Orient,Milton Keynes Dons,0,0,D,1415,E2
+18/10/14,Notts County,Crawley Town,5,3,H,1415,E2
+18/10/14,Peterboro,Barnsley,2,1,H,1415,E2
+18/10/14,Preston,Port Vale,2,0,H,1415,E2
+18/10/14,Rochdale,Gillingham,1,1,D,1415,E2
+18/10/14,Scunthorpe,Colchester,1,1,D,1415,E2
+18/10/14,Walsall,Crewe,0,1,A,1415,E2
+18/10/14,Yeovil,Swindon,1,1,D,1415,E2
+21/10/14,Barnsley,Notts County,2,3,A,1415,E2
+21/10/14,Bristol City,Bradford,2,2,D,1415,E2
+21/10/14,Colchester,Chesterfield,2,1,H,1415,E2
+21/10/14,Crawley Town,Walsall,1,0,H,1415,E2
+21/10/14,Crewe,Peterboro,1,0,H,1415,E2
+21/10/14,Doncaster,Leyton Orient,0,2,A,1415,E2
+21/10/14,Gillingham,Preston,0,1,A,1415,E2
+21/10/14,Milton Keynes Dons,Fleetwood Town,2,1,H,1415,E2
+21/10/14,Oldham,Coventry,4,1,H,1415,E2
+21/10/14,Port Vale,Scunthorpe,2,2,D,1415,E2
+21/10/14,Sheffield United,Yeovil,2,0,H,1415,E2
+21/10/14,Swindon,Rochdale,2,3,A,1415,E2
+25/10/14,Barnsley,Bristol City,2,2,D,1415,E2
+25/10/14,Coventry,Peterboro,3,2,H,1415,E2
+25/10/14,Crewe,Sheffield United,0,1,A,1415,E2
+25/10/14,Doncaster,Milton Keynes Dons,0,0,D,1415,E2
+25/10/14,Gillingham,Crawley Town,1,1,D,1415,E2
+25/10/14,Oldham,Bradford,2,1,H,1415,E2
+25/10/14,Port Vale,Leyton Orient,3,0,H,1415,E2
+25/10/14,Preston,Fleetwood Town,3,2,H,1415,E2
+25/10/14,Scunthorpe,Notts County,0,1,A,1415,E2
+25/10/14,Swindon,Colchester,2,2,D,1415,E2
+25/10/14,Walsall,Chesterfield,1,0,H,1415,E2
+25/10/14,Yeovil,Rochdale,0,3,A,1415,E2
+28/10/14,Chesterfield,Swindon,0,3,A,1415,E2
+28/10/14,Leyton Orient,Preston,0,2,A,1415,E2
+01/11/14,Bradford,Doncaster,1,2,A,1415,E2
+01/11/14,Bristol City,Oldham,1,0,H,1415,E2
+01/11/14,Chesterfield,Yeovil,0,0,D,1415,E2
+01/11/14,Colchester,Port Vale,1,2,A,1415,E2
+01/11/14,Crawley Town,Crewe,1,1,D,1415,E2
+01/11/14,Fleetwood Town,Gillingham,1,0,H,1415,E2
+01/11/14,Leyton Orient,Coventry,2,2,D,1415,E2
+01/11/14,Milton Keynes Dons,Swindon,2,1,H,1415,E2
+01/11/14,Notts County,Walsall,1,2,A,1415,E2
+01/11/14,Peterboro,Scunthorpe,1,2,A,1415,E2
+01/11/14,Rochdale,Preston,3,0,H,1415,E2
+01/11/14,Sheffield United,Barnsley,0,1,A,1415,E2
+04/11/14,Swindon,Preston,1,0,H,1415,E2
+14/11/14,Barnsley,Colchester,3,2,H,1415,E2
+15/11/14,Coventry,Notts County,0,1,A,1415,E2
+15/11/14,Crewe,Chesterfield,0,0,D,1415,E2
+15/11/14,Doncaster,Sheffield United,0,1,A,1415,E2
+15/11/14,Gillingham,Leyton Orient,3,2,H,1415,E2
+15/11/14,Oldham,Crawley Town,1,1,D,1415,E2
+15/11/14,Port Vale,Rochdale,1,0,H,1415,E2
+15/11/14,Preston,Bradford,1,2,A,1415,E2
+15/11/14,Swindon,Bristol City,1,0,H,1415,E2
+15/11/14,Walsall,Peterboro,0,0,D,1415,E2
+15/11/14,Yeovil,Fleetwood Town,0,1,A,1415,E2
+22/11/14,Bradford,Gillingham,1,1,D,1415,E2
+22/11/14,Bristol City,Preston,0,1,A,1415,E2
+22/11/14,Chesterfield,Barnsley,2,1,H,1415,E2
+22/11/14,Colchester,Coventry,0,1,A,1415,E2
+22/11/14,Crawley Town,Scunthorpe,2,2,D,1415,E2
+22/11/14,Fleetwood Town,Walsall,0,1,A,1415,E2
+22/11/14,Leyton Orient,Crewe,4,1,H,1415,E2
+22/11/14,Milton Keynes Dons,Port Vale,1,0,H,1415,E2
+22/11/14,Notts County,Yeovil,1,2,A,1415,E2
+22/11/14,Peterboro,Swindon,1,2,A,1415,E2
+22/11/14,Rochdale,Doncaster,1,3,A,1415,E2
+22/11/14,Sheffield United,Oldham,1,1,D,1415,E2
+25/11/14,Milton Keynes Dons,Rochdale,2,2,D,1415,E2
+28/11/14,Peterboro,Bristol City,0,3,A,1415,E2
+28/11/14,Sheffield United,Notts County,1,1,D,1415,E2
+29/11/14,Barnsley,Scunthorpe,1,2,A,1415,E2
+29/11/14,Bradford,Leyton Orient,3,1,H,1415,E2
+29/11/14,Coventry,Walsall,0,0,D,1415,E2
+29/11/14,Crawley Town,Chesterfield,1,1,D,1415,E2
+29/11/14,Crewe,Doncaster,1,1,D,1415,E2
+29/11/14,Gillingham,Port Vale,2,2,D,1415,E2
+29/11/14,Milton Keynes Dons,Colchester,6,0,H,1415,E2
+29/11/14,Rochdale,Oldham,0,3,A,1415,E2
+29/11/14,Swindon,Fleetwood Town,1,0,H,1415,E2
+29/11/14,Yeovil,Preston,0,2,A,1415,E2
+02/12/14,Barnsley,Doncaster,1,1,D,1415,E2
+02/12/14,Sheffield United,Milton Keynes Dons,0,1,A,1415,E2
+13/12/14,Bristol City,Crawley Town,1,0,H,1415,E2
+13/12/14,Chesterfield,Bradford,0,1,A,1415,E2
+13/12/14,Colchester,Rochdale,1,4,A,1415,E2
+13/12/14,Doncaster,Gillingham,1,2,A,1415,E2
+13/12/14,Fleetwood Town,Sheffield United,1,1,D,1415,E2
+13/12/14,Leyton Orient,Peterboro,1,2,A,1415,E2
+13/12/14,Notts County,Swindon,0,3,A,1415,E2
+13/12/14,Oldham,Yeovil,0,4,A,1415,E2
+13/12/14,Port Vale,Coventry,0,2,A,1415,E2
+13/12/14,Preston,Milton Keynes Dons,1,1,D,1415,E2
+13/12/14,Scunthorpe,Crewe,2,1,H,1415,E2
+13/12/14,Walsall,Barnsley,3,1,H,1415,E2
+20/12/14,Barnsley,Leyton Orient,2,0,H,1415,E2
+20/12/14,Bradford,Scunthorpe,1,1,D,1415,E2
+20/12/14,Coventry,Fleetwood Town,1,1,D,1415,E2
+20/12/14,Crawley Town,Port Vale,1,2,A,1415,E2
+20/12/14,Crewe,Bristol City,1,0,H,1415,E2
+20/12/14,Gillingham,Chesterfield,2,3,A,1415,E2
+20/12/14,Milton Keynes Dons,Oldham,7,0,H,1415,E2
+20/12/14,Peterboro,Preston,0,1,A,1415,E2
+20/12/14,Rochdale,Notts County,2,2,D,1415,E2
+20/12/14,Sheffield United,Walsall,1,1,D,1415,E2
+20/12/14,Swindon,Doncaster,0,1,A,1415,E2
+20/12/14,Yeovil,Colchester,0,1,A,1415,E2
+26/12/14,Bristol City,Yeovil,2,1,H,1415,E2
+26/12/14,Chesterfield,Peterboro,3,2,H,1415,E2
+26/12/14,Colchester,Gillingham,1,2,A,1415,E2
+26/12/14,Doncaster,Coventry,2,0,H,1415,E2
+26/12/14,Fleetwood Town,Bradford,0,2,A,1415,E2
+26/12/14,Leyton Orient,Crawley Town,4,1,H,1415,E2
+26/12/14,Notts County,Milton Keynes Dons,0,1,A,1415,E2
+26/12/14,Oldham,Crewe,1,2,A,1415,E2
+26/12/14,Port Vale,Sheffield United,2,1,H,1415,E2
+26/12/14,Preston,Barnsley,1,0,H,1415,E2
+26/12/14,Scunthorpe,Rochdale,2,1,H,1415,E2
+26/12/14,Walsall,Swindon,1,4,A,1415,E2
+28/12/14,Bradford,Notts County,1,0,H,1415,E2
+28/12/14,Coventry,Chesterfield,0,0,D,1415,E2
+28/12/14,Crawley Town,Colchester,0,0,D,1415,E2
+28/12/14,Crewe,Preston,1,1,D,1415,E2
+28/12/14,Gillingham,Bristol City,1,3,A,1415,E2
+28/12/14,Milton Keynes Dons,Walsall,0,3,A,1415,E2
+28/12/14,Peterboro,Doncaster,0,0,D,1415,E2
+28/12/14,Rochdale,Fleetwood Town,0,2,A,1415,E2
+28/12/14,Swindon,Port Vale,1,0,H,1415,E2
+29/12/14,Yeovil,Leyton Orient,0,3,A,1415,E2
+03/01/15,Fleetwood Town,Swindon,2,2,D,1415,E2
+03/01/15,Port Vale,Gillingham,2,1,H,1415,E2
+03/01/15,Walsall,Coventry,0,2,A,1415,E2
+10/01/15,Barnsley,Yeovil,2,0,H,1415,E2
+10/01/15,Bradford,Rochdale,1,2,A,1415,E2
+10/01/15,Bristol City,Notts County,4,0,H,1415,E2
+10/01/15,Chesterfield,Port Vale,3,0,H,1415,E2
+10/01/15,Crawley Town,Milton Keynes Dons,2,2,D,1415,E2
+10/01/15,Crewe,Gillingham,3,1,H,1415,E2
+10/01/15,Leyton Orient,Fleetwood Town,0,1,A,1415,E2
+10/01/15,Oldham,Doncaster,2,2,D,1415,E2
+10/01/15,Peterboro,Colchester,0,2,A,1415,E2
+10/01/15,Sheffield United,Preston,2,1,H,1415,E2
+10/01/15,Walsall,Scunthorpe,1,4,A,1415,E2
+12/01/15,Coventry,Swindon,0,3,A,1415,E2
+16/01/15,Preston,Leyton Orient,2,2,D,1415,E2
+17/01/15,Colchester,Walsall,0,2,A,1415,E2
+17/01/15,Doncaster,Barnsley,1,0,H,1415,E2
+17/01/15,Fleetwood Town,Oldham,0,2,A,1415,E2
+17/01/15,Gillingham,Coventry,3,1,H,1415,E2
+17/01/15,Milton Keynes Dons,Sheffield United,1,0,H,1415,E2
+17/01/15,Notts County,Crewe,2,1,H,1415,E2
+17/01/15,Port Vale,Peterboro,2,1,H,1415,E2
+17/01/15,Rochdale,Crawley Town,4,1,H,1415,E2
+17/01/15,Scunthorpe,Bristol City,0,2,A,1415,E2
+17/01/15,Swindon,Chesterfield,3,1,H,1415,E2
+17/01/15,Yeovil,Bradford,1,0,H,1415,E2
+20/01/15,Doncaster,Notts County,0,0,D,1415,E2
+20/01/15,Preston,Yeovil,1,1,D,1415,E2
+24/01/15,Colchester,Leyton Orient,2,0,H,1415,E2
+24/01/15,Fleetwood Town,Crawley Town,1,0,H,1415,E2
+24/01/15,Gillingham,Oldham,3,2,H,1415,E2
+24/01/15,Milton Keynes Dons,Barnsley,2,0,H,1415,E2
+24/01/15,Notts County,Peterboro,1,2,A,1415,E2
+24/01/15,Port Vale,Crewe,0,1,A,1415,E2
+24/01/15,Yeovil,Coventry,0,0,D,1415,E2
+27/01/15,Chesterfield,Crawley Town,3,0,H,1415,E2
+27/01/15,Scunthorpe,Milton Keynes Dons,1,1,D,1415,E2
+31/01/15,Barnsley,Port Vale,2,1,H,1415,E2
+31/01/15,Bradford,Colchester,1,1,D,1415,E2
+31/01/15,Chesterfield,Doncaster,2,2,D,1415,E2
+31/01/15,Coventry,Rochdale,2,2,D,1415,E2
+31/01/15,Crawley Town,Preston,2,1,H,1415,E2
+31/01/15,Crewe,Milton Keynes Dons,0,5,A,1415,E2
+31/01/15,Leyton Orient,Scunthorpe,1,4,A,1415,E2
+31/01/15,Oldham,Notts County,3,0,H,1415,E2
+31/01/15,Peterboro,Yeovil,1,0,H,1415,E2
+31/01/15,Sheffield United,Swindon,2,0,H,1415,E2
+01/02/15,Bristol City,Fleetwood Town,2,0,H,1415,E2
+01/02/15,Walsall,Gillingham,1,1,D,1415,E2
+03/02/15,Barnsley,Oldham,1,0,H,1415,E2
+07/02/15,Colchester,Crewe,2,3,A,1415,E2
+07/02/15,Doncaster,Walsall,0,2,A,1415,E2
+07/02/15,Fleetwood Town,Peterboro,1,1,D,1415,E2
+07/02/15,Gillingham,Sheffield United,2,0,H,1415,E2
+07/02/15,Milton Keynes Dons,Bristol City,0,0,D,1415,E2
+07/02/15,Notts County,Chesterfield,0,1,A,1415,E2
+07/02/15,Port Vale,Bradford,2,2,D,1415,E2
+07/02/15,Preston,Coventry,1,0,H,1415,E2
+07/02/15,Scunthorpe,Oldham,0,1,A,1415,E2
+07/02/15,Swindon,Barnsley,2,0,H,1415,E2
+07/02/15,Yeovil,Crawley Town,2,1,H,1415,E2
+09/02/15,Bradford,Milton Keynes Dons,2,1,H,1415,E2
+10/02/15,Barnsley,Fleetwood Town,1,2,A,1415,E2
+10/02/15,Bristol City,Port Vale,3,1,H,1415,E2
+10/02/15,Chesterfield,Preston,0,2,A,1415,E2
+10/02/15,Coventry,Scunthorpe,1,1,D,1415,E2
+10/02/15,Crawley Town,Doncaster,0,5,A,1415,E2
+10/02/15,Crewe,Yeovil,1,0,H,1415,E2
+10/02/15,Leyton Orient,Notts County,0,1,A,1415,E2
+10/02/15,Oldham,Swindon,2,1,H,1415,E2
+10/02/15,Peterboro,Gillingham,1,2,A,1415,E2
+10/02/15,Sheffield United,Colchester,4,1,H,1415,E2
+10/02/15,Walsall,Rochdale,3,2,H,1415,E2
+14/02/15,Bristol City,Sheffield United,1,3,A,1415,E2
+14/02/15,Chesterfield,Leyton Orient,2,3,A,1415,E2
+14/02/15,Crawley Town,Barnsley,5,1,H,1415,E2
+14/02/15,Crewe,Fleetwood Town,2,0,H,1415,E2
+14/02/15,Doncaster,Yeovil,3,0,H,1415,E2
+14/02/15,Gillingham,Milton Keynes Dons,4,2,H,1415,E2
+14/02/15,Oldham,Colchester,0,1,A,1415,E2
+14/02/15,Peterboro,Rochdale,2,1,H,1415,E2
+14/02/15,Scunthorpe,Swindon,3,1,H,1415,E2
+14/02/15,Walsall,Port Vale,0,1,A,1415,E2
+17/02/15,Bristol City,Peterboro,2,0,H,1415,E2
+17/02/15,Colchester,Milton Keynes Dons,0,1,A,1415,E2
+17/02/15,Doncaster,Crewe,2,1,H,1415,E2
+17/02/15,Notts County,Sheffield United,1,2,A,1415,E2
+17/02/15,Scunthorpe,Chesterfield,2,0,H,1415,E2
+18/02/15,Leyton Orient,Bradford,0,2,A,1415,E2
+21/02/15,Barnsley,Crewe,2,0,H,1415,E2
+21/02/15,Bradford,Walsall,1,1,D,1415,E2
+21/02/15,Colchester,Bristol City,3,2,H,1415,E2
+21/02/15,Fleetwood Town,Notts County,2,1,H,1415,E2
+21/02/15,Leyton Orient,Oldham,3,0,H,1415,E2
+21/02/15,Milton Keynes Dons,Peterboro,3,0,H,1415,E2
+21/02/15,Port Vale,Doncaster,3,0,H,1415,E2
+21/02/15,Preston,Scunthorpe,2,0,H,1415,E2
+21/02/15,Rochdale,Chesterfield,1,0,H,1415,E2
+21/02/15,Sheffield United,Coventry,2,2,D,1415,E2
+21/02/15,Swindon,Crawley Town,1,2,A,1415,E2
+21/02/15,Yeovil,Gillingham,2,2,D,1415,E2
+24/02/15,Doncaster,Bristol City,1,3,A,1415,E2
+24/02/15,Preston,Walsall,1,0,H,1415,E2
+24/02/15,Rochdale,Sheffield United,1,2,A,1415,E2
+24/02/15,Scunthorpe,Barnsley,0,1,A,1415,E2
+24/02/15,Swindon,Bradford,2,1,H,1415,E2
+28/02/15,Bristol City,Rochdale,1,0,H,1415,E2
+28/02/15,Chesterfield,Fleetwood Town,3,0,H,1415,E2
+28/02/15,Coventry,Milton Keynes Dons,2,1,H,1415,E2
+28/02/15,Crawley Town,Sheffield United,1,1,D,1415,E2
+28/02/15,Crewe,Swindon,0,0,D,1415,E2
+28/02/15,Doncaster,Colchester,2,0,H,1415,E2
+28/02/15,Gillingham,Barnsley,0,1,A,1415,E2
+28/02/15,Notts County,Port Vale,0,1,A,1415,E2
+28/02/15,Oldham,Preston,0,4,A,1415,E2
+28/02/15,Peterboro,Bradford,2,0,H,1415,E2
+28/02/15,Scunthorpe,Yeovil,1,1,D,1415,E2
+28/02/15,Walsall,Leyton Orient,0,2,A,1415,E2
+03/03/15,Barnsley,Coventry,1,0,H,1415,E2
+03/03/15,Bradford,Crawley Town,1,0,H,1415,E2
+03/03/15,Colchester,Notts County,0,1,A,1415,E2
+03/03/15,Fleetwood Town,Scunthorpe,2,2,D,1415,E2
+03/03/15,Leyton Orient,Bristol City,1,3,A,1415,E2
+03/03/15,Milton Keynes Dons,Chesterfield,1,2,A,1415,E2
+03/03/15,Port Vale,Oldham,0,1,A,1415,E2
+03/03/15,Preston,Doncaster,2,2,D,1415,E2
+03/03/15,Rochdale,Crewe,4,0,H,1415,E2
+03/03/15,Sheffield United,Peterboro,1,2,A,1415,E2
+03/03/15,Swindon,Gillingham,0,3,A,1415,E2
+03/03/15,Yeovil,Walsall,0,1,A,1415,E2
+07/03/15,Barnsley,Walsall,3,0,H,1415,E2
+07/03/15,Coventry,Port Vale,2,3,A,1415,E2
+07/03/15,Crawley Town,Bristol City,1,2,A,1415,E2
+07/03/15,Crewe,Scunthorpe,2,0,H,1415,E2
+07/03/15,Gillingham,Doncaster,1,1,D,1415,E2
+07/03/15,Milton Keynes Dons,Preston,0,2,A,1415,E2
+07/03/15,Peterboro,Leyton Orient,1,0,H,1415,E2
+07/03/15,Rochdale,Colchester,2,1,H,1415,E2
+07/03/15,Sheffield United,Fleetwood Town,1,2,A,1415,E2
+07/03/15,Swindon,Notts County,3,0,H,1415,E2
+07/03/15,Yeovil,Oldham,2,1,H,1415,E2
+10/03/15,Coventry,Bradford,1,1,D,1415,E2
+10/03/15,Yeovil,Bristol City,0,3,A,1415,E2
+14/03/15,Bristol City,Gillingham,0,0,D,1415,E2
+14/03/15,Chesterfield,Coventry,2,3,A,1415,E2
+14/03/15,Colchester,Crawley Town,2,3,A,1415,E2
+14/03/15,Doncaster,Peterboro,0,2,A,1415,E2
+14/03/15,Fleetwood Town,Rochdale,1,0,H,1415,E2
+14/03/15,Leyton Orient,Yeovil,3,0,H,1415,E2
+14/03/15,Notts County,Bradford,1,1,D,1415,E2
+14/03/15,Oldham,Barnsley,1,3,A,1415,E2
+14/03/15,Port Vale,Swindon,0,1,A,1415,E2
+14/03/15,Preston,Crewe,5,1,H,1415,E2
+14/03/15,Scunthorpe,Sheffield United,1,1,D,1415,E2
+14/03/15,Walsall,Milton Keynes Dons,1,1,D,1415,E2
+17/03/15,Bristol City,Crewe,3,0,H,1415,E2
+17/03/15,Chesterfield,Gillingham,3,0,H,1415,E2
+17/03/15,Colchester,Yeovil,2,0,H,1415,E2
+17/03/15,Doncaster,Swindon,1,2,A,1415,E2
+17/03/15,Fleetwood Town,Coventry,0,2,A,1415,E2
+17/03/15,Leyton Orient,Barnsley,0,0,D,1415,E2
+17/03/15,Notts County,Rochdale,1,2,A,1415,E2
+17/03/15,Oldham,Milton Keynes Dons,1,3,A,1415,E2
+17/03/15,Port Vale,Crawley Town,2,3,A,1415,E2
+17/03/15,Preston,Peterboro,2,0,H,1415,E2
+17/03/15,Walsall,Sheffield United,1,1,D,1415,E2
+21/03/15,Barnsley,Preston,1,1,D,1415,E2
+21/03/15,Bradford,Fleetwood Town,2,2,D,1415,E2
+21/03/15,Coventry,Doncaster,1,3,A,1415,E2
+21/03/15,Crawley Town,Leyton Orient,1,0,H,1415,E2
+21/03/15,Crewe,Oldham,0,1,A,1415,E2
+21/03/15,Gillingham,Colchester,2,2,D,1415,E2
+21/03/15,Milton Keynes Dons,Notts County,4,1,H,1415,E2
+21/03/15,Peterboro,Chesterfield,1,0,H,1415,E2
+21/03/15,Rochdale,Scunthorpe,3,1,H,1415,E2
+21/03/15,Sheffield United,Port Vale,1,0,H,1415,E2
+24/03/15,Oldham,Rochdale,3,0,H,1415,E2
+24/03/15,Sheffield United,Scunthorpe,4,0,H,1415,E2
+28/03/15,Bradford,Oldham,2,0,H,1415,E2
+28/03/15,Bristol City,Barnsley,2,2,D,1415,E2
+28/03/15,Chesterfield,Walsall,1,0,H,1415,E2
+28/03/15,Crawley Town,Gillingham,1,2,A,1415,E2
+28/03/15,Leyton Orient,Port Vale,3,1,H,1415,E2
+28/03/15,Notts County,Scunthorpe,2,2,D,1415,E2
+28/03/15,Peterboro,Coventry,0,1,A,1415,E2
+28/03/15,Rochdale,Yeovil,2,1,H,1415,E2
+28/03/15,Sheffield United,Crewe,1,2,A,1415,E2
+29/03/15,Fleetwood Town,Preston,1,1,D,1415,E2
+31/03/15,Bradford,Chesterfield,0,1,A,1415,E2
+01/04/15,Coventry,Leyton Orient,0,1,A,1415,E2
+03/04/15,Crewe,Crawley Town,0,0,D,1415,E2
+03/04/15,Doncaster,Bradford,0,3,A,1415,E2
+03/04/15,Gillingham,Fleetwood Town,0,1,A,1415,E2
+03/04/15,Oldham,Bristol City,1,1,D,1415,E2
+03/04/15,Port Vale,Colchester,1,2,A,1415,E2
+03/04/15,Preston,Rochdale,1,0,H,1415,E2
+03/04/15,Scunthorpe,Peterboro,2,0,H,1415,E2
+03/04/15,Walsall,Notts County,0,0,D,1415,E2
+03/04/15,Yeovil,Chesterfield,2,3,A,1415,E2
+04/04/15,Barnsley,Sheffield United,0,2,A,1415,E2
+04/04/15,Swindon,Milton Keynes Dons,0,3,A,1415,E2
+06/04/15,Bradford,Preston,0,3,A,1415,E2
+06/04/15,Chesterfield,Crewe,1,0,H,1415,E2
+06/04/15,Colchester,Barnsley,3,1,H,1415,E2
+06/04/15,Crawley Town,Oldham,2,0,H,1415,E2
+06/04/15,Fleetwood Town,Yeovil,4,0,H,1415,E2
+06/04/15,Leyton Orient,Gillingham,3,3,D,1415,E2
+06/04/15,Notts County,Coventry,0,0,D,1415,E2
+06/04/15,Peterboro,Walsall,0,0,D,1415,E2
+06/04/15,Rochdale,Port Vale,1,0,H,1415,E2
+07/04/15,Bristol City,Swindon,3,0,H,1415,E2
+07/04/15,Milton Keynes Dons,Scunthorpe,2,0,H,1415,E2
+07/04/15,Sheffield United,Doncaster,3,2,H,1415,E2
+11/04/15,Barnsley,Chesterfield,1,1,D,1415,E2
+11/04/15,Coventry,Colchester,1,0,H,1415,E2
+11/04/15,Crewe,Leyton Orient,1,1,D,1415,E2
+11/04/15,Doncaster,Rochdale,1,1,D,1415,E2
+11/04/15,Gillingham,Bradford,1,0,H,1415,E2
+11/04/15,Oldham,Sheffield United,2,2,D,1415,E2
+11/04/15,Port Vale,Milton Keynes Dons,0,0,D,1415,E2
+11/04/15,Preston,Bristol City,1,1,D,1415,E2
+11/04/15,Scunthorpe,Crawley Town,2,1,H,1415,E2
+11/04/15,Swindon,Peterboro,1,0,H,1415,E2
+11/04/15,Walsall,Fleetwood Town,1,0,H,1415,E2
+11/04/15,Yeovil,Notts County,1,1,D,1415,E2
+14/04/15,Bradford,Bristol City,0,6,A,1415,E2
+14/04/15,Chesterfield,Colchester,6,0,H,1415,E2
+14/04/15,Coventry,Oldham,1,1,D,1415,E2
+14/04/15,Fleetwood Town,Milton Keynes Dons,0,3,A,1415,E2
+14/04/15,Leyton Orient,Doncaster,0,1,A,1415,E2
+14/04/15,Notts County,Barnsley,1,1,D,1415,E2
+14/04/15,Peterboro,Crewe,1,1,D,1415,E2
+14/04/15,Preston,Gillingham,2,2,D,1415,E2
+14/04/15,Rochdale,Swindon,2,4,A,1415,E2
+14/04/15,Scunthorpe,Port Vale,1,1,D,1415,E2
+14/04/15,Walsall,Crawley Town,5,0,H,1415,E2
+14/04/15,Yeovil,Sheffield United,1,0,H,1415,E2
+17/04/15,Port Vale,Preston,2,2,D,1415,E2
+18/04/15,Barnsley,Peterboro,1,1,D,1415,E2
+18/04/15,Bristol City,Coventry,0,0,D,1415,E2
+18/04/15,Colchester,Scunthorpe,2,2,D,1415,E2
+18/04/15,Crawley Town,Notts County,2,0,H,1415,E2
+18/04/15,Crewe,Walsall,1,1,D,1415,E2
+18/04/15,Doncaster,Fleetwood Town,0,0,D,1415,E2
+18/04/15,Gillingham,Rochdale,1,0,H,1415,E2
+18/04/15,Milton Keynes Dons,Leyton Orient,6,1,H,1415,E2
+18/04/15,Oldham,Chesterfield,0,0,D,1415,E2
+18/04/15,Sheffield United,Bradford,1,1,D,1415,E2
+18/04/15,Swindon,Yeovil,0,1,A,1415,E2
+21/04/15,Milton Keynes Dons,Doncaster,3,0,H,1415,E2
+21/04/15,Notts County,Preston,1,3,A,1415,E2
+21/04/15,Rochdale,Leyton Orient,1,0,H,1415,E2
+21/04/15,Scunthorpe,Bradford,1,1,D,1415,E2
+21/04/15,Swindon,Walsall,3,3,D,1415,E2
+25/04/15,Bradford,Barnsley,1,0,H,1415,E2
+25/04/15,Chesterfield,Bristol City,0,2,A,1415,E2
+25/04/15,Coventry,Crewe,1,3,A,1415,E2
+25/04/15,Fleetwood Town,Colchester,2,3,A,1415,E2
+25/04/15,Leyton Orient,Sheffield United,1,1,D,1415,E2
+25/04/15,Notts County,Doncaster,2,1,H,1415,E2
+25/04/15,Peterboro,Crawley Town,4,3,H,1415,E2
+25/04/15,Preston,Swindon,3,0,H,1415,E2
+25/04/15,Rochdale,Milton Keynes Dons,2,3,A,1415,E2
+25/04/15,Scunthorpe,Gillingham,2,1,H,1415,E2
+25/04/15,Walsall,Oldham,2,0,H,1415,E2
+25/04/15,Yeovil,Port Vale,1,2,A,1415,E2
+28/04/15,Colchester,Swindon,1,1,D,1415,E2
+03/05/15,Barnsley,Rochdale,5,0,H,1415,E2
+03/05/15,Bristol City,Walsall,8,2,H,1415,E2
+03/05/15,Colchester,Preston,1,0,H,1415,E2
+03/05/15,Crawley Town,Coventry,1,2,A,1415,E2
+03/05/15,Crewe,Bradford,0,1,A,1415,E2
+03/05/15,Doncaster,Scunthorpe,5,2,H,1415,E2
+03/05/15,Gillingham,Notts County,3,1,H,1415,E2
+03/05/15,Milton Keynes Dons,Yeovil,5,1,H,1415,E2
+03/05/15,Oldham,Peterboro,1,1,D,1415,E2
+03/05/15,Port Vale,Fleetwood Town,1,2,A,1415,E2
+03/05/15,Sheffield United,Chesterfield,1,1,D,1415,E2
+03/05/15,Swindon,Leyton Orient,2,2,D,1415,E2

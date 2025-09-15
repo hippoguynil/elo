@@ -1,0 +1,554 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season,Division
+08/08/15,Burton,Scunthorpe,2.0,1.0,H,1516,E2
+08/08/15,Chesterfield,Barnsley,3.0,1.0,H,1516,E2
+08/08/15,Colchester,Blackpool,2.0,2.0,D,1516,E2
+08/08/15,Coventry,Wigan,2.0,0.0,H,1516,E2
+08/08/15,Crewe,Port Vale,0.0,0.0,D,1516,E2
+08/08/15,Doncaster,Bury,1.0,1.0,D,1516,E2
+08/08/15,Fleetwood Town,Southend,1.0,1.0,D,1516,E2
+08/08/15,Gillingham,Sheffield United,4.0,0.0,H,1516,E2
+08/08/15,Rochdale,Peterboro,2.0,0.0,H,1516,E2
+08/08/15,Shrewsbury,Millwall,1.0,2.0,A,1516,E2
+08/08/15,Swindon,Bradford,4.0,1.0,H,1516,E2
+08/08/15,Walsall,Oldham,1.0,1.0,D,1516,E2
+15/08/15,Barnsley,Burton,1.0,0.0,H,1516,E2
+15/08/15,Blackpool,Rochdale,0.0,2.0,A,1516,E2
+15/08/15,Bradford,Shrewsbury,1.0,1.0,D,1516,E2
+15/08/15,Bury,Swindon,2.0,2.0,D,1516,E2
+15/08/15,Millwall,Coventry,0.0,4.0,A,1516,E2
+15/08/15,Oldham,Fleetwood Town,1.0,0.0,H,1516,E2
+15/08/15,Peterboro,Colchester,2.0,1.0,H,1516,E2
+15/08/15,Port Vale,Gillingham,1.0,1.0,D,1516,E2
+15/08/15,Scunthorpe,Crewe,2.0,0.0,H,1516,E2
+15/08/15,Sheffield United,Chesterfield,2.0,0.0,H,1516,E2
+15/08/15,Southend,Walsall,0.0,2.0,A,1516,E2
+16/08/15,Wigan,Doncaster,0.0,0.0,D,1516,E2
+18/08/15,Blackpool,Burton,1.0,2.0,A,1516,E2
+18/08/15,Bradford,Gillingham,1.0,2.0,A,1516,E2
+18/08/15,Bury,Fleetwood Town,3.0,4.0,A,1516,E2
+18/08/15,Colchester,Oldham,0.0,0.0,D,1516,E2
+18/08/15,Coventry,Crewe,3.0,2.0,H,1516,E2
+18/08/15,Millwall,Barnsley,2.0,3.0,A,1516,E2
+18/08/15,Peterboro,Sheffield United,1.0,3.0,A,1516,E2
+18/08/15,Rochdale,Walsall,1.0,2.0,A,1516,E2
+18/08/15,Shrewsbury,Chesterfield,1.0,2.0,A,1516,E2
+18/08/15,Swindon,Port Vale,2.0,2.0,D,1516,E2
+19/08/15,Doncaster,Southend,0.0,0.0,D,1516,E2
+19/08/15,Wigan,Scunthorpe,3.0,0.0,H,1516,E2
+22/08/15,Barnsley,Bradford,0.0,0.0,D,1516,E2
+22/08/15,Burton,Peterboro,2.0,1.0,H,1516,E2
+22/08/15,Chesterfield,Rochdale,0.0,0.0,D,1516,E2
+22/08/15,Crewe,Bury,3.0,3.0,D,1516,E2
+22/08/15,Fleetwood Town,Colchester,4.0,0.0,H,1516,E2
+22/08/15,Gillingham,Wigan,2.0,0.0,H,1516,E2
+22/08/15,Oldham,Shrewsbury,1.0,1.0,D,1516,E2
+22/08/15,Port Vale,Doncaster,3.0,0.0,H,1516,E2
+22/08/15,Scunthorpe,Millwall,0.0,0.0,D,1516,E2
+22/08/15,Sheffield United,Blackpool,2.0,0.0,H,1516,E2
+22/08/15,Southend,Swindon,0.0,1.0,A,1516,E2
+22/08/15,Walsall,Coventry,2.0,1.0,H,1516,E2
+29/08/15,Blackpool,Walsall,0.0,4.0,A,1516,E2
+29/08/15,Bradford,Port Vale,1.0,0.0,H,1516,E2
+29/08/15,Bury,Oldham,1.0,1.0,D,1516,E2
+29/08/15,Colchester,Scunthorpe,2.0,2.0,D,1516,E2
+29/08/15,Doncaster,Fleetwood Town,2.0,0.0,H,1516,E2
+29/08/15,Millwall,Chesterfield,0.0,2.0,A,1516,E2
+29/08/15,Peterboro,Gillingham,1.0,1.0,D,1516,E2
+29/08/15,Rochdale,Barnsley,3.0,0.0,H,1516,E2
+29/08/15,Shrewsbury,Burton,0.0,1.0,A,1516,E2
+29/08/15,Swindon,Sheffield United,0.0,2.0,A,1516,E2
+29/08/15,Wigan,Crewe,1.0,0.0,H,1516,E2
+31/08/15,Coventry,Southend,2.0,2.0,D,1516,E2
+05/09/15,Barnsley,Shrewsbury,1.0,2.0,A,1516,E2
+05/09/15,Chesterfield,Wigan,2.0,3.0,A,1516,E2
+05/09/15,Crewe,Swindon,1.0,3.0,A,1516,E2
+05/09/15,Fleetwood Town,Rochdale,1.0,1.0,D,1516,E2
+05/09/15,Gillingham,Doncaster,1.0,0.0,H,1516,E2
+05/09/15,Oldham,Bradford,1.0,2.0,A,1516,E2
+05/09/15,Scunthorpe,Blackpool,0.0,1.0,A,1516,E2
+05/09/15,Southend,Peterboro,2.0,1.0,H,1516,E2
+05/09/15,Walsall,Bury,0.0,1.0,A,1516,E2
+06/09/15,Burton,Coventry,1.0,2.0,A,1516,E2
+12/09/15,Barnsley,Swindon,4.0,1.0,H,1516,E2
+12/09/15,Burton,Rochdale,1.0,0.0,H,1516,E2
+12/09/15,Chesterfield,Colchester,3.0,3.0,D,1516,E2
+12/09/15,Crewe,Millwall,1.0,3.0,A,1516,E2
+12/09/15,Fleetwood Town,Bradford,1.0,1.0,D,1516,E2
+12/09/15,Gillingham,Blackpool,2.0,1.0,H,1516,E2
+12/09/15,Oldham,Peterboro,1.0,5.0,A,1516,E2
+12/09/15,Port Vale,Wigan,3.0,2.0,H,1516,E2
+12/09/15,Scunthorpe,Coventry,1.0,0.0,H,1516,E2
+12/09/15,Sheffield United,Bury,1.0,3.0,A,1516,E2
+12/09/15,Southend,Shrewsbury,0.0,1.0,A,1516,E2
+12/09/15,Walsall,Doncaster,2.0,0.0,H,1516,E2
+15/09/15,Port Vale,Millwall,0.0,2.0,A,1516,E2
+15/09/15,Sheffield United,Colchester,2.0,3.0,A,1516,E2
+19/09/15,Blackpool,Barnsley,1.0,1.0,D,1516,E2
+19/09/15,Bury,Port Vale,1.0,0.0,H,1516,E2
+19/09/15,Colchester,Gillingham,2.0,1.0,H,1516,E2
+19/09/15,Coventry,Chesterfield,1.0,0.0,H,1516,E2
+19/09/15,Doncaster,Oldham,1.0,1.0,D,1516,E2
+19/09/15,Millwall,Southend,0.0,2.0,A,1516,E2
+19/09/15,Peterboro,Walsall,1.0,1.0,D,1516,E2
+19/09/15,Rochdale,Scunthorpe,2.0,1.0,H,1516,E2
+19/09/15,Shrewsbury,Crewe,0.0,1.0,A,1516,E2
+19/09/15,Swindon,Burton,0.0,1.0,A,1516,E2
+19/09/15,Wigan,Fleetwood Town,2.0,1.0,H,1516,E2
+20/09/15,Bradford,Sheffield United,2.0,2.0,D,1516,E2
+26/09/15,Barnsley,Gillingham,2.0,0.0,H,1516,E2
+26/09/15,Bradford,Peterboro,0.0,2.0,A,1516,E2
+26/09/15,Bury,Coventry,2.0,1.0,H,1516,E2
+26/09/15,Chesterfield,Burton,1.0,2.0,A,1516,E2
+26/09/15,Fleetwood Town,Port Vale,1.0,2.0,A,1516,E2
+26/09/15,Millwall,Rochdale,3.0,1.0,H,1516,E2
+26/09/15,Oldham,Wigan,1.0,1.0,D,1516,E2
+26/09/15,Sheffield United,Doncaster,3.0,1.0,H,1516,E2
+26/09/15,Shrewsbury,Blackpool,2.0,0.0,H,1516,E2
+26/09/15,Southend,Scunthorpe,2.0,1.0,H,1516,E2
+26/09/15,Swindon,Colchester,1.0,2.0,A,1516,E2
+26/09/15,Walsall,Crewe,1.0,1.0,D,1516,E2
+29/09/15,Blackpool,Chesterfield,2.0,0.0,H,1516,E2
+29/09/15,Burton,Sheffield United,0.0,0.0,D,1516,E2
+29/09/15,Colchester,Bradford,2.0,0.0,H,1516,E2
+29/09/15,Crewe,Southend,1.0,2.0,A,1516,E2
+29/09/15,Doncaster,Swindon,2.0,2.0,D,1516,E2
+29/09/15,Gillingham,Fleetwood Town,5.0,1.0,H,1516,E2
+29/09/15,Peterboro,Bury,2.0,3.0,A,1516,E2
+29/09/15,Port Vale,Oldham,1.0,1.0,D,1516,E2
+29/09/15,Rochdale,Shrewsbury,3.0,2.0,H,1516,E2
+29/09/15,Scunthorpe,Walsall,0.0,1.0,A,1516,E2
+29/09/15,Wigan,Millwall,2.0,2.0,D,1516,E2
+03/10/15,Blackpool,Swindon,1.0,0.0,H,1516,E2
+03/10/15,Burton,Southend,1.0,0.0,H,1516,E2
+03/10/15,Colchester,Bury,0.0,1.0,A,1516,E2
+03/10/15,Coventry,Shrewsbury,3.0,0.0,H,1516,E2
+03/10/15,Crewe,Chesterfield,1.0,2.0,A,1516,E2
+03/10/15,Doncaster,Barnsley,2.0,1.0,H,1516,E2
+03/10/15,Gillingham,Oldham,3.0,3.0,D,1516,E2
+03/10/15,Peterboro,Millwall,5.0,3.0,H,1516,E2
+03/10/15,Port Vale,Sheffield United,2.0,1.0,H,1516,E2
+03/10/15,Rochdale,Bradford,1.0,3.0,A,1516,E2
+03/10/15,Scunthorpe,Fleetwood Town,1.0,0.0,H,1516,E2
+03/10/15,Wigan,Walsall,0.0,0.0,D,1516,E2
+10/10/15,Barnsley,Crewe,1.0,2.0,A,1516,E2
+10/10/15,Bury,Wigan,2.0,2.0,D,1516,E2
+10/10/15,Chesterfield,Gillingham,1.0,3.0,A,1516,E2
+10/10/15,Fleetwood Town,Coventry,0.0,1.0,A,1516,E2
+10/10/15,Oldham,Scunthorpe,2.0,4.0,A,1516,E2
+10/10/15,Sheffield United,Rochdale,3.0,2.0,H,1516,E2
+10/10/15,Shrewsbury,Colchester,4.0,2.0,H,1516,E2
+10/10/15,Southend,Port Vale,1.0,0.0,H,1516,E2
+10/10/15,Swindon,Peterboro,1.0,2.0,A,1516,E2
+10/10/15,Walsall,Burton,2.0,0.0,H,1516,E2
+17/10/15,Bury,Rochdale,0.0,0.0,D,1516,E2
+17/10/15,Coventry,Blackpool,0.0,0.0,D,1516,E2
+17/10/15,Crewe,Gillingham,0.0,1.0,A,1516,E2
+17/10/15,Doncaster,Bradford,0.0,1.0,A,1516,E2
+17/10/15,Fleetwood Town,Burton,4.0,0.0,H,1516,E2
+17/10/15,Millwall,Swindon,2.0,0.0,H,1516,E2
+17/10/15,Oldham,Sheffield United,1.0,1.0,D,1516,E2
+17/10/15,Port Vale,Peterboro,1.0,1.0,D,1516,E2
+17/10/15,Scunthorpe,Shrewsbury,2.0,1.0,H,1516,E2
+17/10/15,Southend,Barnsley,2.0,1.0,H,1516,E2
+17/10/15,Walsall,Chesterfield,1.0,2.0,A,1516,E2
+17/10/15,Wigan,Colchester,5.0,0.0,H,1516,E2
+20/10/15,Barnsley,Walsall,0.0,2.0,A,1516,E2
+20/10/15,Blackpool,Millwall,1.0,1.0,D,1516,E2
+20/10/15,Bradford,Bury,2.0,1.0,H,1516,E2
+20/10/15,Burton,Crewe,0.0,0.0,D,1516,E2
+20/10/15,Chesterfield,Southend,3.0,0.0,H,1516,E2
+20/10/15,Colchester,Port Vale,2.0,1.0,H,1516,E2
+20/10/15,Gillingham,Scunthorpe,2.0,1.0,H,1516,E2
+20/10/15,Peterboro,Wigan,2.0,3.0,A,1516,E2
+20/10/15,Rochdale,Coventry,0.0,0.0,D,1516,E2
+20/10/15,Sheffield United,Fleetwood Town,3.0,0.0,H,1516,E2
+20/10/15,Shrewsbury,Doncaster,1.0,2.0,A,1516,E2
+20/10/15,Swindon,Oldham,1.0,2.0,A,1516,E2
+24/10/15,Barnsley,Fleetwood Town,0.0,1.0,A,1516,E2
+24/10/15,Blackpool,Crewe,2.0,0.0,H,1516,E2
+24/10/15,Bradford,Wigan,1.0,1.0,D,1516,E2
+24/10/15,Burton,Port Vale,2.0,0.0,H,1516,E2
+24/10/15,Chesterfield,Scunthorpe,0.0,3.0,A,1516,E2
+24/10/15,Colchester,Walsall,4.0,4.0,D,1516,E2
+24/10/15,Gillingham,Southend,1.0,1.0,D,1516,E2
+24/10/15,Peterboro,Doncaster,4.0,0.0,H,1516,E2
+24/10/15,Rochdale,Oldham,0.0,0.0,D,1516,E2
+24/10/15,Sheffield United,Millwall,1.0,2.0,A,1516,E2
+24/10/15,Shrewsbury,Bury,2.0,0.0,H,1516,E2
+24/10/15,Swindon,Coventry,2.0,2.0,D,1516,E2
+27/10/15,Millwall,Doncaster,2.0,0.0,H,1516,E2
+31/10/15,Bury,Blackpool,4.0,3.0,H,1516,E2
+31/10/15,Coventry,Peterboro,3.0,2.0,H,1516,E2
+31/10/15,Crewe,Sheffield United,1.0,0.0,H,1516,E2
+31/10/15,Doncaster,Colchester,2.0,0.0,H,1516,E2
+31/10/15,Fleetwood Town,Chesterfield,0.0,1.0,A,1516,E2
+31/10/15,Millwall,Bradford,0.0,0.0,D,1516,E2
+31/10/15,Oldham,Burton,0.0,1.0,A,1516,E2
+31/10/15,Port Vale,Shrewsbury,2.0,0.0,H,1516,E2
+31/10/15,Scunthorpe,Barnsley,2.0,0.0,H,1516,E2
+31/10/15,Southend,Rochdale,2.0,2.0,D,1516,E2
+31/10/15,Walsall,Gillingham,3.0,2.0,H,1516,E2
+31/10/15,Wigan,Swindon,1.0,0.0,H,1516,E2
+03/11/15,Bradford,Blackpool,1.0,0.0,H,1516,E2
+03/11/15,Coventry,Barnsley,4.0,3.0,H,1516,E2
+14/11/15,Barnsley,Port Vale,1.0,2.0,A,1516,E2
+14/11/15,Blackpool,Doncaster,0.0,2.0,A,1516,E2
+14/11/15,Bradford,Crewe,2.0,0.0,H,1516,E2
+14/11/15,Chesterfield,Oldham,1.0,2.0,A,1516,E2
+14/11/15,Colchester,Coventry,1.0,3.0,A,1516,E2
+14/11/15,Gillingham,Bury,3.0,1.0,H,1516,E2
+14/11/15,Peterboro,Fleetwood Town,2.0,1.0,H,1516,E2
+14/11/15,Rochdale,Wigan,0.0,2.0,A,1516,E2
+14/11/15,Sheffield United,Southend,2.0,2.0,D,1516,E2
+14/11/15,Swindon,Scunthorpe,2.0,1.0,H,1516,E2
+21/11/15,Bury,Burton,1.0,0.0,H,1516,E2
+21/11/15,Coventry,Gillingham,4.0,1.0,H,1516,E2
+21/11/15,Crewe,Peterboro,1.0,5.0,A,1516,E2
+21/11/15,Doncaster,Rochdale,0.0,2.0,A,1516,E2
+21/11/15,Fleetwood Town,Swindon,5.0,1.0,H,1516,E2
+21/11/15,Millwall,Colchester,4.0,1.0,H,1516,E2
+21/11/15,Oldham,Barnsley,1.0,2.0,A,1516,E2
+21/11/15,Port Vale,Chesterfield,3.0,2.0,H,1516,E2
+21/11/15,Scunthorpe,Bradford,0.0,2.0,A,1516,E2
+21/11/15,Southend,Blackpool,1.0,0.0,H,1516,E2
+21/11/15,Walsall,Sheffield United,1.0,1.0,D,1516,E2
+21/11/15,Wigan,Shrewsbury,1.0,0.0,H,1516,E2
+24/11/15,Bradford,Coventry,0.0,0.0,D,1516,E2
+24/11/15,Bury,Scunthorpe,1.0,2.0,A,1516,E2
+24/11/15,Colchester,Crewe,2.0,3.0,A,1516,E2
+24/11/15,Doncaster,Chesterfield,3.0,0.0,H,1516,E2
+24/11/15,Fleetwood Town,Millwall,2.0,1.0,H,1516,E2
+24/11/15,Gillingham,Rochdale,2.0,0.0,H,1516,E2
+24/11/15,Oldham,Southend,2.0,5.0,A,1516,E2
+24/11/15,Peterboro,Barnsley,3.0,2.0,H,1516,E2
+24/11/15,Port Vale,Blackpool,2.0,0.0,H,1516,E2
+24/11/15,Sheffield United,Shrewsbury,2.0,4.0,A,1516,E2
+24/11/15,Swindon,Walsall,2.0,1.0,H,1516,E2
+24/11/15,Wigan,Burton,0.0,1.0,A,1516,E2
+28/11/15,Barnsley,Sheffield United,1.0,1.0,D,1516,E2
+28/11/15,Blackpool,Fleetwood Town,1.0,0.0,H,1516,E2
+28/11/15,Burton,Colchester,5.0,1.0,H,1516,E2
+28/11/15,Chesterfield,Swindon,0.0,4.0,A,1516,E2
+28/11/15,Coventry,Doncaster,2.0,2.0,D,1516,E2
+28/11/15,Crewe,Oldham,1.0,0.0,H,1516,E2
+28/11/15,Millwall,Bury,1.0,0.0,H,1516,E2
+28/11/15,Rochdale,Port Vale,2.0,1.0,H,1516,E2
+28/11/15,Scunthorpe,Peterboro,0.0,4.0,A,1516,E2
+28/11/15,Shrewsbury,Gillingham,2.0,2.0,D,1516,E2
+28/11/15,Southend,Wigan,0.0,0.0,D,1516,E2
+28/11/15,Walsall,Bradford,2.0,1.0,H,1516,E2
+01/12/15,Burton,Millwall,2.0,1.0,H,1516,E2
+01/12/15,Shrewsbury,Walsall,1.0,3.0,A,1516,E2
+12/12/15,Bury,Chesterfield,1.0,0.0,H,1516,E2
+12/12/15,Colchester,Barnsley,2.0,3.0,A,1516,E2
+12/12/15,Doncaster,Crewe,3.0,2.0,H,1516,E2
+12/12/15,Gillingham,Burton,0.0,3.0,A,1516,E2
+12/12/15,Peterboro,Shrewsbury,1.0,1.0,D,1516,E2
+12/12/15,Port Vale,Scunthorpe,1.0,1.0,D,1516,E2
+12/12/15,Swindon,Rochdale,2.0,1.0,H,1516,E2
+12/12/15,Wigan,Blackpool,0.0,1.0,A,1516,E2
+13/12/15,Sheffield United,Coventry,1.0,0.0,H,1516,E2
+18/12/15,Southend,Bury,4.0,1.0,H,1516,E2
+19/12/15,Barnsley,Wigan,0.0,2.0,A,1516,E2
+19/12/15,Blackpool,Peterboro,2.0,0.0,H,1516,E2
+19/12/15,Burton,Doncaster,3.0,3.0,D,1516,E2
+19/12/15,Chesterfield,Bradford,0.0,1.0,A,1516,E2
+19/12/15,Coventry,Oldham,1.0,1.0,D,1516,E2
+19/12/15,Crewe,Fleetwood Town,1.0,1.0,D,1516,E2
+19/12/15,Millwall,Gillingham,0.0,3.0,A,1516,E2
+19/12/15,Rochdale,Colchester,3.0,1.0,H,1516,E2
+19/12/15,Scunthorpe,Sheffield United,0.0,1.0,A,1516,E2
+19/12/15,Shrewsbury,Swindon,0.0,1.0,A,1516,E2
+20/12/15,Walsall,Port Vale,2.0,0.0,H,1516,E2
+26/12/15,Colchester,Southend,0.0,2.0,A,1516,E2
+26/12/15,Coventry,Port Vale,1.0,0.0,H,1516,E2
+26/12/15,Doncaster,Scunthorpe,0.0,1.0,A,1516,E2
+26/12/15,Millwall,Walsall,0.0,1.0,A,1516,E2
+26/12/15,Peterboro,Chesterfield,2.0,0.0,H,1516,E2
+26/12/15,Shrewsbury,Fleetwood Town,1.0,1.0,D,1516,E2
+26/12/15,Swindon,Gillingham,1.0,3.0,A,1516,E2
+28/12/15,Barnsley,Blackpool,4.0,2.0,H,1516,E2
+28/12/15,Burton,Swindon,1.0,0.0,H,1516,E2
+28/12/15,Chesterfield,Coventry,1.0,1.0,D,1516,E2
+28/12/15,Crewe,Shrewsbury,1.0,2.0,A,1516,E2
+28/12/15,Fleetwood Town,Wigan,1.0,3.0,A,1516,E2
+28/12/15,Gillingham,Colchester,1.0,0.0,H,1516,E2
+28/12/15,Oldham,Doncaster,1.0,2.0,A,1516,E2
+28/12/15,Port Vale,Bury,1.0,0.0,H,1516,E2
+28/12/15,Scunthorpe,Rochdale,1.0,1.0,D,1516,E2
+28/12/15,Sheffield United,Bradford,3.0,1.0,H,1516,E2
+28/12/15,Southend,Millwall,0.0,4.0,A,1516,E2
+28/12/15,Walsall,Peterboro,2.0,0.0,H,1516,E2
+02/01/16,Barnsley,Millwall,2.0,1.0,H,1516,E2
+02/01/16,Burton,Blackpool,1.0,0.0,H,1516,E2
+02/01/16,Chesterfield,Shrewsbury,7.0,1.0,H,1516,E2
+02/01/16,Crewe,Coventry,0.0,5.0,A,1516,E2
+02/01/16,Fleetwood Town,Bury,2.0,0.0,H,1516,E2
+02/01/16,Gillingham,Bradford,3.0,0.0,H,1516,E2
+02/01/16,Oldham,Colchester,1.0,1.0,D,1516,E2
+02/01/16,Scunthorpe,Wigan,1.0,1.0,D,1516,E2
+02/01/16,Sheffield United,Peterboro,2.0,3.0,A,1516,E2
+02/01/16,Southend,Doncaster,0.0,3.0,A,1516,E2
+02/01/16,Walsall,Rochdale,0.0,3.0,A,1516,E2
+07/01/16,Wigan,Gillingham,3.0,2.0,H,1516,E2
+09/01/16,Blackpool,Port Vale,0.0,1.0,A,1516,E2
+09/01/16,Oldham,Millwall,1.0,2.0,A,1516,E2
+09/01/16,Rochdale,Chesterfield,2.0,3.0,A,1516,E2
+09/01/16,Swindon,Southend,4.0,2.0,H,1516,E2
+12/01/16,Coventry,Walsall,1.0,1.0,D,1516,E2
+12/01/16,Wigan,Sheffield United,3.0,3.0,D,1516,E2
+16/01/16,Blackpool,Scunthorpe,5.0,0.0,H,1516,E2
+16/01/16,Bradford,Oldham,1.0,0.0,H,1516,E2
+16/01/16,Bury,Walsall,2.0,3.0,A,1516,E2
+16/01/16,Colchester,Sheffield United,1.0,2.0,A,1516,E2
+16/01/16,Coventry,Burton,0.0,2.0,A,1516,E2
+16/01/16,Doncaster,Gillingham,2.0,2.0,D,1516,E2
+16/01/16,Peterboro,Southend,0.0,0.0,D,1516,E2
+16/01/16,Shrewsbury,Barnsley,0.0,3.0,A,1516,E2
+16/01/16,Swindon,Crewe,4.0,3.0,H,1516,E2
+16/01/16,Wigan,Chesterfield,3.0,1.0,H,1516,E2
+17/01/16,Millwall,Port Vale,3.0,1.0,H,1516,E2
+19/01/16,Colchester,Fleetwood Town,1.0,1.0,D,1516,E2
+23/01/16,Barnsley,Rochdale,6.0,1.0,H,1516,E2
+23/01/16,Burton,Shrewsbury,1.0,2.0,A,1516,E2
+23/01/16,Chesterfield,Millwall,1.0,2.0,A,1516,E2
+23/01/16,Crewe,Wigan,1.0,1.0,D,1516,E2
+23/01/16,Fleetwood Town,Doncaster,0.0,0.0,D,1516,E2
+23/01/16,Gillingham,Peterboro,2.0,1.0,H,1516,E2
+23/01/16,Oldham,Bury,0.0,1.0,A,1516,E2
+23/01/16,Port Vale,Bradford,1.0,1.0,D,1516,E2
+23/01/16,Scunthorpe,Colchester,3.0,0.0,H,1516,E2
+23/01/16,Sheffield United,Swindon,1.0,1.0,D,1516,E2
+23/01/16,Southend,Coventry,3.0,0.0,H,1516,E2
+23/01/16,Walsall,Blackpool,1.0,1.0,D,1516,E2
+26/01/16,Blackpool,Sheffield United,0.0,0.0,D,1516,E2
+26/01/16,Bradford,Barnsley,0.0,1.0,A,1516,E2
+26/01/16,Bury,Crewe,0.0,0.0,D,1516,E2
+26/01/16,Doncaster,Port Vale,1.0,2.0,A,1516,E2
+26/01/16,Peterboro,Burton,0.0,1.0,A,1516,E2
+26/01/16,Shrewsbury,Oldham,0.0,1.0,A,1516,E2
+30/01/16,Blackpool,Gillingham,1.0,0.0,H,1516,E2
+30/01/16,Bradford,Fleetwood Town,2.0,1.0,H,1516,E2
+30/01/16,Coventry,Scunthorpe,1.0,2.0,A,1516,E2
+30/01/16,Millwall,Crewe,1.0,1.0,D,1516,E2
+30/01/16,Rochdale,Burton,2.0,1.0,H,1516,E2
+30/01/16,Swindon,Barnsley,0.0,1.0,A,1516,E2
+30/01/16,Wigan,Port Vale,3.0,0.0,H,1516,E2
+02/02/16,Doncaster,Walsall,1.0,2.0,A,1516,E2
+02/02/16,Port Vale,Swindon,1.0,0.0,H,1516,E2
+02/02/16,Shrewsbury,Southend,1.0,2.0,A,1516,E2
+06/02/16,Burton,Bradford,3.0,1.0,H,1516,E2
+06/02/16,Chesterfield,Peterboro,0.0,1.0,A,1516,E2
+06/02/16,Crewe,Rochdale,2.0,0.0,H,1516,E2
+06/02/16,Gillingham,Swindon,0.0,0.0,D,1516,E2
+06/02/16,Sheffield United,Wigan,0.0,2.0,A,1516,E2
+06/02/16,Southend,Colchester,3.0,0.0,H,1516,E2
+06/02/16,Walsall,Millwall,0.0,3.0,A,1516,E2
+07/02/16,Barnsley,Bury,3.0,0.0,H,1516,E2
+07/02/16,Fleetwood Town,Shrewsbury,0.0,0.0,D,1516,E2
+07/02/16,Port Vale,Coventry,1.0,1.0,D,1516,E2
+12/02/16,Burton,Chesterfield,1.0,0.0,H,1516,E2
+13/02/16,Blackpool,Shrewsbury,2.0,3.0,A,1516,E2
+13/02/16,Colchester,Swindon,1.0,4.0,A,1516,E2
+13/02/16,Coventry,Bury,6.0,0.0,H,1516,E2
+13/02/16,Crewe,Walsall,1.0,1.0,D,1516,E2
+13/02/16,Doncaster,Sheffield United,0.0,1.0,A,1516,E2
+13/02/16,Gillingham,Barnsley,2.0,1.0,H,1516,E2
+13/02/16,Peterboro,Bradford,0.0,4.0,A,1516,E2
+13/02/16,Port Vale,Fleetwood Town,0.0,0.0,D,1516,E2
+13/02/16,Rochdale,Millwall,0.0,1.0,A,1516,E2
+13/02/16,Scunthorpe,Southend,1.0,0.0,H,1516,E2
+13/02/16,Wigan,Oldham,0.0,0.0,D,1516,E2
+16/02/16,Blackpool,Oldham,0.0,0.0,D,1516,E2
+16/02/16,Bradford,Southend,2.0,0.0,H,1516,E2
+16/02/16,Bury,Sheffield United,1.0,0.0,H,1516,E2
+16/02/16,Colchester,Chesterfield,1.0,1.0,D,1516,E2
+16/02/16,Millwall,Scunthorpe,0.0,2.0,A,1516,E2
+16/02/16,Rochdale,Crewe,2.0,2.0,D,1516,E2
+20/02/16,Barnsley,Doncaster,1.0,0.0,H,1516,E2
+20/02/16,Bradford,Rochdale,2.0,2.0,D,1516,E2
+20/02/16,Bury,Colchester,5.0,2.0,H,1516,E2
+20/02/16,Chesterfield,Crewe,3.0,1.0,H,1516,E2
+20/02/16,Fleetwood Town,Scunthorpe,2.0,1.0,H,1516,E2
+20/02/16,Millwall,Peterboro,3.0,0.0,H,1516,E2
+20/02/16,Oldham,Gillingham,2.0,1.0,H,1516,E2
+20/02/16,Sheffield United,Port Vale,1.0,0.0,H,1516,E2
+20/02/16,Swindon,Blackpool,3.0,2.0,H,1516,E2
+20/02/16,Walsall,Wigan,1.0,2.0,A,1516,E2
+22/02/16,Southend,Burton,3.0,1.0,H,1516,E2
+23/02/16,Bury,Barnsley,0.0,0.0,D,1516,E2
+23/02/16,Peterboro,Oldham,1.0,2.0,A,1516,E2
+23/02/16,Rochdale,Fleetwood Town,1.0,0.0,H,1516,E2
+26/02/16,Port Vale,Southend,3.0,1.0,H,1516,E2
+27/02/16,Blackpool,Bradford,0.0,1.0,A,1516,E2
+27/02/16,Burton,Walsall,0.0,0.0,D,1516,E2
+27/02/16,Colchester,Shrewsbury,0.0,0.0,D,1516,E2
+27/02/16,Coventry,Fleetwood Town,1.0,2.0,A,1516,E2
+27/02/16,Crewe,Barnsley,1.0,2.0,A,1516,E2
+27/02/16,Doncaster,Millwall,1.0,1.0,D,1516,E2
+27/02/16,Gillingham,Chesterfield,1.0,2.0,A,1516,E2
+27/02/16,Peterboro,Swindon,1.0,2.0,A,1516,E2
+27/02/16,Rochdale,Sheffield United,2.0,0.0,H,1516,E2
+27/02/16,Scunthorpe,Oldham,1.0,1.0,D,1516,E2
+27/02/16,Wigan,Bury,3.0,0.0,H,1516,E2
+01/03/16,Barnsley,Coventry,2.0,0.0,H,1516,E2
+01/03/16,Bradford,Colchester,1.0,2.0,A,1516,E2
+01/03/16,Bury,Peterboro,3.0,1.0,H,1516,E2
+01/03/16,Chesterfield,Blackpool,1.0,1.0,D,1516,E2
+01/03/16,Fleetwood Town,Gillingham,2.0,1.0,H,1516,E2
+01/03/16,Millwall,Wigan,0.0,0.0,D,1516,E2
+01/03/16,Oldham,Port Vale,1.0,1.0,D,1516,E2
+01/03/16,Sheffield United,Burton,0.0,1.0,A,1516,E2
+01/03/16,Shrewsbury,Rochdale,2.0,0.0,H,1516,E2
+01/03/16,Southend,Crewe,1.0,1.0,D,1516,E2
+01/03/16,Swindon,Doncaster,2.0,0.0,H,1516,E2
+01/03/16,Walsall,Scunthorpe,0.0,0.0,D,1516,E2
+05/03/16,Bury,Bradford,0.0,0.0,D,1516,E2
+05/03/16,Coventry,Rochdale,0.0,1.0,A,1516,E2
+05/03/16,Crewe,Burton,1.0,1.0,D,1516,E2
+05/03/16,Doncaster,Shrewsbury,0.0,1.0,A,1516,E2
+05/03/16,Fleetwood Town,Sheffield United,2.0,2.0,D,1516,E2
+05/03/16,Millwall,Blackpool,3.0,0.0,H,1516,E2
+05/03/16,Port Vale,Colchester,2.0,0.0,H,1516,E2
+05/03/16,Scunthorpe,Gillingham,0.0,0.0,D,1516,E2
+05/03/16,Southend,Chesterfield,0.0,1.0,A,1516,E2
+05/03/16,Walsall,Barnsley,1.0,3.0,A,1516,E2
+05/03/16,Wigan,Peterboro,1.0,1.0,D,1516,E2
+08/03/16,Bradford,Burton,2.0,0.0,H,1516,E2
+08/03/16,Scunthorpe,Doncaster,2.0,0.0,H,1516,E2
+08/03/16,Shrewsbury,Coventry,2.0,1.0,H,1516,E2
+12/03/16,Barnsley,Southend,0.0,2.0,A,1516,E2
+12/03/16,Blackpool,Coventry,0.0,1.0,A,1516,E2
+12/03/16,Bradford,Doncaster,2.0,1.0,H,1516,E2
+12/03/16,Burton,Fleetwood Town,2.0,1.0,H,1516,E2
+12/03/16,Chesterfield,Walsall,1.0,4.0,A,1516,E2
+12/03/16,Colchester,Wigan,3.0,3.0,D,1516,E2
+12/03/16,Gillingham,Crewe,3.0,0.0,H,1516,E2
+12/03/16,Peterboro,Port Vale,2.0,3.0,A,1516,E2
+12/03/16,Rochdale,Bury,3.0,0.0,H,1516,E2
+12/03/16,Sheffield United,Oldham,3.0,0.0,H,1516,E2
+12/03/16,Shrewsbury,Scunthorpe,2.0,2.0,D,1516,E2
+12/03/16,Swindon,Millwall,2.0,2.0,D,1516,E2
+15/03/16,Fleetwood Town,Walsall,0.0,1.0,A,1516,E2
+15/03/16,Oldham,Blackpool,1.0,0.0,H,1516,E2
+19/03/16,Bury,Shrewsbury,2.0,2.0,D,1516,E2
+19/03/16,Coventry,Swindon,0.0,0.0,D,1516,E2
+19/03/16,Crewe,Blackpool,1.0,2.0,A,1516,E2
+19/03/16,Doncaster,Peterboro,1.0,2.0,A,1516,E2
+19/03/16,Fleetwood Town,Barnsley,0.0,2.0,A,1516,E2
+19/03/16,Millwall,Sheffield United,1.0,0.0,H,1516,E2
+19/03/16,Oldham,Rochdale,2.0,3.0,A,1516,E2
+19/03/16,Port Vale,Burton,0.0,4.0,A,1516,E2
+19/03/16,Scunthorpe,Chesterfield,1.0,1.0,D,1516,E2
+19/03/16,Southend,Gillingham,1.0,1.0,D,1516,E2
+19/03/16,Walsall,Colchester,2.0,1.0,H,1516,E2
+19/03/16,Wigan,Bradford,1.0,0.0,H,1516,E2
+25/03/16,Barnsley,Scunthorpe,0.0,0.0,D,1516,E2
+25/03/16,Blackpool,Bury,1.0,1.0,D,1516,E2
+25/03/16,Colchester,Doncaster,4.0,1.0,H,1516,E2
+25/03/16,Peterboro,Coventry,3.0,1.0,H,1516,E2
+25/03/16,Rochdale,Southend,4.0,1.0,H,1516,E2
+25/03/16,Sheffield United,Crewe,3.0,2.0,H,1516,E2
+25/03/16,Shrewsbury,Port Vale,1.0,1.0,D,1516,E2
+25/03/16,Swindon,Wigan,1.0,4.0,A,1516,E2
+26/03/16,Bradford,Millwall,1.0,0.0,H,1516,E2
+26/03/16,Burton,Oldham,0.0,0.0,D,1516,E2
+26/03/16,Chesterfield,Fleetwood Town,0.0,0.0,D,1516,E2
+28/03/16,Bury,Gillingham,0.0,1.0,A,1516,E2
+28/03/16,Crewe,Bradford,0.0,1.0,A,1516,E2
+28/03/16,Doncaster,Blackpool,0.0,1.0,A,1516,E2
+28/03/16,Millwall,Burton,2.0,0.0,H,1516,E2
+28/03/16,Oldham,Chesterfield,1.0,0.0,H,1516,E2
+28/03/16,Port Vale,Barnsley,0.0,1.0,A,1516,E2
+28/03/16,Scunthorpe,Swindon,6.0,0.0,H,1516,E2
+28/03/16,Wigan,Rochdale,1.0,0.0,H,1516,E2
+29/03/16,Coventry,Colchester,0.0,1.0,A,1516,E2
+30/03/16,Southend,Sheffield United,3.0,1.0,H,1516,E2
+02/04/16,Blackpool,Southend,2.0,0.0,H,1516,E2
+02/04/16,Bradford,Scunthorpe,1.0,0.0,H,1516,E2
+02/04/16,Burton,Bury,1.0,1.0,D,1516,E2
+02/04/16,Chesterfield,Port Vale,4.0,2.0,H,1516,E2
+02/04/16,Colchester,Millwall,0.0,0.0,D,1516,E2
+02/04/16,Gillingham,Coventry,0.0,0.0,D,1516,E2
+02/04/16,Peterboro,Crewe,3.0,0.0,H,1516,E2
+02/04/16,Rochdale,Doncaster,2.0,2.0,D,1516,E2
+02/04/16,Sheffield United,Walsall,2.0,0.0,H,1516,E2
+02/04/16,Shrewsbury,Wigan,1.0,5.0,A,1516,E2
+02/04/16,Swindon,Fleetwood Town,1.0,1.0,D,1516,E2
+05/04/16,Fleetwood Town,Peterboro,2.0,0.0,H,1516,E2
+05/04/16,Oldham,Swindon,2.0,0.0,H,1516,E2
+09/04/16,Barnsley,Chesterfield,1.0,2.0,A,1516,E2
+09/04/16,Blackpool,Colchester,0.0,1.0,A,1516,E2
+09/04/16,Bradford,Swindon,1.0,0.0,H,1516,E2
+09/04/16,Bury,Doncaster,1.0,0.0,H,1516,E2
+09/04/16,Millwall,Shrewsbury,3.0,1.0,H,1516,E2
+09/04/16,Oldham,Walsall,1.0,0.0,H,1516,E2
+09/04/16,Peterboro,Rochdale,1.0,2.0,A,1516,E2
+09/04/16,Port Vale,Crewe,3.0,0.0,H,1516,E2
+09/04/16,Scunthorpe,Burton,1.0,0.0,H,1516,E2
+09/04/16,Sheffield United,Gillingham,0.0,0.0,D,1516,E2
+09/04/16,Southend,Fleetwood Town,2.0,2.0,D,1516,E2
+09/04/16,Wigan,Coventry,1.0,0.0,H,1516,E2
+12/04/16,Barnsley,Oldham,2.0,1.0,H,1516,E2
+12/04/16,Gillingham,Walsall,1.0,2.0,A,1516,E2
+16/04/16,Burton,Barnsley,0.0,0.0,D,1516,E2
+16/04/16,Chesterfield,Sheffield United,0.0,3.0,A,1516,E2
+16/04/16,Colchester,Peterboro,1.0,4.0,A,1516,E2
+16/04/16,Coventry,Millwall,2.0,1.0,H,1516,E2
+16/04/16,Crewe,Scunthorpe,2.0,3.0,A,1516,E2
+16/04/16,Doncaster,Wigan,3.0,1.0,H,1516,E2
+16/04/16,Fleetwood Town,Oldham,1.0,1.0,D,1516,E2
+16/04/16,Gillingham,Port Vale,0.0,2.0,A,1516,E2
+16/04/16,Rochdale,Blackpool,3.0,0.0,H,1516,E2
+16/04/16,Shrewsbury,Bradford,1.0,1.0,D,1516,E2
+16/04/16,Swindon,Bury,0.0,1.0,A,1516,E2
+16/04/16,Walsall,Southend,1.0,0.0,H,1516,E2
+19/04/16,Barnsley,Peterboro,1.0,0.0,H,1516,E2
+19/04/16,Burton,Wigan,1.0,1.0,D,1516,E2
+19/04/16,Chesterfield,Doncaster,1.0,1.0,D,1516,E2
+19/04/16,Coventry,Bradford,1.0,0.0,H,1516,E2
+19/04/16,Crewe,Colchester,1.0,1.0,D,1516,E2
+19/04/16,Millwall,Fleetwood Town,1.0,0.0,H,1516,E2
+19/04/16,Rochdale,Gillingham,1.0,1.0,D,1516,E2
+19/04/16,Scunthorpe,Bury,2.0,1.0,H,1516,E2
+19/04/16,Shrewsbury,Sheffield United,1.0,2.0,A,1516,E2
+19/04/16,Southend,Oldham,0.0,1.0,A,1516,E2
+19/04/16,Walsall,Swindon,1.0,1.0,D,1516,E2
+23/04/16,Bradford,Walsall,4.0,0.0,H,1516,E2
+23/04/16,Bury,Millwall,1.0,3.0,A,1516,E2
+23/04/16,Colchester,Burton,0.0,3.0,A,1516,E2
+23/04/16,Doncaster,Coventry,2.0,0.0,H,1516,E2
+23/04/16,Fleetwood Town,Blackpool,0.0,0.0,D,1516,E2
+23/04/16,Gillingham,Shrewsbury,2.0,3.0,A,1516,E2
+23/04/16,Oldham,Crewe,1.0,0.0,H,1516,E2
+23/04/16,Peterboro,Scunthorpe,0.0,2.0,A,1516,E2
+23/04/16,Port Vale,Rochdale,4.0,1.0,H,1516,E2
+23/04/16,Sheffield United,Barnsley,0.0,0.0,D,1516,E2
+23/04/16,Swindon,Chesterfield,1.0,0.0,H,1516,E2
+23/04/16,Wigan,Southend,4.0,1.0,H,1516,E2
+26/04/16,Walsall,Shrewsbury,2.0,1.0,H,1516,E2
+30/04/16,Barnsley,Colchester,2.0,2.0,D,1516,E2
+30/04/16,Blackpool,Wigan,0.0,4.0,A,1516,E2
+30/04/16,Burton,Gillingham,2.0,1.0,H,1516,E2
+30/04/16,Chesterfield,Bury,3.0,0.0,H,1516,E2
+30/04/16,Coventry,Sheffield United,3.0,1.0,H,1516,E2
+30/04/16,Crewe,Doncaster,3.0,1.0,H,1516,E2
+30/04/16,Millwall,Oldham,3.0,0.0,H,1516,E2
+30/04/16,Rochdale,Swindon,2.0,2.0,D,1516,E2
+30/04/16,Scunthorpe,Port Vale,1.0,0.0,H,1516,E2
+30/04/16,Shrewsbury,Peterboro,3.0,4.0,A,1516,E2
+30/04/16,Southend,Bradford,0.0,1.0,A,1516,E2
+02/05/16,Walsall,Fleetwood Town,3.0,1.0,H,1516,E2
+08/05/16,Bradford,Chesterfield,2.0,0.0,H,1516,E2
+08/05/16,Bury,Southend,3.0,2.0,H,1516,E2
+08/05/16,Colchester,Rochdale,1.0,2.0,A,1516,E2
+08/05/16,Doncaster,Burton,0.0,0.0,D,1516,E2
+08/05/16,Fleetwood Town,Crewe,2.0,0.0,H,1516,E2
+08/05/16,Gillingham,Millwall,1.0,2.0,A,1516,E2
+08/05/16,Oldham,Coventry,0.0,2.0,A,1516,E2
+08/05/16,Peterboro,Blackpool,5.0,1.0,H,1516,E2
+08/05/16,Port Vale,Walsall,0.0,5.0,A,1516,E2
+08/05/16,Sheffield United,Scunthorpe,0.0,2.0,A,1516,E2
+08/05/16,Swindon,Shrewsbury,3.0,0.0,H,1516,E2
+08/05/16,Wigan,Barnsley,1.0,4.0,A,1516,E2
+,,,,,,1516,E2

@@ -1,0 +1,553 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season,Division
+02/08/2019,Luton,Middlesbrough,3,3,D,1920,E1
+03/08/2019,Barnsley,Fulham,1,0,H,1920,E1
+03/08/2019,Blackburn,Charlton,1,2,A,1920,E1
+03/08/2019,Brentford,Birmingham,0,1,A,1920,E1
+03/08/2019,Millwall,Preston,1,0,H,1920,E1
+03/08/2019,Reading,Sheffield Weds,1,3,A,1920,E1
+03/08/2019,Stoke,QPR,1,2,A,1920,E1
+03/08/2019,Swansea,Hull,2,1,H,1920,E1
+03/08/2019,Wigan,Cardiff,3,2,H,1920,E1
+03/08/2019,Nott'm Forest,West Brom,1,2,A,1920,E1
+04/08/2019,Bristol City,Leeds,1,3,A,1920,E1
+05/08/2019,Huddersfield,Derby,1,2,A,1920,E1
+10/08/2019,Leeds,Nott'm Forest,1,1,D,1920,E1
+10/08/2019,Birmingham,Bristol City,1,1,D,1920,E1
+10/08/2019,Cardiff,Luton,2,1,H,1920,E1
+10/08/2019,Charlton,Stoke,3,1,H,1920,E1
+10/08/2019,Derby,Swansea,0,0,D,1920,E1
+10/08/2019,Fulham,Blackburn,2,0,H,1920,E1
+10/08/2019,Hull,Reading,2,1,H,1920,E1
+10/08/2019,Middlesbrough,Brentford,0,1,A,1920,E1
+10/08/2019,Preston,Wigan,3,0,H,1920,E1
+10/08/2019,QPR,Huddersfield,1,1,D,1920,E1
+10/08/2019,Sheffield Weds,Barnsley,2,0,H,1920,E1
+10/08/2019,West Brom,Millwall,1,1,D,1920,E1
+16/08/2019,Huddersfield,Fulham,1,2,A,1920,E1
+17/08/2019,Barnsley,Charlton,2,2,D,1920,E1
+17/08/2019,Blackburn,Middlesbrough,1,0,H,1920,E1
+17/08/2019,Brentford,Hull,1,1,D,1920,E1
+17/08/2019,Bristol City,QPR,2,0,H,1920,E1
+17/08/2019,Luton,West Brom,1,2,A,1920,E1
+17/08/2019,Millwall,Sheffield Weds,1,0,H,1920,E1
+17/08/2019,Nott'm Forest,Birmingham,3,0,H,1920,E1
+17/08/2019,Stoke,Derby,2,2,D,1920,E1
+17/08/2019,Swansea,Preston,3,2,H,1920,E1
+17/08/2019,Wigan,Leeds,0,2,A,1920,E1
+18/08/2019,Reading,Cardiff,3,0,H,1920,E1
+20/08/2019,Birmingham,Barnsley,2,0,H,1920,E1
+20/08/2019,Derby,Bristol City,1,2,A,1920,E1
+20/08/2019,Hull,Blackburn,0,1,A,1920,E1
+20/08/2019,Middlesbrough,Wigan,1,0,H,1920,E1
+20/08/2019,Sheffield Weds,Luton,1,0,H,1920,E1
+21/08/2019,Cardiff,Huddersfield,2,1,H,1920,E1
+21/08/2019,Charlton,Nott'm Forest,1,1,D,1920,E1
+21/08/2019,Fulham,Millwall,4,0,H,1920,E1
+21/08/2019,Leeds,Brentford,1,0,H,1920,E1
+21/08/2019,Preston,Stoke,3,1,H,1920,E1
+21/08/2019,QPR,Swansea,1,3,A,1920,E1
+21/08/2019,West Brom,Reading,1,1,D,1920,E1
+24/08/2019,Derby,West Brom,1,1,D,1920,E1
+24/08/2019,Barnsley,Luton,1,3,A,1920,E1
+24/08/2019,Blackburn,Cardiff,0,0,D,1920,E1
+24/08/2019,Charlton,Brentford,1,0,H,1920,E1
+24/08/2019,Fulham,Nott'm Forest,1,2,A,1920,E1
+24/08/2019,Huddersfield,Reading,0,2,A,1920,E1
+24/08/2019,Hull,Bristol City,1,3,A,1920,E1
+24/08/2019,Middlesbrough,Millwall,1,1,D,1920,E1
+24/08/2019,Preston,Sheffield Weds,2,1,H,1920,E1
+24/08/2019,QPR,Wigan,3,1,H,1920,E1
+24/08/2019,Stoke,Leeds,0,3,A,1920,E1
+25/08/2019,Swansea,Birmingham,3,0,H,1920,E1
+30/08/2019,Cardiff,Fulham,1,1,D,1920,E1
+31/08/2019,Bristol City,Middlesbrough,2,2,D,1920,E1
+31/08/2019,Birmingham,Stoke,2,1,H,1920,E1
+31/08/2019,Brentford,Derby,3,0,H,1920,E1
+31/08/2019,Leeds,Swansea,0,1,A,1920,E1
+31/08/2019,Luton,Huddersfield,2,1,H,1920,E1
+31/08/2019,Millwall,Hull,1,1,D,1920,E1
+31/08/2019,Nott'm Forest,Preston,1,1,D,1920,E1
+31/08/2019,Reading,Charlton,0,2,A,1920,E1
+31/08/2019,Sheffield Weds,QPR,1,2,A,1920,E1
+31/08/2019,West Brom,Blackburn,3,2,H,1920,E1
+31/08/2019,Wigan,Barnsley,0,0,D,1920,E1
+13/09/2019,Derby,Cardiff,1,1,D,1920,E1
+14/09/2019,Fulham,West Brom,1,1,D,1920,E1
+14/09/2019,Blackburn,Millwall,2,0,H,1920,E1
+14/09/2019,Charlton,Birmingham,0,1,A,1920,E1
+14/09/2019,Hull,Wigan,2,2,D,1920,E1
+14/09/2019,Middlesbrough,Reading,1,0,H,1920,E1
+14/09/2019,Preston,Brentford,2,0,H,1920,E1
+14/09/2019,QPR,Luton,3,2,H,1920,E1
+14/09/2019,Stoke,Bristol City,1,2,A,1920,E1
+14/09/2019,Swansea,Nott'm Forest,0,1,A,1920,E1
+15/09/2019,Huddersfield,Sheffield Weds,0,2,A,1920,E1
+15/09/2019,Barnsley,Leeds,0,2,A,1920,E1
+21/09/2019,Leeds,Derby,1,1,D,1920,E1
+21/09/2019,Birmingham,Preston,0,1,A,1920,E1
+21/09/2019,Brentford,Stoke,0,0,D,1920,E1
+21/09/2019,Bristol City,Swansea,0,0,D,1920,E1
+21/09/2019,Cardiff,Middlesbrough,1,0,H,1920,E1
+21/09/2019,Luton,Hull,0,3,A,1920,E1
+21/09/2019,Millwall,QPR,1,2,A,1920,E1
+21/09/2019,Nott'm Forest,Barnsley,1,0,H,1920,E1
+21/09/2019,Reading,Blackburn,1,2,A,1920,E1
+21/09/2019,Sheffield Weds,Fulham,1,1,D,1920,E1
+21/09/2019,Wigan,Charlton,2,0,H,1920,E1
+22/09/2019,West Brom,Huddersfield,4,2,H,1920,E1
+27/09/2019,Fulham,Wigan,2,0,H,1920,E1
+27/09/2019,Stoke,Nott'm Forest,2,3,A,1920,E1
+28/09/2019,QPR,West Brom,0,2,A,1920,E1
+28/09/2019,Blackburn,Luton,1,2,A,1920,E1
+28/09/2019,Charlton,Leeds,1,0,H,1920,E1
+28/09/2019,Derby,Birmingham,3,2,H,1920,E1
+28/09/2019,Huddersfield,Millwall,1,1,D,1920,E1
+28/09/2019,Hull,Cardiff,2,2,D,1920,E1
+28/09/2019,Middlesbrough,Sheffield Weds,1,4,A,1920,E1
+28/09/2019,Preston,Bristol City,3,3,D,1920,E1
+28/09/2019,Swansea,Reading,1,1,D,1920,E1
+29/09/2019,Barnsley,Brentford,1,3,A,1920,E1
+01/10/2019,Blackburn,Nott'm Forest,1,1,D,1920,E1
+01/10/2019,Hull,Sheffield Weds,1,0,H,1920,E1
+01/10/2019,Leeds,West Brom,1,0,H,1920,E1
+01/10/2019,Middlesbrough,Preston,1,1,D,1920,E1
+01/10/2019,Wigan,Birmingham,1,0,H,1920,E1
+01/10/2019,Reading,Fulham,1,4,A,1920,E1
+01/10/2019,Stoke,Huddersfield,0,1,A,1920,E1
+02/10/2019,Barnsley,Derby,2,2,D,1920,E1
+02/10/2019,Brentford,Bristol City,1,1,D,1920,E1
+02/10/2019,Cardiff,QPR,3,0,H,1920,E1
+02/10/2019,Charlton,Swansea,1,2,A,1920,E1
+02/10/2019,Luton,Millwall,1,1,D,1920,E1
+04/10/2019,Birmingham,Middlesbrough,2,1,H,1920,E1
+05/10/2019,Fulham,Charlton,2,2,D,1920,E1
+05/10/2019,Bristol City,Reading,1,0,H,1920,E1
+05/10/2019,Derby,Luton,2,0,H,1920,E1
+05/10/2019,Huddersfield,Hull,3,0,H,1920,E1
+05/10/2019,Millwall,Leeds,2,1,H,1920,E1
+05/10/2019,Nott'm Forest,Brentford,1,0,H,1920,E1
+05/10/2019,Preston,Barnsley,5,1,H,1920,E1
+05/10/2019,QPR,Blackburn,4,2,H,1920,E1
+05/10/2019,Sheffield Weds,Wigan,1,0,H,1920,E1
+05/10/2019,Swansea,Stoke,1,2,A,1920,E1
+05/10/2019,West Brom,Cardiff,4,2,H,1920,E1
+18/10/2019,Cardiff,Sheffield Weds,1,1,D,1920,E1
+19/10/2019,Blackburn,Huddersfield,2,2,D,1920,E1
+19/10/2019,Barnsley,Swansea,1,1,D,1920,E1
+19/10/2019,Brentford,Millwall,3,2,H,1920,E1
+19/10/2019,Charlton,Derby,3,0,H,1920,E1
+19/10/2019,Hull,QPR,2,3,A,1920,E1
+19/10/2019,Leeds,Birmingham,1,0,H,1920,E1
+19/10/2019,Luton,Bristol City,3,0,H,1920,E1
+19/10/2019,Middlesbrough,West Brom,0,1,A,1920,E1
+19/10/2019,Reading,Preston,1,0,H,1920,E1
+19/10/2019,Stoke,Fulham,2,0,H,1920,E1
+20/10/2019,Wigan,Nott'm Forest,1,0,H,1920,E1
+22/10/2019,Birmingham,Blackburn,1,0,H,1920,E1
+22/10/2019,Millwall,Cardiff,2,2,D,1920,E1
+22/10/2019,Preston,Leeds,1,1,D,1920,E1
+22/10/2019,QPR,Reading,2,2,D,1920,E1
+22/10/2019,Sheffield Weds,Stoke,1,0,H,1920,E1
+22/10/2019,Swansea,Brentford,0,3,A,1920,E1
+22/10/2019,West Brom,Barnsley,2,2,D,1920,E1
+23/10/2019,Bristol City,Charlton,2,1,H,1920,E1
+23/10/2019,Derby,Wigan,1,0,H,1920,E1
+23/10/2019,Fulham,Luton,3,2,H,1920,E1
+23/10/2019,Huddersfield,Middlesbrough,0,0,D,1920,E1
+23/10/2019,Nott'm Forest,Hull,1,2,A,1920,E1
+26/10/2019,Sheffield Weds,Leeds,0,0,D,1920,E1
+26/10/2019,Birmingham,Luton,2,1,H,1920,E1
+26/10/2019,Huddersfield,Barnsley,2,1,H,1920,E1
+26/10/2019,Hull,Derby,2,0,H,1920,E1
+26/10/2019,Middlesbrough,Fulham,0,0,D,1920,E1
+26/10/2019,Millwall,Stoke,2,0,H,1920,E1
+26/10/2019,Preston,Blackburn,3,2,H,1920,E1
+26/10/2019,West Brom,Charlton,2,2,D,1920,E1
+27/10/2019,Swansea,Cardiff,1,0,H,1920,E1
+27/10/2019,Bristol City,Wigan,2,2,D,1920,E1
+28/10/2019,QPR,Brentford,1,3,A,1920,E1
+01/11/2019,Barnsley,Bristol City,2,2,D,1920,E1
+02/11/2019,Wigan,Swansea,1,2,A,1920,E1
+02/11/2019,Blackburn,Sheffield Weds,2,1,H,1920,E1
+02/11/2019,Brentford,Huddersfield,0,1,A,1920,E1
+02/11/2019,Cardiff,Birmingham,4,2,H,1920,E1
+02/11/2019,Derby,Middlesbrough,2,0,H,1920,E1
+02/11/2019,Fulham,Hull,0,3,A,1920,E1
+02/11/2019,Leeds,QPR,2,0,H,1920,E1
+02/11/2019,Luton,Nott'm Forest,1,2,A,1920,E1
+02/11/2019,Reading,Millwall,2,1,H,1920,E1
+03/11/2019,Charlton,Preston,0,1,A,1920,E1
+04/11/2019,Stoke,West Brom,0,2,A,1920,E1
+09/11/2019,Nott'm Forest,Derby,1,0,H,1920,E1
+09/11/2019,Barnsley,Stoke,2,4,A,1920,E1
+09/11/2019,Birmingham,Fulham,0,1,A,1920,E1
+09/11/2019,Hull,West Brom,0,1,A,1920,E1
+09/11/2019,Leeds,Blackburn,2,1,H,1920,E1
+09/11/2019,Millwall,Charlton,2,1,H,1920,E1
+09/11/2019,Preston,Huddersfield,3,1,H,1920,E1
+09/11/2019,QPR,Middlesbrough,2,2,D,1920,E1
+09/11/2019,Reading,Luton,3,0,H,1920,E1
+09/11/2019,Sheffield Weds,Swansea,2,2,D,1920,E1
+09/11/2019,Wigan,Brentford,0,3,A,1920,E1
+10/11/2019,Cardiff,Bristol City,0,1,A,1920,E1
+22/11/2019,Fulham,QPR,2,1,H,1920,E1
+23/11/2019,Charlton,Cardiff,2,2,D,1920,E1
+23/11/2019,Blackburn,Barnsley,3,2,H,1920,E1
+23/11/2019,Brentford,Reading,1,0,H,1920,E1
+23/11/2019,Bristol City,Nott'm Forest,0,0,D,1920,E1
+23/11/2019,Derby,Preston,1,0,H,1920,E1
+23/11/2019,Huddersfield,Birmingham,1,1,D,1920,E1
+23/11/2019,Luton,Leeds,1,2,A,1920,E1
+23/11/2019,Stoke,Wigan,2,1,H,1920,E1
+23/11/2019,Swansea,Millwall,0,1,A,1920,E1
+23/11/2019,West Brom,Sheffield Weds,2,1,H,1920,E1
+24/11/2019,Middlesbrough,Hull,2,2,D,1920,E1
+26/11/2019,Cardiff,Stoke,1,0,H,1920,E1
+26/11/2019,Fulham,Derby,3,0,H,1920,E1
+26/11/2019,Huddersfield,Swansea,1,1,D,1920,E1
+26/11/2019,Luton,Charlton,2,1,H,1920,E1
+26/11/2019,Millwall,Wigan,2,2,D,1920,E1
+26/11/2019,Reading,Leeds,0,1,A,1920,E1
+27/11/2019,Blackburn,Brentford,1,0,H,1920,E1
+27/11/2019,Hull,Preston,4,0,H,1920,E1
+27/11/2019,Middlesbrough,Barnsley,1,0,H,1920,E1
+27/11/2019,QPR,Nott'm Forest,0,4,A,1920,E1
+27/11/2019,Sheffield Weds,Birmingham,1,1,D,1920,E1
+27/11/2019,West Brom,Bristol City,4,1,H,1920,E1
+29/11/2019,Swansea,Fulham,1,2,A,1920,E1
+30/11/2019,Charlton,Sheffield Weds,1,3,A,1920,E1
+30/11/2019,Barnsley,Hull,3,1,H,1920,E1
+30/11/2019,Birmingham,Millwall,1,1,D,1920,E1
+30/11/2019,Brentford,Luton,7,0,H,1920,E1
+30/11/2019,Bristol City,Huddersfield,5,2,H,1920,E1
+30/11/2019,Derby,QPR,1,1,D,1920,E1
+30/11/2019,Leeds,Middlesbrough,4,0,H,1920,E1
+30/11/2019,Nott'm Forest,Cardiff,0,1,A,1920,E1
+30/11/2019,Stoke,Blackburn,1,2,A,1920,E1
+30/11/2019,Wigan,Reading,1,3,A,1920,E1
+02/12/2019,Preston,West Brom,0,1,A,1920,E1
+06/12/2019,Millwall,Nott'm Forest,2,2,D,1920,E1
+07/12/2019,Huddersfield,Leeds,0,2,A,1920,E1
+07/12/2019,Blackburn,Derby,1,0,H,1920,E1
+07/12/2019,Cardiff,Barnsley,3,2,H,1920,E1
+07/12/2019,Fulham,Bristol City,1,2,A,1920,E1
+07/12/2019,Hull,Stoke,2,1,H,1920,E1
+07/12/2019,Luton,Wigan,2,1,H,1920,E1
+07/12/2019,Middlesbrough,Charlton,1,0,H,1920,E1
+07/12/2019,QPR,Preston,2,0,H,1920,E1
+07/12/2019,Reading,Birmingham,2,3,A,1920,E1
+07/12/2019,Sheffield Weds,Brentford,2,1,H,1920,E1
+08/12/2019,West Brom,Swansea,5,1,H,1920,E1
+10/12/2019,Bristol City,Millwall,1,2,A,1920,E1
+10/12/2019,Charlton,Huddersfield,0,1,A,1920,E1
+10/12/2019,Leeds,Hull,2,0,H,1920,E1
+10/12/2019,Nott'm Forest,Middlesbrough,1,1,D,1920,E1
+10/12/2019,Preston,Fulham,2,1,H,1920,E1
+10/12/2019,Stoke,Luton,3,0,H,1920,E1
+11/12/2019,Barnsley,Reading,1,1,D,1920,E1
+11/12/2019,Birmingham,QPR,0,2,A,1920,E1
+11/12/2019,Brentford,Cardiff,2,1,H,1920,E1
+11/12/2019,Derby,Sheffield Weds,1,1,D,1920,E1
+11/12/2019,Swansea,Blackburn,1,1,D,1920,E1
+11/12/2019,Wigan,West Brom,1,1,D,1920,E1
+13/12/2019,Charlton,Hull,2,2,D,1920,E1
+14/12/2019,Birmingham,West Brom,2,3,A,1920,E1
+14/12/2019,Barnsley,QPR,5,3,H,1920,E1
+14/12/2019,Brentford,Fulham,1,0,H,1920,E1
+14/12/2019,Bristol City,Blackburn,0,2,A,1920,E1
+14/12/2019,Derby,Millwall,0,1,A,1920,E1
+14/12/2019,Leeds,Cardiff,3,3,D,1920,E1
+14/12/2019,Nott'm Forest,Sheffield Weds,0,4,A,1920,E1
+14/12/2019,Preston,Luton,2,1,H,1920,E1
+14/12/2019,Stoke,Reading,0,0,D,1920,E1
+14/12/2019,Swansea,Middlesbrough,3,1,H,1920,E1
+14/12/2019,Wigan,Huddersfield,1,1,D,1920,E1
+20/12/2019,Middlesbrough,Stoke,2,1,H,1920,E1
+21/12/2019,Cardiff,Preston,0,0,D,1920,E1
+21/12/2019,Fulham,Leeds,2,1,H,1920,E1
+21/12/2019,Huddersfield,Nott'm Forest,2,1,H,1920,E1
+21/12/2019,Hull,Birmingham,3,0,H,1920,E1
+21/12/2019,Luton,Swansea,0,1,A,1920,E1
+21/12/2019,Millwall,Barnsley,1,2,A,1920,E1
+21/12/2019,QPR,Charlton,2,2,D,1920,E1
+21/12/2019,Reading,Derby,3,0,H,1920,E1
+21/12/2019,West Brom,Brentford,1,1,D,1920,E1
+22/12/2019,Sheffield Weds,Bristol City,1,0,H,1920,E1
+23/12/2019,Blackburn,Wigan,0,0,D,1920,E1
+26/12/2019,Barnsley,West Brom,1,1,D,1920,E1
+26/12/2019,Blackburn,Birmingham,1,1,D,1920,E1
+26/12/2019,Brentford,Swansea,3,1,H,1920,E1
+26/12/2019,Cardiff,Millwall,1,1,D,1920,E1
+26/12/2019,Charlton,Bristol City,3,2,H,1920,E1
+26/12/2019,Hull,Nott'm Forest,0,2,A,1920,E1
+26/12/2019,Luton,Fulham,3,3,D,1920,E1
+26/12/2019,Middlesbrough,Huddersfield,1,0,H,1920,E1
+26/12/2019,Stoke,Sheffield Weds,3,2,H,1920,E1
+26/12/2019,Wigan,Derby,1,1,D,1920,E1
+26/12/2019,Leeds,Preston,1,1,D,1920,E1
+26/12/2019,Reading,QPR,1,0,H,1920,E1
+29/12/2019,Birmingham,Leeds,4,5,A,1920,E1
+29/12/2019,Bristol City,Luton,3,0,H,1920,E1
+29/12/2019,Fulham,Stoke,1,0,H,1920,E1
+29/12/2019,Huddersfield,Blackburn,2,1,H,1920,E1
+29/12/2019,Millwall,Brentford,1,0,H,1920,E1
+29/12/2019,Nott'm Forest,Wigan,1,0,H,1920,E1
+29/12/2019,Preston,Reading,0,2,A,1920,E1
+29/12/2019,QPR,Hull,1,2,A,1920,E1
+29/12/2019,Sheffield Weds,Cardiff,1,2,A,1920,E1
+29/12/2019,Swansea,Barnsley,0,0,D,1920,E1
+29/12/2019,West Brom,Middlesbrough,0,2,A,1920,E1
+30/12/2019,Derby,Charlton,2,1,H,1920,E1
+01/01/2020,Millwall,Luton,3,1,H,1920,E1
+01/01/2020,Birmingham,Wigan,2,3,A,1920,E1
+01/01/2020,Bristol City,Brentford,0,4,A,1920,E1
+01/01/2020,Fulham,Reading,1,2,A,1920,E1
+01/01/2020,Huddersfield,Stoke,2,5,A,1920,E1
+01/01/2020,Nott'm Forest,Blackburn,3,2,H,1920,E1
+01/01/2020,Preston,Middlesbrough,0,2,A,1920,E1
+01/01/2020,QPR,Cardiff,6,1,H,1920,E1
+01/01/2020,Sheffield Weds,Hull,0,1,A,1920,E1
+01/01/2020,West Brom,Leeds,1,1,D,1920,E1
+02/01/2020,Derby,Barnsley,2,1,H,1920,E1
+02/01/2020,Swansea,Charlton,1,0,H,1920,E1
+11/01/2020,Brentford,QPR,3,1,H,1920,E1
+11/01/2020,Barnsley,Huddersfield,2,1,H,1920,E1
+11/01/2020,Blackburn,Preston,1,1,D,1920,E1
+11/01/2020,Charlton,West Brom,2,2,D,1920,E1
+11/01/2020,Hull,Fulham,0,1,A,1920,E1
+11/01/2020,Leeds,Sheffield Weds,0,2,A,1920,E1
+11/01/2020,Luton,Birmingham,1,2,A,1920,E1
+11/01/2020,Middlesbrough,Derby,2,2,D,1920,E1
+11/01/2020,Reading,Nott'm Forest,1,1,D,1920,E1
+11/01/2020,Stoke,Millwall,0,0,D,1920,E1
+11/01/2020,Wigan,Bristol City,0,2,A,1920,E1
+12/01/2020,Cardiff,Swansea,0,0,D,1920,E1
+17/01/2020,Fulham,Middlesbrough,1,0,H,1920,E1
+18/01/2020,QPR,Leeds,1,0,H,1920,E1
+18/01/2020,Birmingham,Cardiff,1,1,D,1920,E1
+18/01/2020,Bristol City,Barnsley,1,0,H,1920,E1
+18/01/2020,Derby,Hull,1,0,H,1920,E1
+18/01/2020,Huddersfield,Brentford,0,0,D,1920,E1
+18/01/2020,Millwall,Reading,2,0,H,1920,E1
+18/01/2020,Preston,Charlton,2,1,H,1920,E1
+18/01/2020,Sheffield Weds,Blackburn,0,5,A,1920,E1
+18/01/2020,Swansea,Wigan,2,1,H,1920,E1
+19/01/2020,Nott'm Forest,Luton,3,1,H,1920,E1
+20/01/2020,West Brom,Stoke,0,1,A,1920,E1
+21/01/2020,Barnsley,Preston,0,3,A,1920,E1
+21/01/2020,Middlesbrough,Birmingham,1,1,D,1920,E1
+22/01/2020,Charlton,Fulham,0,0,D,1920,E1
+22/01/2020,Nott'm Forest,Reading,1,1,D,1920,E1
+25/01/2020,Stoke,Swansea,2,0,H,1920,E1
+28/01/2020,Blackburn,QPR,2,1,H,1920,E1
+28/01/2020,Brentford,Nott'm Forest,0,1,A,1920,E1
+28/01/2020,Cardiff,West Brom,2,1,H,1920,E1
+28/01/2020,Hull,Huddersfield,1,2,A,1920,E1
+28/01/2020,Leeds,Millwall,3,2,H,1920,E1
+28/01/2020,Luton,Derby,3,2,H,1920,E1
+28/01/2020,Wigan,Sheffield Weds,2,1,H,1920,E1
+28/01/2020,Reading,Bristol City,0,1,A,1920,E1
+31/01/2020,Cardiff,Reading,1,1,D,1920,E1
+31/01/2020,Derby,Stoke,4,0,H,1920,E1
+01/02/2020,Hull,Brentford,1,5,A,1920,E1
+01/02/2020,Birmingham,Nott'm Forest,2,1,H,1920,E1
+01/02/2020,Charlton,Barnsley,2,1,H,1920,E1
+01/02/2020,Fulham,Huddersfield,3,2,H,1920,E1
+01/02/2020,Leeds,Wigan,0,1,A,1920,E1
+01/02/2020,Middlesbrough,Blackburn,1,1,D,1920,E1
+01/02/2020,Preston,Swansea,1,1,D,1920,E1
+01/02/2020,QPR,Bristol City,0,1,A,1920,E1
+01/02/2020,Sheffield Weds,Millwall,0,0,D,1920,E1
+01/02/2020,West Brom,Luton,2,0,H,1920,E1
+07/02/2020,Bristol City,Birmingham,1,3,A,1920,E1
+08/02/2020,Wigan,Preston,1,2,A,1920,E1
+08/02/2020,Barnsley,Sheffield Weds,1,1,D,1920,E1
+08/02/2020,Blackburn,Fulham,0,1,A,1920,E1
+08/02/2020,Brentford,Middlesbrough,3,2,H,1920,E1
+08/02/2020,Huddersfield,QPR,2,0,H,1920,E1
+08/02/2020,Luton,Cardiff,0,1,A,1920,E1
+08/02/2020,Reading,Hull,1,1,D,1920,E1
+08/02/2020,Stoke,Charlton,3,1,H,1920,E1
+08/02/2020,Swansea,Derby,2,3,A,1920,E1
+08/02/2020,Nott'm Forest,Leeds,2,0,H,1920,E1
+09/02/2020,Millwall,West Brom,0,2,A,1920,E1
+11/02/2020,Barnsley,Birmingham,0,1,A,1920,E1
+11/02/2020,Blackburn,Hull,3,0,H,1920,E1
+11/02/2020,Brentford,Leeds,1,1,D,1920,E1
+11/02/2020,Nott'm Forest,Charlton,0,1,A,1920,E1
+11/02/2020,Swansea,QPR,0,0,D,1920,E1
+11/02/2020,Wigan,Middlesbrough,2,2,D,1920,E1
+12/02/2020,Bristol City,Derby,3,2,H,1920,E1
+12/02/2020,Huddersfield,Cardiff,0,3,A,1920,E1
+12/02/2020,Luton,Sheffield Weds,1,0,H,1920,E1
+12/02/2020,Millwall,Fulham,1,1,D,1920,E1
+12/02/2020,Reading,West Brom,1,2,A,1920,E1
+12/02/2020,Stoke,Preston,0,2,A,1920,E1
+14/02/2020,Hull,Swansea,4,4,D,1920,E1
+15/02/2020,West Brom,Nott'm Forest,2,2,D,1920,E1
+15/02/2020,Birmingham,Brentford,1,1,D,1920,E1
+15/02/2020,Cardiff,Wigan,2,2,D,1920,E1
+15/02/2020,Charlton,Blackburn,0,2,A,1920,E1
+15/02/2020,Derby,Huddersfield,1,1,D,1920,E1
+15/02/2020,Fulham,Barnsley,0,3,A,1920,E1
+15/02/2020,Leeds,Bristol City,1,0,H,1920,E1
+15/02/2020,Middlesbrough,Luton,0,1,A,1920,E1
+15/02/2020,Preston,Millwall,0,1,A,1920,E1
+15/02/2020,QPR,Stoke,4,2,H,1920,E1
+15/02/2020,Sheffield Weds,Reading,0,3,A,1920,E1
+21/02/2020,Derby,Fulham,1,1,D,1920,E1
+22/02/2020,Brentford,Blackburn,2,2,D,1920,E1
+22/02/2020,Barnsley,Middlesbrough,1,0,H,1920,E1
+22/02/2020,Birmingham,Sheffield Weds,3,3,D,1920,E1
+22/02/2020,Bristol City,West Brom,0,3,A,1920,E1
+22/02/2020,Charlton,Luton,3,1,H,1920,E1
+22/02/2020,Leeds,Reading,1,0,H,1920,E1
+22/02/2020,Nott'm Forest,QPR,0,0,D,1920,E1
+22/02/2020,Preston,Hull,2,1,H,1920,E1
+22/02/2020,Stoke,Cardiff,2,0,H,1920,E1
+22/02/2020,Swansea,Huddersfield,3,1,H,1920,E1
+22/02/2020,Wigan,Millwall,1,0,H,1920,E1
+25/02/2020,Cardiff,Nott'm Forest,0,1,A,1920,E1
+25/02/2020,Huddersfield,Bristol City,2,1,H,1920,E1
+25/02/2020,Luton,Brentford,2,1,H,1920,E1
+25/02/2020,QPR,Derby,2,1,H,1920,E1
+25/02/2020,West Brom,Preston,2,0,H,1920,E1
+26/02/2020,Blackburn,Stoke,0,0,D,1920,E1
+26/02/2020,Fulham,Swansea,1,0,H,1920,E1
+26/02/2020,Hull,Barnsley,0,1,A,1920,E1
+26/02/2020,Middlesbrough,Leeds,0,1,A,1920,E1
+26/02/2020,Millwall,Birmingham,0,0,D,1920,E1
+26/02/2020,Sheffield Weds,Charlton,1,0,H,1920,E1
+26/02/2020,Reading,Wigan,0,3,A,1920,E1
+29/02/2020,Hull,Leeds,0,4,A,1920,E1
+29/02/2020,Blackburn,Swansea,2,2,D,1920,E1
+29/02/2020,Cardiff,Brentford,2,2,D,1920,E1
+29/02/2020,Fulham,Preston,2,0,H,1920,E1
+29/02/2020,Huddersfield,Charlton,4,0,H,1920,E1
+29/02/2020,Luton,Stoke,1,1,D,1920,E1
+29/02/2020,Millwall,Bristol City,1,1,D,1920,E1
+29/02/2020,QPR,Birmingham,2,2,D,1920,E1
+29/02/2020,Reading,Barnsley,2,0,H,1920,E1
+29/02/2020,Sheffield Weds,Derby,1,3,A,1920,E1
+29/02/2020,West Brom,Wigan,0,1,A,1920,E1
+02/03/2020,Middlesbrough,Nott'm Forest,2,2,D,1920,E1
+06/03/2020,Nott'm Forest,Millwall,0,3,A,1920,E1
+07/03/2020,Bristol City,Fulham,1,1,D,1920,E1
+07/03/2020,Barnsley,Cardiff,0,2,A,1920,E1
+07/03/2020,Birmingham,Reading,1,3,A,1920,E1
+07/03/2020,Brentford,Sheffield Weds,5,0,H,1920,E1
+07/03/2020,Charlton,Middlesbrough,0,1,A,1920,E1
+07/03/2020,Leeds,Huddersfield,2,0,H,1920,E1
+07/03/2020,Preston,QPR,1,3,A,1920,E1
+07/03/2020,Stoke,Hull,5,1,H,1920,E1
+07/03/2020,Swansea,West Brom,0,0,D,1920,E1
+07/03/2020,Wigan,Luton,0,0,D,1920,E1
+08/03/2020,Derby,Blackburn,3,0,H,1920,E1
+20/06/2020,Fulham,Brentford,0,2,A,1920,E1
+20/06/2020,Middlesbrough,Swansea,0,3,A,1920,E1
+20/06/2020,Millwall,Derby,2,3,A,1920,E1
+20/06/2020,Blackburn,Bristol City,3,1,H,1920,E1
+20/06/2020,Huddersfield,Wigan,0,2,A,1920,E1
+20/06/2020,Hull,Charlton,0,1,A,1920,E1
+20/06/2020,Luton,Preston,1,1,D,1920,E1
+20/06/2020,QPR,Barnsley,0,1,A,1920,E1
+20/06/2020,Reading,Stoke,1,1,D,1920,E1
+20/06/2020,Sheffield Weds,Nott'm Forest,1,1,D,1920,E1
+20/06/2020,West Brom,Birmingham,0,0,D,1920,E1
+21/06/2020,Cardiff,Leeds,2,0,H,1920,E1
+26/06/2020,Brentford,West Brom,1,0,H,1920,E1
+27/06/2020,Charlton,QPR,1,0,H,1920,E1
+27/06/2020,Preston,Cardiff,1,3,A,1920,E1
+27/06/2020,Swansea,Luton,0,1,A,1920,E1
+27/06/2020,Barnsley,Millwall,0,0,D,1920,E1
+27/06/2020,Derby,Reading,2,1,H,1920,E1
+27/06/2020,Birmingham,Hull,3,3,D,1920,E1
+27/06/2020,Leeds,Fulham,3,0,H,1920,E1
+27/06/2020,Stoke,Middlesbrough,0,2,A,1920,E1
+27/06/2020,Wigan,Blackburn,2,0,H,1920,E1
+28/06/2020,Bristol City,Sheffield Weds,1,2,A,1920,E1
+28/06/2020,Nott'm Forest,Huddersfield,3,1,H,1920,E1
+30/06/2020,Millwall,Swansea,1,1,D,1920,E1
+30/06/2020,Barnsley,Blackburn,2,0,H,1920,E1
+30/06/2020,Cardiff,Charlton,0,0,D,1920,E1
+30/06/2020,Reading,Brentford,0,3,A,1920,E1
+30/06/2020,QPR,Fulham,1,2,A,1920,E1
+30/06/2020,Leeds,Luton,1,1,D,1920,E1
+30/06/2020,Wigan,Stoke,3,0,H,1920,E1
+01/07/2020,Preston,Derby,0,1,A,1920,E1
+01/07/2020,Birmingham,Huddersfield,0,3,A,1920,E1
+01/07/2020,Nott'm Forest,Bristol City,1,0,H,1920,E1
+01/07/2020,Sheffield Weds,West Brom,0,3,A,1920,E1
+02/07/2020,Hull,Middlesbrough,2,1,H,1920,E1
+03/07/2020,Charlton,Millwall,0,1,A,1920,E1
+04/07/2020,Derby,Nott'm Forest,1,1,D,1920,E1
+04/07/2020,Blackburn,Leeds,1,3,A,1920,E1
+04/07/2020,Brentford,Wigan,3,0,H,1920,E1
+04/07/2020,Bristol City,Cardiff,0,1,A,1920,E1
+04/07/2020,Fulham,Birmingham,1,0,H,1920,E1
+04/07/2020,Huddersfield,Preston,0,0,D,1920,E1
+04/07/2020,Luton,Reading,0,5,A,1920,E1
+04/07/2020,Stoke,Barnsley,4,0,H,1920,E1
+05/07/2020,Swansea,Sheffield Weds,2,1,H,1920,E1
+05/07/2020,Middlesbrough,QPR,0,1,A,1920,E1
+05/07/2020,West Brom,Hull,4,2,H,1920,E1
+07/07/2020,Nott'm Forest,Fulham,0,1,A,1920,E1
+07/07/2020,Brentford,Charlton,2,1,H,1920,E1
+07/07/2020,Luton,Barnsley,1,1,D,1920,E1
+07/07/2020,Reading,Huddersfield,0,0,D,1920,E1
+07/07/2020,Cardiff,Blackburn,2,3,A,1920,E1
+08/07/2020,Millwall,Middlesbrough,0,2,A,1920,E1
+08/07/2020,West Brom,Derby,2,0,H,1920,E1
+08/07/2020,Birmingham,Swansea,1,3,A,1920,E1
+08/07/2020,Bristol City,Hull,2,1,H,1920,E1
+08/07/2020,Wigan,QPR,1,0,H,1920,E1
+08/07/2020,Sheffield Weds,Preston,1,3,A,1920,E1
+09/07/2020,Leeds,Stoke,5,0,H,1920,E1
+10/07/2020,Huddersfield,Luton,0,2,A,1920,E1
+10/07/2020,Fulham,Cardiff,2,0,H,1920,E1
+11/07/2020,Charlton,Reading,0,1,A,1920,E1
+11/07/2020,Derby,Brentford,1,3,A,1920,E1
+11/07/2020,Barnsley,Wigan,0,0,D,1920,E1
+11/07/2020,Blackburn,West Brom,1,1,D,1920,E1
+11/07/2020,Hull,Millwall,0,1,A,1920,E1
+11/07/2020,Middlesbrough,Bristol City,1,3,A,1920,E1
+11/07/2020,Preston,Nott'm Forest,1,1,D,1920,E1
+11/07/2020,QPR,Sheffield Weds,0,3,A,1920,E1
+12/07/2020,Stoke,Birmingham,2,0,H,1920,E1
+12/07/2020,Swansea,Leeds,0,1,A,1920,E1
+14/07/2020,West Brom,Fulham,0,0,D,1920,E1
+14/07/2020,Reading,Middlesbrough,1,2,A,1920,E1
+14/07/2020,Wigan,Hull,8,0,H,1920,E1
+14/07/2020,Cardiff,Derby,2,1,H,1920,E1
+14/07/2020,Luton,QPR,1,1,D,1920,E1
+14/07/2020,Millwall,Blackburn,1,0,H,1920,E1
+14/07/2020,Sheffield Weds,Huddersfield,0,0,D,1920,E1
+15/07/2020,Brentford,Preston,1,0,H,1920,E1
+15/07/2020,Bristol City,Stoke,1,1,D,1920,E1
+15/07/2020,Birmingham,Charlton,1,1,D,1920,E1
+15/07/2020,Nott'm Forest,Swansea,2,2,D,1920,E1
+16/07/2020,Leeds,Barnsley,1,0,H,1920,E1
+17/07/2020,Huddersfield,West Brom,2,1,H,1920,E1
+18/07/2020,Charlton,Wigan,2,2,D,1920,E1
+18/07/2020,Stoke,Brentford,1,0,H,1920,E1
+18/07/2020,Blackburn,Reading,4,3,H,1920,E1
+18/07/2020,Fulham,Sheffield Weds,5,3,H,1920,E1
+18/07/2020,Hull,Luton,0,1,A,1920,E1
+18/07/2020,Middlesbrough,Cardiff,1,3,A,1920,E1
+18/07/2020,Preston,Birmingham,2,0,H,1920,E1
+18/07/2020,QPR,Millwall,4,3,H,1920,E1
+18/07/2020,Swansea,Bristol City,1,0,H,1920,E1
+19/07/2020,Derby,Leeds,1,3,A,1920,E1
+19/07/2020,Barnsley,Nott'm Forest,1,0,H,1920,E1
+22/07/2020,Birmingham,Derby,1,3,A,1920,E1
+22/07/2020,Brentford,Barnsley,1,2,A,1920,E1
+22/07/2020,Bristol City,Preston,1,1,D,1920,E1
+22/07/2020,Cardiff,Hull,3,0,H,1920,E1
+22/07/2020,Leeds,Charlton,4,0,H,1920,E1
+22/07/2020,Luton,Blackburn,3,2,H,1920,E1
+22/07/2020,Millwall,Huddersfield,4,1,H,1920,E1
+22/07/2020,Nott'm Forest,Stoke,1,4,A,1920,E1
+22/07/2020,Reading,Swansea,1,4,A,1920,E1
+22/07/2020,Sheffield Weds,Middlesbrough,1,2,A,1920,E1
+22/07/2020,West Brom,QPR,2,2,D,1920,E1
+22/07/2020,Wigan,Fulham,1,1,D,1920,E1

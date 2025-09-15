@@ -1,0 +1,554 @@
+Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season,Division
+08/08/14,Blackburn,Cardiff,1.0,1.0,D,1415,E1
+09/08/14,Brentford,Charlton,1.0,1.0,D,1415,E1
+09/08/14,Brighton,Sheffield Weds,0.0,1.0,A,1415,E1
+09/08/14,Derby,Rotherham,1.0,0.0,H,1415,E1
+09/08/14,Huddersfield,Bournemouth,0.0,4.0,A,1415,E1
+09/08/14,Ipswich,Fulham,2.0,1.0,H,1415,E1
+09/08/14,Middlesbrough,Birmingham,2.0,0.0,H,1415,E1
+09/08/14,Millwall,Leeds,2.0,0.0,H,1415,E1
+09/08/14,Nott'm Forest,Blackpool,2.0,0.0,H,1415,E1
+09/08/14,Watford,Bolton,3.0,0.0,H,1415,E1
+09/08/14,Wigan,Reading,2.0,2.0,D,1415,E1
+10/08/14,Wolves,Norwich,1.0,0.0,H,1415,E1
+16/08/14,Birmingham,Brighton,1.0,0.0,H,1415,E1
+16/08/14,Blackpool,Blackburn,1.0,2.0,A,1415,E1
+16/08/14,Bolton,Nott'm Forest,2.0,2.0,D,1415,E1
+16/08/14,Bournemouth,Brentford,1.0,0.0,H,1415,E1
+16/08/14,Cardiff,Huddersfield,3.0,1.0,H,1415,E1
+16/08/14,Charlton,Wigan,2.0,1.0,H,1415,E1
+16/08/14,Fulham,Millwall,0.0,1.0,A,1415,E1
+16/08/14,Leeds,Middlesbrough,1.0,0.0,H,1415,E1
+16/08/14,Norwich,Watford,3.0,0.0,H,1415,E1
+16/08/14,Reading,Ipswich,1.0,0.0,H,1415,E1
+16/08/14,Rotherham,Wolves,1.0,0.0,H,1415,E1
+16/08/14,Sheffield Weds,Derby,0.0,0.0,D,1415,E1
+19/08/14,Birmingham,Ipswich,2.0,2.0,D,1415,E1
+19/08/14,Blackpool,Brentford,1.0,2.0,A,1415,E1
+19/08/14,Bolton,Middlesbrough,1.0,2.0,A,1415,E1
+19/08/14,Bournemouth,Nott'm Forest,1.0,2.0,A,1415,E1
+19/08/14,Cardiff,Wigan,1.0,0.0,H,1415,E1
+19/08/14,Charlton,Derby,3.0,2.0,H,1415,E1
+19/08/14,Leeds,Brighton,0.0,2.0,A,1415,E1
+19/08/14,Norwich,Blackburn,3.0,1.0,H,1415,E1
+19/08/14,Reading,Huddersfield,1.0,2.0,A,1415,E1
+19/08/14,Rotherham,Watford,0.0,2.0,A,1415,E1
+19/08/14,Sheffield Weds,Millwall,1.0,1.0,D,1415,E1
+20/08/14,Fulham,Wolves,0.0,1.0,A,1415,E1
+23/08/14,Blackburn,Bournemouth,3.0,2.0,H,1415,E1
+23/08/14,Brentford,Birmingham,1.0,1.0,D,1415,E1
+23/08/14,Brighton,Bolton,2.0,1.0,H,1415,E1
+23/08/14,Derby,Fulham,5.0,1.0,H,1415,E1
+23/08/14,Huddersfield,Charlton,1.0,1.0,D,1415,E1
+23/08/14,Ipswich,Norwich,0.0,1.0,A,1415,E1
+23/08/14,Middlesbrough,Sheffield Weds,2.0,3.0,A,1415,E1
+23/08/14,Millwall,Rotherham,0.0,1.0,A,1415,E1
+23/08/14,Nott'm Forest,Reading,4.0,0.0,H,1415,E1
+23/08/14,Watford,Leeds,4.0,1.0,H,1415,E1
+23/08/14,Wigan,Blackpool,1.0,0.0,H,1415,E1
+23/08/14,Wolves,Cardiff,1.0,0.0,H,1415,E1
+30/08/14,Brighton,Charlton,2.0,2.0,D,1415,E1
+30/08/14,Derby,Ipswich,1.0,1.0,D,1415,E1
+30/08/14,Fulham,Cardiff,1.0,1.0,D,1415,E1
+30/08/14,Leeds,Bolton,1.0,0.0,H,1415,E1
+30/08/14,Middlesbrough,Reading,0.0,1.0,A,1415,E1
+30/08/14,Millwall,Blackpool,2.0,1.0,H,1415,E1
+30/08/14,Norwich,Bournemouth,1.0,1.0,D,1415,E1
+30/08/14,Rotherham,Brentford,0.0,2.0,A,1415,E1
+30/08/14,Sheffield Weds,Nott'm Forest,0.0,1.0,A,1415,E1
+30/08/14,Watford,Huddersfield,4.0,2.0,H,1415,E1
+30/08/14,Wigan,Birmingham,4.0,0.0,H,1415,E1
+30/08/14,Wolves,Blackburn,3.0,1.0,H,1415,E1
+13/09/14,Birmingham,Leeds,1.0,1.0,D,1415,E1
+13/09/14,Blackburn,Wigan,3.0,1.0,H,1415,E1
+13/09/14,Blackpool,Wolves,0.0,0.0,D,1415,E1
+13/09/14,Bolton,Sheffield Weds,0.0,0.0,D,1415,E1
+13/09/14,Bournemouth,Rotherham,1.0,1.0,D,1415,E1
+13/09/14,Brentford,Brighton,3.0,2.0,H,1415,E1
+13/09/14,Cardiff,Norwich,2.0,4.0,A,1415,E1
+13/09/14,Charlton,Watford,1.0,0.0,H,1415,E1
+13/09/14,Huddersfield,Middlesbrough,1.0,2.0,A,1415,E1
+13/09/14,Ipswich,Millwall,2.0,0.0,H,1415,E1
+13/09/14,Reading,Fulham,3.0,0.0,H,1415,E1
+14/09/14,Nott'm Forest,Derby,1.0,1.0,D,1415,E1
+16/09/14,Birmingham,Sheffield Weds,0.0,2.0,A,1415,E1
+16/09/14,Blackpool,Watford,0.0,1.0,A,1415,E1
+16/09/14,Bolton,Rotherham,3.0,2.0,H,1415,E1
+16/09/14,Bournemouth,Leeds,1.0,3.0,A,1415,E1
+16/09/14,Brentford,Norwich,0.0,3.0,A,1415,E1
+16/09/14,Cardiff,Middlesbrough,0.0,1.0,A,1415,E1
+16/09/14,Charlton,Wolves,1.0,1.0,D,1415,E1
+16/09/14,Huddersfield,Wigan,0.0,0.0,D,1415,E1
+16/09/14,Ipswich,Brighton,2.0,0.0,H,1415,E1
+16/09/14,Reading,Millwall,3.0,2.0,H,1415,E1
+17/09/14,Blackburn,Derby,2.0,3.0,A,1415,E1
+17/09/14,Nott'm Forest,Fulham,5.0,3.0,H,1415,E1
+20/09/14,Brighton,Blackpool,0.0,0.0,D,1415,E1
+20/09/14,Derby,Cardiff,2.0,2.0,D,1415,E1
+20/09/14,Fulham,Blackburn,0.0,1.0,A,1415,E1
+20/09/14,Leeds,Huddersfield,3.0,0.0,H,1415,E1
+20/09/14,Middlesbrough,Brentford,4.0,0.0,H,1415,E1
+20/09/14,Millwall,Nott'm Forest,0.0,0.0,D,1415,E1
+20/09/14,Norwich,Birmingham,2.0,2.0,D,1415,E1
+20/09/14,Rotherham,Charlton,1.0,1.0,D,1415,E1
+20/09/14,Sheffield Weds,Reading,1.0,0.0,H,1415,E1
+20/09/14,Watford,Bournemouth,1.0,1.0,D,1415,E1
+20/09/14,Wolves,Bolton,1.0,0.0,H,1415,E1
+22/09/14,Wigan,Ipswich,1.0,2.0,A,1415,E1
+27/09/14,Birmingham,Fulham,1.0,2.0,A,1415,E1
+27/09/14,Blackburn,Watford,2.0,2.0,D,1415,E1
+27/09/14,Blackpool,Norwich,1.0,3.0,A,1415,E1
+27/09/14,Bolton,Derby,0.0,2.0,A,1415,E1
+27/09/14,Bournemouth,Wigan,2.0,0.0,H,1415,E1
+27/09/14,Brentford,Leeds,2.0,0.0,H,1415,E1
+27/09/14,Cardiff,Sheffield Weds,2.0,1.0,H,1415,E1
+27/09/14,Charlton,Middlesbrough,0.0,0.0,D,1415,E1
+27/09/14,Huddersfield,Millwall,2.0,1.0,H,1415,E1
+27/09/14,Ipswich,Rotherham,2.0,0.0,H,1415,E1
+27/09/14,Nott'm Forest,Brighton,0.0,0.0,D,1415,E1
+28/09/14,Reading,Wolves,3.0,3.0,D,1415,E1
+30/09/14,Brighton,Cardiff,1.0,1.0,D,1415,E1
+30/09/14,Derby,Bournemouth,2.0,0.0,H,1415,E1
+30/09/14,Middlesbrough,Blackpool,1.0,1.0,D,1415,E1
+30/09/14,Millwall,Birmingham,1.0,3.0,A,1415,E1
+30/09/14,Norwich,Charlton,0.0,1.0,A,1415,E1
+30/09/14,Rotherham,Blackburn,2.0,0.0,H,1415,E1
+30/09/14,Sheffield Weds,Ipswich,1.0,1.0,D,1415,E1
+30/09/14,Watford,Brentford,2.0,1.0,H,1415,E1
+30/09/14,Wigan,Nott'm Forest,0.0,0.0,D,1415,E1
+01/10/14,Fulham,Bolton,4.0,0.0,H,1415,E1
+01/10/14,Leeds,Reading,0.0,0.0,D,1415,E1
+01/10/14,Wolves,Huddersfield,1.0,3.0,A,1415,E1
+03/10/14,Blackpool,Cardiff,1.0,0.0,H,1415,E1
+04/10/14,Blackburn,Huddersfield,0.0,0.0,D,1415,E1
+04/10/14,Bolton,Bournemouth,1.0,2.0,A,1415,E1
+04/10/14,Brentford,Reading,3.0,1.0,H,1415,E1
+04/10/14,Charlton,Birmingham,1.0,1.0,D,1415,E1
+04/10/14,Derby,Millwall,0.0,0.0,D,1415,E1
+04/10/14,Leeds,Sheffield Weds,1.0,1.0,D,1415,E1
+04/10/14,Middlesbrough,Fulham,2.0,0.0,H,1415,E1
+04/10/14,Norwich,Rotherham,1.0,1.0,D,1415,E1
+04/10/14,Watford,Brighton,1.0,1.0,D,1415,E1
+04/10/14,Wolves,Wigan,2.0,2.0,D,1415,E1
+05/10/14,Nott'm Forest,Ipswich,2.0,2.0,D,1415,E1
+17/10/14,Rotherham,Leeds,2.0,1.0,H,1415,E1
+18/10/14,Birmingham,Bolton,0.0,1.0,A,1415,E1
+18/10/14,Bournemouth,Charlton,1.0,0.0,H,1415,E1
+18/10/14,Brighton,Middlesbrough,1.0,2.0,A,1415,E1
+18/10/14,Cardiff,Nott'm Forest,2.0,1.0,H,1415,E1
+18/10/14,Fulham,Norwich,1.0,0.0,H,1415,E1
+18/10/14,Huddersfield,Blackpool,4.0,2.0,H,1415,E1
+18/10/14,Ipswich,Blackburn,1.0,1.0,D,1415,E1
+18/10/14,Millwall,Wolves,3.0,3.0,D,1415,E1
+18/10/14,Reading,Derby,0.0,3.0,A,1415,E1
+18/10/14,Sheffield Weds,Watford,0.0,3.0,A,1415,E1
+18/10/14,Wigan,Brentford,0.0,0.0,D,1415,E1
+21/10/14,Blackburn,Birmingham,1.0,0.0,H,1415,E1
+21/10/14,Blackpool,Derby,0.0,1.0,A,1415,E1
+21/10/14,Bournemouth,Reading,3.0,0.0,H,1415,E1
+21/10/14,Brentford,Sheffield Weds,0.0,0.0,D,1415,E1
+21/10/14,Cardiff,Ipswich,3.0,1.0,H,1415,E1
+21/10/14,Charlton,Bolton,2.0,1.0,H,1415,E1
+21/10/14,Huddersfield,Brighton,1.0,1.0,D,1415,E1
+21/10/14,Norwich,Leeds,1.0,1.0,D,1415,E1
+21/10/14,Rotherham,Fulham,3.0,3.0,D,1415,E1
+21/10/14,Watford,Nott'm Forest,2.0,2.0,D,1415,E1
+21/10/14,Wigan,Millwall,0.0,0.0,D,1415,E1
+21/10/14,Wolves,Middlesbrough,2.0,0.0,H,1415,E1
+24/10/14,Fulham,Charlton,3.0,0.0,H,1415,E1
+25/10/14,Birmingham,Bournemouth,0.0,8.0,A,1415,E1
+25/10/14,Bolton,Brentford,3.0,1.0,H,1415,E1
+25/10/14,Brighton,Rotherham,1.0,1.0,D,1415,E1
+25/10/14,Derby,Wigan,1.0,2.0,A,1415,E1
+25/10/14,Ipswich,Huddersfield,2.0,2.0,D,1415,E1
+25/10/14,Leeds,Wolves,1.0,2.0,A,1415,E1
+25/10/14,Middlesbrough,Watford,1.0,1.0,D,1415,E1
+25/10/14,Millwall,Cardiff,1.0,0.0,H,1415,E1
+25/10/14,Nott'm Forest,Blackburn,1.0,3.0,A,1415,E1
+25/10/14,Reading,Blackpool,3.0,0.0,H,1415,E1
+25/10/14,Sheffield Weds,Norwich,0.0,0.0,D,1415,E1
+31/10/14,Norwich,Bolton,2.0,1.0,H,1415,E1
+01/11/14,Blackburn,Reading,3.0,1.0,H,1415,E1
+01/11/14,Blackpool,Ipswich,0.0,2.0,A,1415,E1
+01/11/14,Bournemouth,Brighton,3.0,2.0,H,1415,E1
+01/11/14,Brentford,Derby,2.0,1.0,H,1415,E1
+01/11/14,Cardiff,Leeds,3.0,1.0,H,1415,E1
+01/11/14,Charlton,Sheffield Weds,1.0,1.0,D,1415,E1
+01/11/14,Huddersfield,Nott'm Forest,3.0,0.0,H,1415,E1
+01/11/14,Rotherham,Middlesbrough,0.0,3.0,A,1415,E1
+01/11/14,Watford,Millwall,3.0,1.0,H,1415,E1
+01/11/14,Wigan,Fulham,3.0,3.0,D,1415,E1
+01/11/14,Wolves,Birmingham,0.0,0.0,D,1415,E1
+04/11/14,Birmingham,Watford,2.0,1.0,H,1415,E1
+04/11/14,Bolton,Cardiff,3.0,0.0,H,1415,E1
+04/11/14,Brighton,Wigan,1.0,0.0,H,1415,E1
+04/11/14,Derby,Huddersfield,3.0,2.0,H,1415,E1
+04/11/14,Ipswich,Wolves,2.0,1.0,H,1415,E1
+04/11/14,Leeds,Charlton,2.0,2.0,D,1415,E1
+04/11/14,Middlesbrough,Norwich,4.0,0.0,H,1415,E1
+04/11/14,Millwall,Blackburn,2.0,2.0,D,1415,E1
+04/11/14,Reading,Rotherham,3.0,0.0,H,1415,E1
+04/11/14,Sheffield Weds,Bournemouth,0.0,2.0,A,1415,E1
+05/11/14,Fulham,Blackpool,2.0,2.0,D,1415,E1
+05/11/14,Nott'm Forest,Brentford,1.0,3.0,A,1415,E1
+07/11/14,Bolton,Wigan,3.0,1.0,H,1415,E1
+08/11/14,Birmingham,Cardiff,0.0,0.0,D,1415,E1
+08/11/14,Brighton,Blackburn,1.0,1.0,D,1415,E1
+08/11/14,Derby,Wolves,5.0,0.0,H,1415,E1
+08/11/14,Fulham,Huddersfield,3.0,1.0,H,1415,E1
+08/11/14,Ipswich,Watford,1.0,0.0,H,1415,E1
+08/11/14,Leeds,Blackpool,3.0,1.0,H,1415,E1
+08/11/14,Middlesbrough,Bournemouth,0.0,0.0,D,1415,E1
+08/11/14,Millwall,Brentford,2.0,3.0,A,1415,E1
+08/11/14,Nott'm Forest,Norwich,2.0,1.0,H,1415,E1
+08/11/14,Reading,Charlton,0.0,1.0,A,1415,E1
+08/11/14,Sheffield Weds,Rotherham,0.0,0.0,D,1415,E1
+21/11/14,Brentford,Fulham,2.0,1.0,H,1415,E1
+21/11/14,Cardiff,Reading,2.0,1.0,H,1415,E1
+22/11/14,Blackburn,Leeds,2.0,1.0,H,1415,E1
+22/11/14,Blackpool,Bolton,1.0,1.0,D,1415,E1
+22/11/14,Bournemouth,Ipswich,2.0,2.0,D,1415,E1
+22/11/14,Charlton,Millwall,0.0,0.0,D,1415,E1
+22/11/14,Huddersfield,Sheffield Weds,0.0,0.0,D,1415,E1
+22/11/14,Norwich,Brighton,3.0,3.0,D,1415,E1
+22/11/14,Rotherham,Birmingham,0.0,1.0,A,1415,E1
+22/11/14,Watford,Derby,1.0,2.0,A,1415,E1
+22/11/14,Wigan,Middlesbrough,1.0,1.0,D,1415,E1
+22/11/14,Wolves,Nott'm Forest,0.0,3.0,A,1415,E1
+29/11/14,Birmingham,Nott'm Forest,2.0,1.0,H,1415,E1
+29/11/14,Bolton,Huddersfield,1.0,0.0,H,1415,E1
+29/11/14,Bournemouth,Millwall,2.0,2.0,D,1415,E1
+29/11/14,Brentford,Wolves,4.0,0.0,H,1415,E1
+29/11/14,Brighton,Fulham,1.0,2.0,A,1415,E1
+29/11/14,Charlton,Ipswich,0.0,1.0,A,1415,E1
+29/11/14,Leeds,Derby,2.0,0.0,H,1415,E1
+29/11/14,Middlesbrough,Blackburn,1.0,1.0,D,1415,E1
+29/11/14,Norwich,Reading,1.0,2.0,A,1415,E1
+29/11/14,Rotherham,Blackpool,1.0,1.0,D,1415,E1
+29/11/14,Sheffield Weds,Wigan,2.0,1.0,H,1415,E1
+29/11/14,Watford,Cardiff,0.0,1.0,A,1415,E1
+05/12/14,Fulham,Watford,0.0,5.0,A,1415,E1
+06/12/14,Blackburn,Sheffield Weds,1.0,2.0,A,1415,E1
+06/12/14,Blackpool,Birmingham,1.0,0.0,H,1415,E1
+06/12/14,Cardiff,Rotherham,0.0,0.0,D,1415,E1
+06/12/14,Derby,Brighton,3.0,0.0,H,1415,E1
+06/12/14,Huddersfield,Brentford,2.0,1.0,H,1415,E1
+06/12/14,Ipswich,Leeds,4.0,1.0,H,1415,E1
+06/12/14,Millwall,Middlesbrough,1.0,5.0,A,1415,E1
+06/12/14,Nott'm Forest,Charlton,1.0,1.0,D,1415,E1
+06/12/14,Reading,Bolton,0.0,0.0,D,1415,E1
+06/12/14,Wigan,Norwich,0.0,1.0,A,1415,E1
+06/12/14,Wolves,Bournemouth,1.0,2.0,A,1415,E1
+12/12/14,Brighton,Millwall,0.0,1.0,A,1415,E1
+13/12/14,Birmingham,Reading,6.0,1.0,H,1415,E1
+13/12/14,Bolton,Ipswich,0.0,0.0,D,1415,E1
+13/12/14,Bournemouth,Cardiff,5.0,3.0,H,1415,E1
+13/12/14,Brentford,Blackburn,3.0,1.0,H,1415,E1
+13/12/14,Charlton,Blackpool,2.0,2.0,D,1415,E1
+13/12/14,Leeds,Fulham,0.0,1.0,A,1415,E1
+13/12/14,Middlesbrough,Derby,2.0,0.0,H,1415,E1
+13/12/14,Norwich,Huddersfield,5.0,0.0,H,1415,E1
+13/12/14,Rotherham,Nott'm Forest,0.0,0.0,D,1415,E1
+13/12/14,Sheffield Weds,Wolves,0.0,1.0,A,1415,E1
+13/12/14,Watford,Wigan,2.0,1.0,H,1415,E1
+19/12/14,Millwall,Bolton,0.0,1.0,A,1415,E1
+20/12/14,Blackburn,Charlton,2.0,0.0,H,1415,E1
+20/12/14,Blackpool,Bournemouth,1.0,6.0,A,1415,E1
+20/12/14,Cardiff,Brentford,2.0,3.0,A,1415,E1
+20/12/14,Derby,Norwich,2.0,2.0,D,1415,E1
+20/12/14,Fulham,Sheffield Weds,4.0,0.0,H,1415,E1
+20/12/14,Huddersfield,Birmingham,0.0,1.0,A,1415,E1
+20/12/14,Ipswich,Middlesbrough,2.0,0.0,H,1415,E1
+20/12/14,Nott'm Forest,Leeds,1.0,1.0,D,1415,E1
+20/12/14,Reading,Watford,0.0,1.0,A,1415,E1
+20/12/14,Wigan,Rotherham,1.0,2.0,A,1415,E1
+20/12/14,Wolves,Brighton,1.0,1.0,D,1415,E1
+26/12/14,Birmingham,Derby,0.0,4.0,A,1415,E1
+26/12/14,Bolton,Blackburn,2.0,1.0,H,1415,E1
+26/12/14,Bournemouth,Fulham,2.0,0.0,H,1415,E1
+26/12/14,Brentford,Ipswich,2.0,4.0,A,1415,E1
+26/12/14,Brighton,Reading,2.0,2.0,D,1415,E1
+26/12/14,Charlton,Cardiff,1.0,1.0,D,1415,E1
+26/12/14,Leeds,Wigan,0.0,2.0,A,1415,E1
+26/12/14,Middlesbrough,Nott'm Forest,3.0,0.0,H,1415,E1
+26/12/14,Norwich,Millwall,6.0,1.0,H,1415,E1
+26/12/14,Rotherham,Huddersfield,2.0,2.0,D,1415,E1
+26/12/14,Sheffield Weds,Blackpool,1.0,0.0,H,1415,E1
+26/12/14,Watford,Wolves,0.0,1.0,A,1415,E1
+28/12/14,Blackburn,Middlesbrough,0.0,0.0,D,1415,E1
+28/12/14,Blackpool,Rotherham,1.0,1.0,D,1415,E1
+28/12/14,Cardiff,Watford,2.0,4.0,A,1415,E1
+28/12/14,Huddersfield,Bolton,2.0,1.0,H,1415,E1
+28/12/14,Millwall,Bournemouth,0.0,2.0,A,1415,E1
+28/12/14,Nott'm Forest,Birmingham,1.0,3.0,A,1415,E1
+28/12/14,Reading,Norwich,2.0,1.0,H,1415,E1
+28/12/14,Wolves,Brentford,2.0,1.0,H,1415,E1
+29/12/14,Fulham,Brighton,0.0,2.0,A,1415,E1
+30/12/14,Derby,Leeds,2.0,0.0,H,1415,E1
+30/12/14,Ipswich,Charlton,3.0,0.0,H,1415,E1
+30/12/14,Wigan,Sheffield Weds,0.0,1.0,A,1415,E1
+10/01/15,Birmingham,Wigan,3.0,1.0,H,1415,E1
+10/01/15,Blackpool,Millwall,1.0,0.0,H,1415,E1
+10/01/15,Bolton,Leeds,1.0,1.0,D,1415,E1
+10/01/15,Bournemouth,Norwich,1.0,2.0,A,1415,E1
+10/01/15,Brentford,Rotherham,1.0,0.0,H,1415,E1
+10/01/15,Cardiff,Fulham,1.0,0.0,H,1415,E1
+10/01/15,Charlton,Brighton,0.0,1.0,A,1415,E1
+10/01/15,Huddersfield,Watford,3.0,1.0,H,1415,E1
+10/01/15,Ipswich,Derby,0.0,1.0,A,1415,E1
+10/01/15,Nott'm Forest,Sheffield Weds,0.0,2.0,A,1415,E1
+10/01/15,Reading,Middlesbrough,0.0,0.0,D,1415,E1
+11/01/15,Blackburn,Wolves,0.0,1.0,A,1415,E1
+17/01/15,Brighton,Brentford,0.0,1.0,A,1415,E1
+17/01/15,Derby,Nott'm Forest,1.0,2.0,A,1415,E1
+17/01/15,Fulham,Reading,2.0,1.0,H,1415,E1
+17/01/15,Leeds,Birmingham,1.0,1.0,D,1415,E1
+17/01/15,Middlesbrough,Huddersfield,2.0,0.0,H,1415,E1
+17/01/15,Millwall,Ipswich,1.0,3.0,A,1415,E1
+17/01/15,Norwich,Cardiff,3.0,2.0,H,1415,E1
+17/01/15,Rotherham,Bournemouth,0.0,2.0,A,1415,E1
+17/01/15,Sheffield Weds,Bolton,1.0,2.0,A,1415,E1
+17/01/15,Watford,Charlton,5.0,0.0,H,1415,E1
+17/01/15,Wigan,Blackburn,1.0,1.0,D,1415,E1
+17/01/15,Wolves,Blackpool,2.0,0.0,H,1415,E1
+20/01/15,Leeds,Bournemouth,1.0,0.0,H,1415,E1
+20/01/15,Middlesbrough,Cardiff,2.0,1.0,H,1415,E1
+21/01/15,Brighton,Ipswich,3.0,2.0,H,1415,E1
+21/01/15,Fulham,Nott'm Forest,3.0,2.0,H,1415,E1
+24/01/15,Norwich,Brentford,1.0,2.0,A,1415,E1
+24/01/15,Watford,Blackpool,7.0,2.0,H,1415,E1
+24/01/15,Wigan,Huddersfield,0.0,1.0,A,1415,E1
+24/01/15,Wolves,Charlton,0.0,0.0,D,1415,E1
+27/01/15,Derby,Blackburn,2.0,0.0,H,1415,E1
+27/01/15,Millwall,Reading,0.0,0.0,D,1415,E1
+27/01/15,Rotherham,Bolton,4.0,2.0,H,1415,E1
+27/01/15,Sheffield Weds,Birmingham,0.0,0.0,D,1415,E1
+30/01/15,Bournemouth,Watford,2.0,0.0,H,1415,E1
+31/01/15,Birmingham,Norwich,0.0,0.0,D,1415,E1
+31/01/15,Blackburn,Fulham,2.0,1.0,H,1415,E1
+31/01/15,Blackpool,Brighton,1.0,0.0,H,1415,E1
+31/01/15,Bolton,Wolves,2.0,2.0,D,1415,E1
+31/01/15,Brentford,Middlesbrough,0.0,1.0,A,1415,E1
+31/01/15,Cardiff,Derby,0.0,2.0,A,1415,E1
+31/01/15,Charlton,Rotherham,1.0,1.0,D,1415,E1
+31/01/15,Huddersfield,Leeds,1.0,2.0,A,1415,E1
+31/01/15,Ipswich,Wigan,0.0,0.0,D,1415,E1
+31/01/15,Nott'm Forest,Millwall,0.0,1.0,A,1415,E1
+31/01/15,Reading,Sheffield Weds,2.0,0.0,H,1415,E1
+07/02/15,Brighton,Nott'm Forest,2.0,3.0,A,1415,E1
+07/02/15,Derby,Bolton,4.0,1.0,H,1415,E1
+07/02/15,Fulham,Birmingham,1.0,1.0,D,1415,E1
+07/02/15,Leeds,Brentford,0.0,1.0,A,1415,E1
+07/02/15,Middlesbrough,Charlton,3.0,1.0,H,1415,E1
+07/02/15,Millwall,Huddersfield,1.0,3.0,A,1415,E1
+07/02/15,Norwich,Blackpool,4.0,0.0,H,1415,E1
+07/02/15,Rotherham,Ipswich,2.0,0.0,H,1415,E1
+07/02/15,Sheffield Weds,Cardiff,1.0,1.0,D,1415,E1
+07/02/15,Watford,Blackburn,1.0,0.0,H,1415,E1
+07/02/15,Wigan,Bournemouth,1.0,3.0,A,1415,E1
+07/02/15,Wolves,Reading,1.0,2.0,A,1415,E1
+10/02/15,Birmingham,Millwall,0.0,1.0,A,1415,E1
+10/02/15,Blackburn,Rotherham,2.0,1.0,H,1415,E1
+10/02/15,Blackpool,Middlesbrough,1.0,2.0,A,1415,E1
+10/02/15,Bolton,Fulham,3.0,1.0,H,1415,E1
+10/02/15,Bournemouth,Derby,2.0,2.0,D,1415,E1
+10/02/15,Brentford,Watford,1.0,2.0,A,1415,E1
+10/02/15,Cardiff,Brighton,0.0,0.0,D,1415,E1
+10/02/15,Charlton,Norwich,2.0,3.0,A,1415,E1
+10/02/15,Huddersfield,Wolves,1.0,4.0,A,1415,E1
+10/02/15,Ipswich,Sheffield Weds,2.0,1.0,H,1415,E1
+10/02/15,Reading,Leeds,0.0,2.0,A,1415,E1
+11/02/15,Nott'm Forest,Wigan,3.0,0.0,H,1415,E1
+14/02/15,Blackpool,Nott'm Forest,4.0,4.0,D,1415,E1
+14/02/15,Bolton,Watford,3.0,4.0,A,1415,E1
+14/02/15,Bournemouth,Huddersfield,1.0,1.0,D,1415,E1
+14/02/15,Charlton,Brentford,3.0,0.0,H,1415,E1
+14/02/15,Fulham,Ipswich,1.0,2.0,A,1415,E1
+14/02/15,Leeds,Millwall,1.0,0.0,H,1415,E1
+14/02/15,Norwich,Wolves,2.0,0.0,H,1415,E1
+14/02/15,Sheffield Weds,Brighton,0.0,0.0,D,1415,E1
+17/02/15,Cardiff,Blackburn,1.0,1.0,D,1415,E1
+17/02/15,Reading,Wigan,0.0,1.0,A,1415,E1
+17/02/15,Rotherham,Derby,3.0,3.0,D,1415,E1
+18/02/15,Birmingham,Middlesbrough,1.0,1.0,D,1415,E1
+20/02/15,Wigan,Charlton,0.0,3.0,A,1415,E1
+21/02/15,Blackburn,Blackpool,1.0,1.0,D,1415,E1
+21/02/15,Brentford,Bournemouth,3.0,1.0,H,1415,E1
+21/02/15,Brighton,Birmingham,4.0,3.0,H,1415,E1
+21/02/15,Derby,Sheffield Weds,3.0,2.0,H,1415,E1
+21/02/15,Huddersfield,Cardiff,0.0,0.0,D,1415,E1
+21/02/15,Ipswich,Reading,0.0,1.0,A,1415,E1
+21/02/15,Middlesbrough,Leeds,0.0,1.0,A,1415,E1
+21/02/15,Millwall,Fulham,0.0,0.0,D,1415,E1
+21/02/15,Nott'm Forest,Bolton,4.0,1.0,H,1415,E1
+21/02/15,Watford,Norwich,0.0,3.0,A,1415,E1
+21/02/15,Wolves,Rotherham,5.0,0.0,H,1415,E1
+24/02/15,Blackburn,Norwich,1.0,2.0,A,1415,E1
+24/02/15,Brentford,Blackpool,4.0,0.0,H,1415,E1
+24/02/15,Brighton,Leeds,2.0,0.0,H,1415,E1
+24/02/15,Derby,Charlton,2.0,0.0,H,1415,E1
+24/02/15,Huddersfield,Reading,3.0,0.0,H,1415,E1
+24/02/15,Ipswich,Birmingham,4.0,2.0,H,1415,E1
+24/02/15,Middlesbrough,Bolton,1.0,0.0,H,1415,E1
+24/02/15,Millwall,Sheffield Weds,1.0,3.0,A,1415,E1
+24/02/15,Watford,Rotherham,3.0,0.0,H,1415,E1
+24/02/15,Wigan,Cardiff,0.0,1.0,A,1415,E1
+24/02/15,Wolves,Fulham,3.0,0.0,H,1415,E1
+25/02/15,Nott'm Forest,Bournemouth,2.0,1.0,H,1415,E1
+28/02/15,Birmingham,Brentford,1.0,0.0,H,1415,E1
+28/02/15,Blackpool,Wigan,1.0,3.0,A,1415,E1
+28/02/15,Bolton,Brighton,1.0,0.0,H,1415,E1
+28/02/15,Bournemouth,Blackburn,0.0,0.0,D,1415,E1
+28/02/15,Cardiff,Wolves,0.0,1.0,A,1415,E1
+28/02/15,Charlton,Huddersfield,3.0,0.0,H,1415,E1
+28/02/15,Fulham,Derby,2.0,0.0,H,1415,E1
+28/02/15,Leeds,Watford,2.0,3.0,A,1415,E1
+28/02/15,Reading,Nott'm Forest,0.0,3.0,A,1415,E1
+28/02/15,Rotherham,Millwall,2.0,1.0,H,1415,E1
+28/02/15,Sheffield Weds,Middlesbrough,2.0,0.0,H,1415,E1
+01/03/15,Norwich,Ipswich,2.0,0.0,H,1415,E1
+03/03/15,Bolton,Reading,1.0,1.0,D,1415,E1
+03/03/15,Bournemouth,Wolves,2.0,1.0,H,1415,E1
+03/03/15,Brentford,Huddersfield,4.0,1.0,H,1415,E1
+03/03/15,Brighton,Derby,2.0,0.0,H,1415,E1
+03/03/15,Charlton,Nott'm Forest,2.0,1.0,H,1415,E1
+03/03/15,Middlesbrough,Millwall,3.0,0.0,H,1415,E1
+03/03/15,Rotherham,Cardiff,1.0,3.0,A,1415,E1
+03/03/15,Watford,Fulham,1.0,0.0,H,1415,E1
+04/03/15,Birmingham,Blackpool,1.0,0.0,H,1415,E1
+04/03/15,Leeds,Ipswich,2.0,1.0,H,1415,E1
+04/03/15,Norwich,Wigan,0.0,1.0,A,1415,E1
+04/03/15,Sheffield Weds,Blackburn,1.0,2.0,A,1415,E1
+06/03/15,Fulham,Bournemouth,1.0,5.0,A,1415,E1
+07/03/15,Blackpool,Sheffield Weds,0.0,1.0,A,1415,E1
+07/03/15,Cardiff,Charlton,1.0,2.0,A,1415,E1
+07/03/15,Derby,Birmingham,2.0,2.0,D,1415,E1
+07/03/15,Huddersfield,Rotherham,0.0,2.0,A,1415,E1
+07/03/15,Ipswich,Brentford,1.0,1.0,D,1415,E1
+07/03/15,Millwall,Norwich,1.0,4.0,A,1415,E1
+07/03/15,Nott'm Forest,Middlesbrough,2.0,1.0,H,1415,E1
+07/03/15,Wigan,Leeds,0.0,1.0,A,1415,E1
+07/03/15,Wolves,Watford,2.0,2.0,D,1415,E1
+10/03/15,Reading,Brighton,2.0,1.0,H,1415,E1
+11/03/15,Blackburn,Bolton,1.0,0.0,H,1415,E1
+14/03/15,Birmingham,Huddersfield,1.0,1.0,D,1415,E1
+14/03/15,Bolton,Millwall,2.0,0.0,H,1415,E1
+14/03/15,Bournemouth,Blackpool,4.0,0.0,H,1415,E1
+14/03/15,Brentford,Cardiff,1.0,2.0,A,1415,E1
+14/03/15,Brighton,Wolves,1.0,1.0,D,1415,E1
+14/03/15,Charlton,Blackburn,1.0,3.0,A,1415,E1
+14/03/15,Leeds,Nott'm Forest,0.0,0.0,D,1415,E1
+14/03/15,Middlesbrough,Ipswich,4.0,1.0,H,1415,E1
+14/03/15,Norwich,Derby,1.0,1.0,D,1415,E1
+14/03/15,Rotherham,Wigan,1.0,2.0,A,1415,E1
+14/03/15,Sheffield Weds,Fulham,1.0,1.0,D,1415,E1
+14/03/15,Watford,Reading,4.0,1.0,H,1415,E1
+17/03/15,Blackburn,Brentford,2.0,3.0,A,1415,E1
+17/03/15,Blackpool,Charlton,0.0,3.0,A,1415,E1
+17/03/15,Cardiff,Bournemouth,1.0,1.0,D,1415,E1
+17/03/15,Derby,Middlesbrough,0.0,1.0,A,1415,E1
+17/03/15,Huddersfield,Norwich,2.0,2.0,D,1415,E1
+17/03/15,Ipswich,Bolton,1.0,0.0,H,1415,E1
+17/03/15,Millwall,Brighton,0.0,0.0,D,1415,E1
+17/03/15,Wigan,Watford,0.0,2.0,A,1415,E1
+17/03/15,Wolves,Sheffield Weds,3.0,0.0,H,1415,E1
+18/03/15,Fulham,Leeds,0.0,3.0,A,1415,E1
+18/03/15,Nott'm Forest,Rotherham,2.0,0.0,H,1415,E1
+20/03/15,Wolves,Derby,2.0,0.0,H,1415,E1
+21/03/15,Blackburn,Brighton,0.0,1.0,A,1415,E1
+21/03/15,Blackpool,Leeds,1.0,1.0,D,1415,E1
+21/03/15,Bournemouth,Middlesbrough,3.0,0.0,H,1415,E1
+21/03/15,Brentford,Millwall,2.0,2.0,D,1415,E1
+21/03/15,Cardiff,Birmingham,2.0,0.0,H,1415,E1
+21/03/15,Charlton,Reading,3.0,2.0,H,1415,E1
+21/03/15,Huddersfield,Fulham,0.0,2.0,A,1415,E1
+21/03/15,Norwich,Nott'm Forest,3.0,1.0,H,1415,E1
+21/03/15,Rotherham,Sheffield Weds,2.0,3.0,A,1415,E1
+21/03/15,Watford,Ipswich,0.0,1.0,A,1415,E1
+21/03/15,Wigan,Bolton,1.0,1.0,D,1415,E1
+03/04/15,Birmingham,Rotherham,2.0,1.0,H,1415,E1
+03/04/15,Brighton,Norwich,0.0,1.0,A,1415,E1
+03/04/15,Derby,Watford,2.0,2.0,D,1415,E1
+03/04/15,Fulham,Brentford,1.0,4.0,A,1415,E1
+03/04/15,Ipswich,Bournemouth,1.0,1.0,D,1415,E1
+03/04/15,Middlesbrough,Wigan,1.0,0.0,H,1415,E1
+03/04/15,Millwall,Charlton,2.0,1.0,H,1415,E1
+03/04/15,Nott'm Forest,Wolves,1.0,2.0,A,1415,E1
+04/04/15,Bolton,Blackpool,1.0,1.0,D,1415,E1
+04/04/15,Leeds,Blackburn,0.0,3.0,A,1415,E1
+04/04/15,Reading,Cardiff,1.0,1.0,D,1415,E1
+04/04/15,Sheffield Weds,Huddersfield,1.0,1.0,D,1415,E1
+06/04/15,Bournemouth,Birmingham,4.0,2.0,H,1415,E1
+06/04/15,Brentford,Nott'm Forest,2.0,2.0,D,1415,E1
+06/04/15,Cardiff,Bolton,0.0,3.0,A,1415,E1
+06/04/15,Huddersfield,Ipswich,2.0,1.0,H,1415,E1
+06/04/15,Norwich,Sheffield Weds,2.0,0.0,H,1415,E1
+06/04/15,Rotherham,Brighton,1.0,0.0,H,1415,E1
+06/04/15,Watford,Middlesbrough,2.0,0.0,H,1415,E1
+06/04/15,Wigan,Derby,0.0,2.0,A,1415,E1
+06/04/15,Wolves,Leeds,4.0,3.0,H,1415,E1
+07/04/15,Blackpool,Reading,1.0,1.0,D,1415,E1
+07/04/15,Charlton,Fulham,1.0,1.0,D,1415,E1
+10/04/15,Brighton,Bournemouth,0.0,2.0,A,1415,E1
+10/04/15,Fulham,Wigan,2.0,2.0,D,1415,E1
+11/04/15,Birmingham,Wolves,2.0,1.0,H,1415,E1
+11/04/15,Bolton,Norwich,1.0,2.0,A,1415,E1
+11/04/15,Derby,Brentford,1.0,1.0,D,1415,E1
+11/04/15,Ipswich,Blackpool,3.0,2.0,H,1415,E1
+11/04/15,Leeds,Cardiff,1.0,2.0,A,1415,E1
+11/04/15,Middlesbrough,Rotherham,2.0,0.0,H,1415,E1
+11/04/15,Millwall,Watford,0.0,2.0,A,1415,E1
+11/04/15,Nott'm Forest,Huddersfield,0.0,1.0,A,1415,E1
+11/04/15,Reading,Blackburn,0.0,0.0,D,1415,E1
+11/04/15,Sheffield Weds,Charlton,1.0,1.0,D,1415,E1
+14/04/15,Birmingham,Blackburn,2.0,2.0,D,1415,E1
+14/04/15,Bolton,Charlton,1.0,1.0,D,1415,E1
+14/04/15,Brighton,Huddersfield,0.0,0.0,D,1415,E1
+14/04/15,Derby,Blackpool,4.0,0.0,H,1415,E1
+14/04/15,Ipswich,Cardiff,3.0,1.0,H,1415,E1
+14/04/15,Leeds,Norwich,0.0,2.0,A,1415,E1
+14/04/15,Middlesbrough,Wolves,2.0,1.0,H,1415,E1
+14/04/15,Millwall,Wigan,2.0,0.0,H,1415,E1
+14/04/15,Reading,Bournemouth,0.0,1.0,A,1415,E1
+14/04/15,Sheffield Weds,Brentford,1.0,0.0,H,1415,E1
+15/04/15,Fulham,Rotherham,1.0,1.0,D,1415,E1
+15/04/15,Nott'm Forest,Watford,1.0,3.0,A,1415,E1
+17/04/15,Norwich,Middlesbrough,0.0,1.0,A,1415,E1
+18/04/15,Blackburn,Nott'm Forest,3.0,3.0,D,1415,E1
+18/04/15,Blackpool,Fulham,0.0,1.0,A,1415,E1
+18/04/15,Bournemouth,Sheffield Weds,2.0,2.0,D,1415,E1
+18/04/15,Brentford,Bolton,2.0,2.0,D,1415,E1
+18/04/15,Cardiff,Millwall,0.0,0.0,D,1415,E1
+18/04/15,Charlton,Leeds,2.0,1.0,H,1415,E1
+18/04/15,Huddersfield,Derby,4.0,4.0,D,1415,E1
+18/04/15,Watford,Birmingham,1.0,0.0,H,1415,E1
+18/04/15,Wigan,Brighton,2.0,1.0,H,1415,E1
+18/04/15,Wolves,Ipswich,1.0,1.0,D,1415,E1
+21/04/15,Blackburn,Millwall,2.0,0.0,H,1415,E1
+22/04/15,Reading,Birmingham,0.0,1.0,A,1415,E1
+25/04/15,Birmingham,Charlton,1.0,0.0,H,1415,E1
+25/04/15,Brighton,Watford,0.0,2.0,A,1415,E1
+25/04/15,Cardiff,Blackpool,3.0,2.0,H,1415,E1
+25/04/15,Fulham,Middlesbrough,4.0,3.0,H,1415,E1
+25/04/15,Huddersfield,Blackburn,2.0,2.0,D,1415,E1
+25/04/15,Ipswich,Nott'm Forest,2.0,1.0,H,1415,E1
+25/04/15,Millwall,Derby,3.0,3.0,D,1415,E1
+25/04/15,Reading,Brentford,0.0,2.0,A,1415,E1
+25/04/15,Rotherham,Norwich,1.0,1.0,D,1415,E1
+25/04/15,Sheffield Weds,Leeds,1.0,2.0,A,1415,E1
+25/04/15,Wigan,Wolves,0.0,1.0,A,1415,E1
+27/04/15,Bournemouth,Bolton,3.0,0.0,H,1415,E1
+28/04/15,Rotherham,Reading,2.0,1.0,H,1415,E1
+02/05/15,Blackburn,Ipswich,3.0,2.0,H,1415,E1
+02/05/15,Blackpool,Huddersfield,0.0,0.0,D,1415,E1
+02/05/15,Bolton,Birmingham,0.0,1.0,A,1415,E1
+02/05/15,Brentford,Wigan,3.0,0.0,H,1415,E1
+02/05/15,Charlton,Bournemouth,0.0,3.0,A,1415,E1
+02/05/15,Derby,Reading,0.0,3.0,A,1415,E1
+02/05/15,Leeds,Rotherham,0.0,0.0,D,1415,E1
+02/05/15,Middlesbrough,Brighton,0.0,0.0,D,1415,E1
+02/05/15,Norwich,Fulham,4.0,2.0,H,1415,E1
+02/05/15,Nott'm Forest,Cardiff,1.0,2.0,A,1415,E1
+02/05/15,Watford,Sheffield Weds,1.0,1.0,D,1415,E1
+02/05/15,Wolves,Millwall,4.0,2.0,H,1415,E1
+,,,,,,1415,E1
