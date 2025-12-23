@@ -1,0 +1,56 @@
+Initializing Football System...
+Calibrating models (Iterative Back-casting)...
+
+Predictions for Boxing Day (2025-12-26):
+====================================================================================================
+Match                          | Elo (Home%)  | Glicko (Home%) | TrueSkill (Home%)  | Poisson (Home%)
+----------------------------------------------------------------------------------------------------
+Man United vs Newcastle        |       37.3% |         44.6% |             44.9% |          45.1%
+Birmingham vs Derby            |       50.6% |         53.7% |             50.0% |          39.8%
+Millwall vs Ipswich            |       40.6% |         45.8% |             43.5% |          35.4%
+Coventry vs Swansea            |       64.0% |         76.8% |             55.3% |          48.7%
+Leicester vs Watford           |       50.8% |         53.0% |             54.9% |          54.2%
+Middlesbrough vs Blackburn     |       57.5% |         67.6% |             54.6% |          49.2%
+Norwich vs Charlton            |       42.5% |         43.8% |             51.1% |          51.7%
+Oxford vs Southampton          |       32.5% |         38.2% |             32.6% |          33.8%
+Portsmouth vs QPR              |       38.2% |         40.0% |             43.8% |          43.9%
+Sheffield Weds vs Hull         |       28.5% |         25.0% |             37.6% |          38.4%
+Stoke vs Preston               |       41.3% |         46.6% |             43.3% |          42.4%
+West Brom vs Bristol City      |       34.1% |         34.5% |             44.0% |          47.4%
+Wrexham vs Sheffield United    |       38.1% |         52.7% |             37.8% |          29.4%
+Peterboro vs Leyton Orient     |       37.6% |         45.1% |             44.0% |          46.8%
+AFC Wimbledon vs Stevenage     |       29.4% |         31.2% |             35.2% |          37.8%
+Barnsley vs Mansfield          |       49.0% |         56.1% |             52.4% |          51.8%
+Blackpool vs Doncaster         |       47.2% |         55.1% |             49.6% |          53.6%
+Bolton vs Rotherham            |       58.1% |         66.3% |             55.6% |          49.1%
+Bradford vs Wigan              |       40.9% |         50.2% |             38.9% |          35.9%
+Burton vs Northampton          |       45.5% |         56.2% |             43.5% |          38.9%
+Cardiff vs Exeter              |       68.8% |         77.4% |             63.9% |          53.8%
+Huddersfield vs Port Vale      |       53.6% |         59.4% |             58.0% |          53.6%
+Luton vs Wycombe               |       39.5% |         41.9% |             44.8% |          45.1%
+Plymouth vs Reading            |       40.6% |         46.3% |             44.6% |          42.4%
+Stockport vs Lincoln           |       48.5% |         50.6% |             50.6% |          41.0%
+Newport vs Crewe               |       66.1% |         69.9% |             55.5% |          54.9%
+Accrington vs Harrogate        |       38.7% |         47.8% |             43.5% |          48.6%
+Bristol Rvs vs Barnet          |       38.6% |         36.0% |             44.8% |          43.4%
+Cheltenham vs Swindon          |       36.1% |         39.5% |             41.4% |          37.0%
+Chesterfield vs Cambridge      |       40.2% |         46.4% |             44.8% |          46.3%
+Crawley vs Bromley             |       58.5% |         61.1% |             53.6% |          47.9%
+Gillingham vs Colchester       |       42.2% |         46.3% |             48.4% |          41.4%
+Grimsby vs Shrewsbury          |       50.2% |         59.4% |             46.2% |          40.4%
+MK Dons vs Notts County        |       61.0% |         62.1% |             55.1% |          53.7%
+Salford vs Fleetwood           |       24.9% |         34.2% |             36.9% |          34.1%
+Tranmere vs Barrow             |       41.4% |         50.0% |             45.1% |          42.7%
+Walsall vs Oldham              |       61.3% |         67.5% |             56.4% |          48.8%
+Nott'm Forest vs Man City      |       16.4% |         20.5% |             14.4% |          13.1%
+Arsenal vs Brighton            |       71.1% |         78.2% |             69.0% |          65.8%
+Brentford vs Bournemouth       |       40.4% |         47.2% |             43.7% |          49.2%
+Burnley vs Everton             |       32.4% |         30.3% |             39.8% |          39.5%
+Liverpool vs Wolves            |       81.3% |         85.4% |             79.6% |          76.2%
+West Ham vs Fulham             |       38.0% |         46.4% |             41.3% |          41.3%
+Chelsea vs Aston Villa         |       39.5% |         40.5% |             46.7% |          53.8%
+Sunderland vs Leeds            |       33.1% |         48.8% |             34.3% |          32.5%
+Crystal Palace vs Tottenham    |       49.2% |         59.1% |             40.2% |          34.2%
+====================================================================================================
+Note: 'Home%' is the estimated probability of a Home Win.
+      Draw probability is implicit in the remaining % (along with Away Win).

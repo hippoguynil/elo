@@ -1,165 +1,81 @@
-
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
+import math
 from football_models import FootballSystem
 
-# Configuration
-INITIAL_BANKROLL = 1000.0
-STAKE_SIZE = 10.0 # Fixed stake
-VALUE_THRESHOLD = 0.05 # Only bet if model_prob > implied_prob + 0.05
-
-def run_simulation(start_date='2010-08-01'):
-    """
-    Runs a betting simulation using the FootballSystem models.
-    """
-    print(f"Starting Simulation from {start_date}...")
+def simulate_betting_by_div(df, model_type='glicko', min_edge=0.03):
+    system = FootballSystem()
+    system.reset_state(keep_ratings=False)
     
-    # Initialize System with default (calibrated) parameters
-    fs = FootballSystem()
+    # Trackers
+    stats = {} # div -> {staked, returned, bets}
     
-    # Load Data directly to filter for odds availability
-    df = fs.load_and_prep_data()
-    
-    # Filter for matches with Odds
-    # We rely on B365H, B365D, B365A
-    mask_odds = df['B365H'].notna() & df['B365D'].notna() & df['B365A'].notna()
-    
-    # Filter for date (don't bet on early training data, let models warm up)
-    mask_date = df['Date'] >= pd.to_datetime(start_date)
-    
-    # We iterate through ALL data to update ratings, but only BET on valid rows
-    print(f"Total matches in dataset: {len(df)}")
-    
-    # Stats tracking
-    bankroll = {'elo': INITIAL_BANKROLL, 'glicko': INITIAL_BANKROLL, 'trueskill': INITIAL_BANKROLL, 'poisson': INITIAL_BANKROLL}
-    bets_made = {'elo': 0, 'glicko': 0, 'trueskill': 0, 'poisson': 0}
-    bets_won = {'elo': 0, 'glicko': 0, 'trueskill': 0, 'poisson': 0}
-    history = []
-    
+    print(f"Propagating and betting match-by-match (Edge > {min_edge:.0%})...")
     for idx, row in df.iterrows():
-        match_date = row['Date']
-        home = row['HomeTeam']
-        away = row['AwayTeam']
+        home, away = row['HomeTeam'], row['AwayTeam']
         result = row['FTR']
+        match_date = row['Date']
+        div = row['Div']
         
-        # Odds
-        odds_h = row['B365H']
-        odds_d = row['B365D']
-        odds_a = row['B365A']
+        if div not in stats: stats[div] = {'staked': 0.0, 'returned': 0.0, 'bets': 0}
         
-        # Features for Updates
-        # (Assuming FS handles date tracking internally if we were using its run_training, 
-        # but here we must manually handle time-dependency if we want it perfect.
-        # However, for simplicity let's rely on standard updates or minimal time-passing if accessible.
-        # Making the manual loop robust for time-features:
-        
-        last_date_h = fs.teams_last_date.get(home, match_date)
-        last_date_a = fs.teams_last_date.get(away, match_date)
-        delta_days_h = max(0, (match_date - last_date_h).days)
-        delta_days_a = max(0, (match_date - last_date_a).days)
-        
-        fthg = row['FTHG']
-        ftag = row['FTAG']
-        
-        # 1. PREDICT
-        # Get Current Ratings
-        e_h, e_a = fs._get_team(home, 'elo'), fs._get_team(away, 'elo')
-        g_h, g_a = fs._get_team(home, 'glicko'), fs._get_team(away, 'glicko')
-        t_h, t_a = fs._get_team(home, 'ts'), fs._get_team(away, 'ts')
-        p_h, p_a = fs._get_team(home, 'poisson'), fs._get_team(away, 'poisson')
-        
-        # Calculate Probabilities (Home Win)
-        # Note: Models predict Home Win vs (Draw+Away). 
-        # Bet365 Implied Probability for Home Win = 1 / OddsH
-        
-        prob_e = fs.elo_model.predict_win_prob(e_h, e_a)
-        prob_g = fs.glicko_model.predict_win_prob(g_h, g_a)
-        prob_t = fs.ts_model.predict_win_prob(t_h, t_a)
-        prob_p = fs.poisson_model.predict_win_prob(p_h, p_a)
-        
-        # 2. BET
-        if mask_odds[idx] and mask_date[idx]:
-            implied_h = 1.0 / odds_h
-            
-            # Simple Strategy: Value Bet on Home Win
-            # If Model Prob > Implied + Threshold
-            
-            # Elo
-            if prob_e > implied_h + VALUE_THRESHOLD:
-                bets_made['elo'] += 1
-                if result == 'H':
-                    profit = STAKE_SIZE * (odds_h - 1)
-                    bankroll['elo'] += profit
-                    bets_won['elo'] += 1
-                else:
-                    bankroll['elo'] -= STAKE_SIZE
-            
-            # Glicko
-            if prob_g > implied_h + VALUE_THRESHOLD:
-                bets_made['glicko'] += 1
-                if result == 'H':
-                    profit = STAKE_SIZE * (odds_h - 1)
-                    bankroll['glicko'] += profit
-                    bets_won['glicko'] += 1
-                else:
-                    bankroll['glicko'] -= STAKE_SIZE
+        # 1. Place Bet
+        if match_date >= pd.to_datetime('2016-01-01'):
+            has_odds = not (pd.isna(row['AvgH']) or pd.isna(row['AvgD']) or pd.isna(row['AvgA']))
+            if has_odds:
+                odd_h, odd_d, odd_a = row['AvgH'], row['AvgD'], row['AvgA']
+                total_p = (1/odd_h + 1/odd_d + 1/odd_a)
+                implied_h = (1/odd_h) / total_p
+                
+                preds = system.predict_match(home, away)
+                model_p = preds[model_type]['prob_home_win']
+                edge = model_p - implied_h
+                
+                if edge > min_edge:
+                    stats[div]['staked'] += 1.0
+                    stats[div]['bets'] += 1
+                    if result == 'H':
+                        stats[div]['returned'] += odd_h
 
-            # TrueSkill
-            if prob_t > implied_h + VALUE_THRESHOLD:
-                bets_made['trueskill'] += 1
-                if result == 'H':
-                    profit = STAKE_SIZE * (odds_h - 1)
-                    bankroll['trueskill'] += profit
-                    bets_won['trueskill'] += 1
-                else:
-                    bankroll['trueskill'] -= STAKE_SIZE
-
-            # Poisson
-            if prob_p > implied_h + VALUE_THRESHOLD:
-                bets_made['poisson'] += 1
-                if result == 'H':
-                    profit = STAKE_SIZE * (odds_h - 1)
-                    bankroll['poisson'] += profit
-                    bets_won['poisson'] += 1
-                else:
-                    bankroll['poisson'] -= STAKE_SIZE
-                    
-            if idx % 1000 == 0:
-                history.append({
-                    'date': match_date,
-                    'elo': bankroll['elo'],
-                    'glicko': bankroll['glicko'],
-                    'ts': bankroll['trueskill'],
-                    'poisson': bankroll['poisson']
-                })
-
-        # 3. UPDATE MODELS
+        # 2. Update System
         if result == 'H': score = 1.0
-        else: score = 0.0
+        elif result == 'A': score = 0.0
+        else: score = 0.5
         
-        new_e_h, new_e_a = fs.elo_model.update(e_h, e_a, score, delta_days_home=delta_days_h, delta_days_away=delta_days_a)
-        new_g_h, new_g_a = fs.glicko_model.update(g_h, g_a, score, delta_days_home=delta_days_h, delta_days_away=delta_days_a)
-        new_t_h, new_t_a = fs.ts_model.update(t_h, t_a, score, delta_days_home=delta_days_h, delta_days_away=delta_days_a)
-        new_p_h, new_p_a = fs.poisson_model.update(p_h, p_a, score, home_goals=fthg, away_goals=ftag)
+        last_date_h = system.teams_last_date.get(home, match_date)
+        last_date_a = system.teams_last_date.get(away, match_date)
+        delta_h = max(0, (match_date - last_date_h).days) if last_date_h else 0
+        delta_a = max(0, (match_date - last_date_a).days) if last_date_a else 0
         
-        fs._set_team(home, 'elo', new_e_h)
-        fs._set_team(away, 'elo', new_e_a)
-        fs._set_team(home, 'glicko', new_g_h)
-        fs._set_team(away, 'glicko', new_g_a)
-        fs._set_team(home, 'ts', new_t_h)
-        fs._set_team(away, 'ts', new_t_a)
-        fs._set_team(home, 'poisson', new_p_h)
-        fs._set_team(away, 'poisson', new_p_a)
+        e_h, e_a = system._get_team(home, 'elo'), system._get_team(away, 'elo')
+        g_h, g_a = system._get_team(home, 'glicko'), system._get_team(away, 'glicko')
+        t_h, t_a = system._get_team(home, 'ts'), system._get_team(away, 'ts')
+        p_h, p_a = system._get_team(home, 'poisson'), system._get_team(away, 'poisson')
+
+        new_e_h, new_e_a = system.elo_model.update(e_h, e_a, score, delta_days_home=delta_h, delta_days_away=delta_a)
+        new_g_h, new_g_a = system.glicko_model.update(g_h, g_a, score, delta_days_home=delta_h, delta_days_away=delta_a)
+        new_t_h, new_t_a = system.ts_model.update(t_h, t_a, score, delta_days_home=delta_h, delta_days_away=delta_a)
+        new_p_h, new_p_a = system.poisson_model.update(p_h, p_a, score, home_goals=row['FTHG'], away_goals=row['FTAG'])
         
-        fs.teams_last_date[home] = match_date
-        fs.teams_last_date[away] = match_date
-        
-    print("\n--- Simulation Results ---")
-    for model in ['elo', 'glicko', 'trueskill', 'poisson']:
-        roi = ((bankroll[model] - INITIAL_BANKROLL) / (bets_made[model] * STAKE_SIZE)) * 100 if bets_made[model] > 0 else 0
-        win_rate = (bets_won[model] / bets_made[model]) * 100 if bets_made[model] > 0 else 0
-        print(f"{model.upper()}: Bets: {bets_made[model]}, Bankroll: {bankroll[model]:.2f}, ROI: {roi:.2f}%, Win Rate: {win_rate:.2f}%")
+        system._set_team(home, 'elo', new_e_h)
+        system._set_team(away, 'elo', new_e_a)
+        system._set_team(home, 'glicko', new_g_h)
+        system._set_team(away, 'glicko', new_g_a)
+        system._set_team(home, 'ts', new_t_h)
+        system._set_team(away, 'ts', new_t_a)
+        system._set_team(home, 'poisson', new_p_h)
+        system._set_team(away, 'poisson', new_p_a)
+        system.teams_last_date[home] = match_date
+        system.teams_last_date[away] = match_date
+
+    print("\n--- RESULTS BY DIVISION (2016-2025) ---")
+    for div, s in stats.items():
+        if s['staked'] > 0:
+            roi = (s['returned'] - s['staked']) / s['staked']
+            print(f"Division: {div:<3} | Bets: {s['bets']:<5} | ROI: {roi:>+7.2%}")
 
 if __name__ == "__main__":
-    run_simulation()
+    df = pd.read_csv("data/all_data.csv")
+    df['Date'] = pd.to_datetime(df['Date'])
+    df = df.sort_values('Date')
+    simulate_betting_by_div(df, min_edge=0.05)

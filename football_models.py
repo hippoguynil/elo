@@ -36,7 +36,7 @@ TS_HOME_ADVANTAGE = -1.0 # Negative calibrated value
 # --- Poisson Defaults ---
 # Attack/Defense ratings usually center around 1.0 (multiplicative) or 0.0 (additive log)
 # We will use additive log-lambda formulation.
-POISSON_LEARNING_RATE = 0.001
+POISSON_LEARNING_RATE = 0.005
 POISSON_HOME_ADVANTAGE = 0.20 # Log-scale additive (corresponds to e^0.2 ~ 1.22x goals for home)
 POISSON_DECAY = 0.00005 # Decay toward mean per day? Or variance inflation? SGD usually decays weights.
 
@@ -606,6 +606,15 @@ class FootballSystem:
     def _set_team(self, name, model_type, rating):
         getattr(self, f"teams_{model_type}")[name] = rating
 
+    def reset_state(self, keep_ratings=True):
+        """Clears match history state, optionally keeping the learned ratings."""
+        self.teams_last_date = {}
+        if not keep_ratings:
+            self.teams_elo = {}
+            self.teams_glicko = {}
+            self.teams_ts = {}
+            self.teams_poisson = {}
+
     def load_and_prep_data(self):
         df = pd.read_csv(self.data_path)
         # Ensure date sorting
@@ -623,17 +632,15 @@ class FootballSystem:
         # We need individual model losses. Refactoring slightly to track e_loss, g_loss, t_loss.
         return self._final_losses 
 
-    def run_training(self, silent=False):
+    def run_training(self, silent=False, direction='forward'):
         """Iterates through all matches and updates ratings."""
-        if not silent:
-            print("Loading data...")
-            # df = self.load_and_prep_data() # Optim: Don't reload every time if checking repeatedly, but OS cache helps.
-        
-        # For simplicity in this tool edit, I will stick to the existing structure 
-        # but add trackers for individual model losses.
+        self.reset_state(keep_ratings=True) # Reset time deltas for new pass
         
         df = self.load_and_prep_data()
-        if not silent: print(f"Processing {len(df)} matches...")
+        if direction == 'backward':
+            df = df.iloc[::-1]
+            
+        if not silent: print(f"Processing {len(df)} matches ({direction})...")
         
         
         loss_e = 0
@@ -738,13 +745,31 @@ class FootballSystem:
         avg_loss_p = loss_p / count
         
         if not silent:
-            print("Training complete.")
+            print(f"Training ({direction}) complete.")
             print(f"Avg Log Loss - Elo: {avg_loss_e:.4f} | Acc: {correct_e/count:.2%}")
             print(f"Avg Log Loss - Glicko2: {avg_loss_g:.4f} | Acc: {correct_g/count:.2%}")
             print(f"Avg Log Loss - TrueSkill: {avg_loss_t:.4f} | Acc: {correct_t/count:.2%}")
             print(f"Avg Log Loss - Poisson: {avg_loss_p:.4f} | Acc: {correct_p/count:.2%}")
             
         return avg_loss_e, avg_loss_g, avg_loss_t, avg_loss_p
+
+    def calibrate(self, iterations=2, silent=False):
+        """
+        Performs iterative forward-backward passes to establish better starting ratings.
+        This removes initialization bias in the first few years of the dataset.
+        """
+        if not silent: print(f"Starting calibration (iterations={iterations})...")
+        
+        for i in range(iterations):
+            if not silent: print(f"\n--- Calibration Loop {i+1} ---")
+            # Step A: Forward pass (standard)
+            self.run_training(silent=True, direction='forward')
+            # Step B: Backward pass (spreads learned strength back to the start)
+            self.run_training(silent=True, direction='backward')
+            
+        # Final forward pass to set final results
+        if not silent: print("\n--- Final Pass ---")
+        return self.run_training(silent=silent, direction='forward')
 
 
     def predict_match(self, home_team, away_team):
